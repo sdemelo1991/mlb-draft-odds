@@ -1,6 +1,6 @@
-streamlit==1.35.0
-requests==2.31.0
-pandas==2.1.0
-urllib3==2.1.0
-playwright==1.40.0
-matplotlib==3.8.2
+streamlit==1.41.1
+requests==2.32.3
+pandas==2.2.3
+urllib3==2.2.3
+playwright==1.48.0
+matplotlib==3.10.1
