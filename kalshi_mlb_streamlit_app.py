@@ -168,8 +168,6 @@ def fetch_competitor_odds():
 
     # No cache and can't scrape
     return None, "No competitor odds available. Run scraper locally: python fetch_competitor_odds_mlb.py"
-    except Exception as e:
-        return None, str(e)
 
 @st.cache_data(ttl=3600)
 def get_orderbook(api_key, ticker):
