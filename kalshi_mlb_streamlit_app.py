@@ -186,12 +186,14 @@ def get_orderbook(api_key, ticker):
 with st.sidebar:
     st.title("⚾ MLB Draft Tool")
     st.divider()
-    api_key = st.text_input(
-        "Kalshi API Key",
-        value=st.session_state.get("api_key", ""),
-        type="password",
-        help="kalshi.com → Settings → API",
-    )
+    api_key = st.secrets.get("kalshi_api_key", st.session_state.get("api_key", ""))
+    if not api_key:
+        api_key = st.text_input(
+            "Kalshi API Key",
+            value="",
+            type="password",
+            help="kalshi.com → Settings → API",
+        )
     if api_key:
         st.session_state["api_key"] = api_key
 
