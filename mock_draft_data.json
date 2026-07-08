@@ -1,0 +1,711 @@
+{
+  "mocks": {
+    "Law": {
+      "date": "7/6",
+      "affiliation": "The Athletic",
+      "logo_url": "https://www.google.com/s2/favicons?domain=theathletic.com&sz=32"
+    },
+    "Kiley": {
+      "date": "6/18",
+      "affiliation": "ESPN",
+      "logo_url": "https://www.google.com/s2/favicons?domain=espn.com&sz=32"
+    },
+    "Callis": {
+      "date": "6/18",
+      "affiliation": "MLB.com",
+      "logo_url": "https://www.google.com/s2/favicons?domain=mlb.com&sz=32"
+    },
+    "Doyle": {
+      "date": "7/2",
+      "affiliation": "Future Stars Series",
+      "logo_url": "https://www.google.com/s2/favicons?domain=futurestarsseries.com&sz=32"
+    },
+    "Collazo": {
+      "date": "7/8",
+      "affiliation": "Baseball America",
+      "logo_url": "https://www.google.com/s2/favicons?domain=baseballamerica.com&sz=32"
+    },
+    "Mayo": {
+      "date": "7/2",
+      "affiliation": "MLB",
+      "logo_url": "https://www.google.com/s2/favicons?domain=mlb.com&sz=32"
+    }
+  },
+  "players": [
+    {
+      "pick": "1",
+      "name": "Grady Emerson",
+      "picks": {
+        "Law": "1",
+        "Kiley": "2",
+        "Callis": "3",
+        "Doyle": "1",
+        "Collazo": "2",
+        "Mayo": "2"
+      },
+      "avg": 1.8,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "pick": "2",
+      "name": "Roch Cholowsky",
+      "picks": {
+        "Law": "3",
+        "Kiley": "1",
+        "Callis": "1",
+        "Doyle": "4",
+        "Collazo": "1",
+        "Mayo": "1"
+      },
+      "avg": 1.8,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "pick": "3",
+      "name": "Vahn Lackey",
+      "picks": {
+        "Law": "2",
+        "Kiley": "3",
+        "Callis": "2",
+        "Doyle": "3",
+        "Collazo": "3",
+        "Mayo": "3"
+      },
+      "avg": 2.7,
+      "min": 2,
+      "max": 3
+    },
+    {
+      "pick": "4",
+      "name": "Jacob Lombard",
+      "picks": {
+        "Law": "4",
+        "Kiley": "5",
+        "Callis": "4",
+        "Doyle": "6",
+        "Collazo": "6",
+        "Mayo": "4"
+      },
+      "avg": 4.5,
+      "min": 4,
+      "max": 6
+    },
+    {
+      "pick": "5",
+      "name": "Jackson Flora",
+      "picks": {
+        "Law": "5",
+        "Kiley": "4",
+        "Callis": "6",
+        "Doyle": "5",
+        "Collazo": "5",
+        "Mayo": "6"
+      },
+      "avg": 5.2,
+      "min": 4,
+      "max": 6
+    },
+    {
+      "pick": "6",
+      "name": "Eric Booth Jr.",
+      "picks": {
+        "Law": "7",
+        "Kiley": "6",
+        "Callis": "5",
+        "Doyle": "7",
+        "Collazo": "4",
+        "Mayo": "5"
+      },
+      "avg": 6.2,
+      "min": 5,
+      "max": 7
+    },
+    {
+      "pick": "7",
+      "name": "Drew Burress",
+      "picks": {
+        "Law": "8",
+        "Kiley": "7",
+        "Callis": "7",
+        "Doyle": "9",
+        "Collazo": "7",
+        "Mayo": "7"
+      },
+      "avg": 7.3,
+      "min": 6,
+      "max": 9
+    },
+    {
+      "pick": "8",
+      "name": "Tyler Bell",
+      "picks": {
+        "Law": "10",
+        "Kiley": "8",
+        "Callis": "16",
+        "Doyle": "2",
+        "Collazo": "8",
+        "Mayo": "13"
+      },
+      "avg": 9.5,
+      "min": 2,
+      "max": 16
+    },
+    {
+      "pick": "9",
+      "name": "Ryder Helfrick",
+      "picks": {
+        "Law": "18",
+        "Kiley": "9",
+        "Callis": "8",
+        "Doyle": "10",
+        "Collazo": "13",
+        "Mayo": "8"
+      },
+      "avg": 11.0,
+      "min": 8,
+      "max": 18
+    },
+    {
+      "pick": "10",
+      "name": "Derek Curiel",
+      "picks": {
+        "Law": "12",
+        "Kiley": "15",
+        "Callis": "10",
+        "Doyle": "8",
+        "Collazo": "10",
+        "Mayo": "12"
+      },
+      "avg": 11.2,
+      "min": 8,
+      "max": 15
+    },
+    {
+      "pick": "11",
+      "name": "Gio Rojas",
+      "picks": {
+        "Law": "9",
+        "Kiley": "21",
+        "Callis": "9",
+        "Doyle": "16",
+        "Collazo": "9",
+        "Mayo": "9"
+      },
+      "avg": 12.2,
+      "min": 9,
+      "max": 21
+    },
+    {
+      "pick": "12",
+      "name": "Chris Hacopian",
+      "picks": {
+        "Law": "11",
+        "Kiley": "19",
+        "Callis": "11",
+        "Doyle": "12",
+        "Collazo": "14",
+        "Mayo": "14"
+      },
+      "avg": 13.5,
+      "min": 11,
+      "max": 19
+    },
+    {
+      "pick": "13",
+      "name": "Jared Grindlinger",
+      "picks": {
+        "Law": "16",
+        "Kiley": "13",
+        "Callis": "19",
+        "Doyle": "11",
+        "Collazo": "19",
+        "Mayo": "16"
+      },
+      "avg": 14.3,
+      "min": 11,
+      "max": 19
+    },
+    {
+      "pick": "14",
+      "name": "Justin Lebron",
+      "picks": {
+        "Law": "14",
+        "Kiley": "10",
+        "Callis": "17",
+        "Doyle": "17",
+        "Collazo": "17",
+        "Mayo": "15"
+      },
+      "avg": 15.0,
+      "min": 10,
+      "max": 17
+    },
+    {
+      "pick": "15",
+      "name": "Liam Peterson",
+      "picks": {
+        "Law": "13",
+        "Kiley": "11",
+        "Callis": "12",
+        "Doyle": "23",
+        "Collazo": "16",
+        "Mayo": "17"
+      },
+      "avg": 15.3,
+      "min": 11,
+      "max": 23
+    },
+    {
+      "pick": "16",
+      "name": "Cameron Flukey",
+      "picks": {
+        "Law": "22",
+        "Kiley": "12",
+        "Callis": "15",
+        "Doyle": "25",
+        "Collazo": "25",
+        "Mayo": "23"
+      },
+      "avg": 18.2,
+      "min": 12,
+      "max": 25
+    },
+    {
+      "pick": "17",
+      "name": "Trevor Condon",
+      "picks": {
+        "Law": "26",
+        "Kiley": "14",
+        "Callis": "18",
+        "Doyle": "18",
+        "Collazo": "15",
+        "Mayo": "18"
+      },
+      "avg": 18.7,
+      "min": 14,
+      "max": 26
+    },
+    {
+      "pick": "18",
+      "name": "Ace Reese",
+      "picks": {
+        "Law": "25",
+        "Kiley": "25",
+        "Callis": "14",
+        "Doyle": "14",
+        "Collazo": "11",
+        "Mayo": "11"
+      },
+      "avg": 16.7,
+      "min": 11,
+      "max": 25
+    },
+    {
+      "pick": "19",
+      "name": "AJ Gracia",
+      "picks": {
+        "Law": "24",
+        "Kiley": null,
+        "Callis": "13",
+        "Doyle": "13",
+        "Collazo": "18",
+        "Mayo": "10"
+      },
+      "avg": 15.0,
+      "min": 10,
+      "max": 24
+    },
+    {
+      "pick": "20",
+      "name": "Bo Lowrance",
+      "picks": {
+        "Law": "15",
+        "Kiley": "24",
+        "Callis": "20",
+        "Doyle": "31",
+        "Collazo": "21",
+        "Mayo": "27"
+      },
+      "avg": 22.8,
+      "min": 15,
+      "max": 31
+    },
+    {
+      "pick": "21",
+      "name": "Mason Edwards",
+      "picks": {
+        "Law": "6",
+        "Kiley": "23",
+        "Callis": "37",
+        "Doyle": "15",
+        "Collazo": "12",
+        "Mayo": "26"
+      },
+      "avg": 21.7,
+      "min": 6,
+      "max": 37
+    },
+    {
+      "pick": "22",
+      "name": "Sawyer Strosnider",
+      "picks": {
+        "Law": null,
+        "Kiley": null,
+        "Callis": "23",
+        "Doyle": "21",
+        "Collazo": "26",
+        "Mayo": "19"
+      },
+      "avg": 20.5,
+      "min": 19,
+      "max": 23
+    },
+    {
+      "pick": "23",
+      "name": "Daniel Jackson",
+      "picks": {
+        "Law": "17",
+        "Kiley": "17",
+        "Callis": "35",
+        "Doyle": "27",
+        "Collazo": "23",
+        "Mayo": "28"
+      },
+      "avg": 26.8,
+      "min": 17,
+      "max": 37
+    },
+    {
+      "pick": "24",
+      "name": "Hunter Dietz",
+      "picks": {
+        "Law": null,
+        "Kiley": null,
+        "Callis": "25",
+        "Doyle": null,
+        "Collazo": "24",
+        "Mayo": "20"
+      },
+      "avg": 25.7,
+      "min": 20,
+      "max": 32
+    },
+    {
+      "pick": "25",
+      "name": "Tegan Kuhns",
+      "picks": {
+        "Law": null,
+        "Kiley": null,
+        "Callis": "24",
+        "Doyle": "28",
+        "Collazo": "24",
+        "Mayo": "24"
+      },
+      "avg": 26.2,
+      "min": 24,
+      "max": 29
+    },
+    {
+      "pick": "26",
+      "name": "Cade Townsend",
+      "picks": {
+        "Law": null,
+        "Kiley": "18",
+        "Callis": "36",
+        "Doyle": "26",
+        "Collazo": "26",
+        "Mayo": "37"
+      },
+      "avg": 28.6,
+      "min": 18,
+      "max": 37
+    },
+    {
+      "pick": "27",
+      "name": "Cole Carlon",
+      "picks": {
+        "Law": "28",
+        "Kiley": "20",
+        "Callis": "31",
+        "Doyle": "39",
+        "Collazo": "27",
+        "Mayo": "30"
+      },
+      "avg": 29.6,
+      "min": 20,
+      "max": 39
+    },
+    {
+      "pick": "28",
+      "name": "Cole Prosek",
+      "picks": {
+        "Law": null,
+        "Kiley": "35",
+        "Callis": "21",
+        "Doyle": null,
+        "Collazo": "35",
+        "Mayo": "33"
+      },
+      "avg": 28.5,
+      "min": 21,
+      "max": 35
+    },
+    {
+      "pick": "29",
+      "name": "Zion Rose",
+      "picks": {
+        "Law": "23",
+        "Kiley": null,
+        "Callis": "28",
+        "Doyle": "22",
+        "Collazo": "29",
+        "Mayo": "25"
+      },
+      "avg": 25.2,
+      "min": 22,
+      "max": 28
+    },
+    {
+      "pick": "30",
+      "name": "Carson Bolemon",
+      "picks": {
+        "Law": "21",
+        "Kiley": null,
+        "Callis": null,
+        "Doyle": "29",
+        "Collazo": "31",
+        "Mayo": "21"
+      },
+      "avg": 25.5,
+      "min": 21,
+      "max": 31
+    },
+    {
+      "pick": "31",
+      "name": "Logan Reddemann",
+      "picks": {
+        "Law": null,
+        "Kiley": "16",
+        "Callis": "26",
+        "Doyle": "19",
+        "Collazo": "30",
+        "Mayo": "32"
+      },
+      "avg": 23.2,
+      "min": 16,
+      "max": 32
+    },
+    {
+      "pick": "32",
+      "name": "Brody Bumila",
+      "picks": {
+        "Law": null,
+        "Kiley": "27",
+        "Callis": "30",
+        "Doyle": null,
+        "Collazo": "32",
+        "Mayo": "29"
+      },
+      "avg": 28.7,
+      "min": 27,
+      "max": 30
+    },
+    {
+      "pick": "33",
+      "name": "Tyler Rabe",
+      "picks": {
+        "Law": "20",
+        "Kiley": null,
+        "Callis": "39",
+        "Doyle": null,
+        "Collazo": "20",
+        "Mayo": null
+      },
+      "avg": 27.7,
+      "min": 20,
+      "max": 39
+    },
+    {
+      "pick": "34",
+      "name": "Aiden Robbins",
+      "picks": {
+        "Law": null,
+        "Kiley": null,
+        "Callis": "27",
+        "Doyle": null,
+        "Collazo": "27",
+        "Mayo": "40"
+      },
+      "avg": 31.3,
+      "min": 27,
+      "max": 40
+    },
+    {
+      "pick": "35",
+      "name": "Aiden Ruiz",
+      "picks": {
+        "Law": null,
+        "Kiley": null,
+        "Callis": null,
+        "Doyle": "34",
+        "Collazo": "22",
+        "Mayo": "22"
+      },
+      "avg": 26.0,
+      "min": 22,
+      "max": 34
+    },
+    {
+      "pick": "36",
+      "name": "Coleman Borthwick",
+      "picks": {
+        "Law": null,
+        "Kiley": null,
+        "Callis": "34",
+        "Doyle": null,
+        "Collazo": "28",
+        "Mayo": "35"
+      },
+      "avg": 30.0,
+      "min": 21,
+      "max": 35
+    },
+    {
+      "pick": "37",
+      "name": "Tyler Spangler",
+      "picks": {
+        "Law": null,
+        "Kiley": "22",
+        "Callis": "22",
+        "Doyle": null,
+        "Collazo": null,
+        "Mayo": null
+      },
+      "avg": 22.0,
+      "min": 22,
+      "max": 22
+    },
+    {
+      "pick": "38",
+      "name": "Taj Marchand",
+      "picks": {
+        "Law": null,
+        "Kiley": null,
+        "Callis": null,
+        "Doyle": "33",
+        "Collazo": "33",
+        "Mayo": "31"
+      },
+      "avg": 32.3,
+      "min": 31,
+      "max": 33
+    },
+    {
+      "pick": "39",
+      "name": "Logan Schmidt",
+      "picks": {
+        "Law": null,
+        "Kiley": null,
+        "Callis": null,
+        "Doyle": null,
+        "Collazo": "32",
+        "Mayo": "34"
+      },
+      "avg": 32.0,
+      "min": 30,
+      "max": 34
+    },
+    {
+      "pick": "40",
+      "name": "Landon Thome",
+      "picks": {
+        "Law": null,
+        "Kiley": null,
+        "Callis": "33",
+        "Doyle": null,
+        "Collazo": "34",
+        "Mayo": null
+      },
+      "avg": 33.5,
+      "min": 33,
+      "max": 34
+    },
+    {
+      "pick": "41",
+      "name": "Archer Horn",
+      "picks": {
+        "Law": "29",
+        "Kiley": null,
+        "Callis": null,
+        "Doyle": "32",
+        "Collazo": "29",
+        "Mayo": null
+      },
+      "avg": 30.5,
+      "min": 29,
+      "max": 32
+    },
+    {
+      "pick": "42",
+      "name": "Chris Rembert",
+      "picks": {
+        "Law": "19",
+        "Kiley": null,
+        "Callis": null,
+        "Doyle": null,
+        "Collazo": null,
+        "Mayo": null
+      },
+      "avg": 19.0,
+      "min": 19,
+      "max": 19
+    },
+    {
+      "pick": "43",
+      "name": "Eric Becker",
+      "picks": {
+        "Law": null,
+        "Kiley": null,
+        "Callis": null,
+        "Doyle": "37",
+        "Collazo": "40",
+        "Mayo": "31"
+      },
+      "avg": 34.0,
+      "min": 31,
+      "max": 37
+    },
+    {
+      "pick": "44",
+      "name": "Logan Hughes",
+      "picks": {
+        "Law": "27",
+        "Kiley": null,
+        "Callis": null,
+        "Doyle": null,
+        "Collazo": "28",
+        "Mayo": null
+      },
+      "avg": 27.0,
+      "min": 27,
+      "max": 27
+    },
+    {
+      "pick": "45",
+      "name": "Jack Slightom",
+      "picks": {
+        "Law": "30",
+        "Kiley": null,
+        "Callis": null,
+        "Doyle": null,
+        "Collazo": null,
+        "Mayo": null
+      },
+      "avg": 30.0,
+      "min": 30,
+      "max": 30
+    }
+  ]
+}
