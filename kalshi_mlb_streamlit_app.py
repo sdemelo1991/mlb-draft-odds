@@ -45,8 +45,6 @@ def _heartbeat():
         pass
     return len(sessions)
 
-_active_users = _heartbeat()
-
 st.set_page_config(
     page_title="MLB Draft Tool",
     page_icon="⚾",
@@ -184,6 +182,8 @@ def get_orderbook(api_key, ticker):
     return {}
 
 # ── sidebar ────────────────────────────────────────────────────────────────────
+
+_active_users = _heartbeat()
 
 with st.sidebar:
     st.title("⚾ MLB Draft Tool")
@@ -586,7 +586,7 @@ with tab_alerts:
 PICK_ORDER = ["#1 Overall", "#2 Overall", "#3 Overall", "#4 Overall", "#5 Overall", "Top 3 Pick", "Top 5 Pick", "Top 10 Pick"]
 OVERALL_PICKS = ["#1 Overall", "#2 Overall", "#3 Overall", "#4 Overall", "#5 Overall"]
 TOP_PICKS = ["Top 3 Pick", "Top 5 Pick", "Top 10 Pick"]
-BOOKS_ORDER = ["Kalshi", "FanDuel", "Bookmaker", "DraftKings", "Caesars", "Bet365", "Kambi", "Betano", "Bet99", "BetMGM"]
+BOOKS_ORDER = ["Kalshi", "FanDuel", "Bookmaker", "DraftKings", "Caesars", "Kambi", "Betano", "Bet99", "BetMGM"]
 
 # Maps Kalshi event titles → PICK_ORDER labels
 KALSHI_EVENT_TO_PICK = {
@@ -615,7 +615,6 @@ BOOK_CMAPS = {
     "FanDuel":       _brand_cmap("fd",      "#e5f2ff", "#1493ff"),  # FanDuel blue
     "DraftKings":    _brand_cmap("dk",      "#edfae4", "#53d337"),  # DraftKings green
     "BetMGM":        _brand_cmap("mgm",     "#fff8e1", "#c8922a"),  # BetMGM gold
-    "Bet365":        _brand_cmap("b365",    "#ffe0e0", "#fbb034"),  # Bet365 orange
     "Betano":        _brand_cmap("btn",     "#fff3e0", "#e65100"),  # Betano orange
     "Bet99":         _brand_cmap("b99",     "#f3e5f5", "#7b1fa2"),  # Bet99 purple
     "Bookmaker":     _brand_cmap("bm",      "#fdecea", "#e53935"),  # Bookmaker red
@@ -628,7 +627,6 @@ BOOK_ACCENT = {
     "FanDuel":       "#0070d1",  # FanDuel dark blue
     "DraftKings":    "#3aaa1e",  # DraftKings dark green
     "BetMGM":        "#a67420",  # BetMGM dark gold
-    "Bet365":        "#d4791e",  # Bet365 dark orange
     "Betano":        "#bf360c",  # Betano dark orange
     "Bet99":         "#4a148c",  # Bet99 dark purple
     "Bookmaker":     "#b71c1c",  # Bookmaker dark red
