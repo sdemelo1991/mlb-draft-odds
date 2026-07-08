@@ -183,11 +183,8 @@ def get_orderbook(api_key, ticker):
 
 # ── sidebar ────────────────────────────────────────────────────────────────────
 
-_active_users = _heartbeat()
-
 with st.sidebar:
     st.title("⚾ MLB Draft Tool")
-    st.metric("Active Users", _active_users)
     st.divider()
     api_key = st.text_input(
         "Kalshi API Key",
