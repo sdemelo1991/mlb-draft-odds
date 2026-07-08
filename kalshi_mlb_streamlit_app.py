@@ -113,7 +113,7 @@ def get_markets_for_event(api_key, event_ticker):
     return r.json().get("markets", [])
 
 def fetch_competitor_odds():
-    """Run the multi-book odds fetcher with session + file-based caching."""
+    """Load competitor odds from cache. On Streamlit Cloud, only reads cache (doesn't scrape)."""
     import time
 
     # Check session cache first (current Streamlit session)
@@ -128,40 +128,46 @@ def fetch_competitor_odds():
     if os.path.exists(cache_file):
         try:
             cache_age = time.time() - os.path.getmtime(cache_file)
-            if cache_age < 3600:  # 1 hour
-                with open(cache_file) as f:
-                    cached = json.load(f)
-                    # Store in session cache
-                    st.session_state.comp_data_cached = cached
-                    st.session_state.comp_data_timestamp = time.time()
-                    return cached, f"(file cached {int(cache_age/60)}m ago)"
+            with open(cache_file) as f:
+                cached = json.load(f)
+                # Store in session cache
+                st.session_state.comp_data_cached = cached
+                st.session_state.comp_data_timestamp = time.time()
+                return cached, f"(cached {int(cache_age/60)}m ago)"
         except:
             pass
 
-    # Fetch fresh data
+    # Only try to scrape if we're NOT on Streamlit Cloud and script exists
     script = os.path.join(os.path.dirname(os.path.abspath(__file__)), "fetch_competitor_odds_mlb.py")
-    try:
-        result = subprocess.run(
-            [sys.executable, script],
-            capture_output=True, text=True, timeout=300
-        )
-        if result.returncode != 0:
-            return None, result.stderr.strip() or "fetch_competitor_odds_mlb.py failed"
-        raw = json.loads(result.stdout.strip())
-        # Support both old flat list and new dict format
-        if isinstance(raw, list):
-            raw = {"picks": raw, "ou": [], "h2h": []}
+    is_streamlit_cloud = "STREAMLIT_SERVER_HEADLESS" in os.environ
 
-        # Save to both caches
-        st.session_state.comp_data_cached = raw
-        st.session_state.comp_data_timestamp = time.time()
+    if not is_streamlit_cloud and os.path.exists(script):
         try:
-            with open(cache_file, 'w') as f:
-                json.dump(raw, f)
-        except:
-            pass
+            result = subprocess.run(
+                [sys.executable, script],
+                capture_output=True, text=True, timeout=300
+            )
+            if result.returncode == 0:
+                raw = json.loads(result.stdout.strip())
+                # Support both old flat list and new dict format
+                if isinstance(raw, list):
+                    raw = {"picks": raw, "ou": [], "h2h": []}
 
-        return raw, result.stderr.strip() or None
+                # Save to cache
+                st.session_state.comp_data_cached = raw
+                st.session_state.comp_data_timestamp = time.time()
+                try:
+                    with open(cache_file, 'w') as f:
+                        json.dump(raw, f)
+                except:
+                    pass
+
+                return raw, result.stderr.strip() or None
+        except Exception as e:
+            pass  # Fall through to "no cache" error
+
+    # No cache and can't scrape
+    return None, "No competitor odds available. Run scraper locally: python fetch_competitor_odds_mlb.py"
     except Exception as e:
         return None, str(e)
 
