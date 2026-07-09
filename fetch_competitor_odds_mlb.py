@@ -309,15 +309,10 @@ async def scrape_draftkings(page):
         # Using a broad query to get all MLB draft-related markets
         url = "https://sportsbook-nash.draftkings.com/sites/CA-ON-SB/api/sportscontent/controldata/league/leagueSubcategory/v1/markets"
 
-        # Map of subcategoryId → market info
-        # Individual picks
-        pick_subcategories = {
-            "11601": "#1",      # #1 Overall ✓
-            "15723": "#2",      # #2 Overall ✓
-            "15724": "#3",      # #3 Overall ✓
-            "15725": "#4",      # #4 Overall ✓
-            "15726": "#5",      # #5 Overall ✓
-        }
+        # Individual overall picks 1-5 are now all under subcategory 20066
+        # ("Pick Number"), returned as 5 markets: "... Number N Pick".
+        # (Previously split across 11601/15723-15726, which DK retired.)
+        PICK_SUBCATEGORY = "20066"
 
         # Alternative markets (Top 5, Top 10, O/U, H2H)
         other_markets = {
@@ -327,50 +322,61 @@ async def scrape_draftkings(page):
             "11605": "1st to Be Drafted",   # Head-to-head matchups
         }
 
-        for subcategory_id, pick_num in pick_subcategories.items():
-            params = {
-                "isBatchable": "false",
-                "templateVars": f"84240,{subcategory_id}",
-                "eventsQuery": f"$filter=leagueId eq '84240' AND clientMetadata/Subcategories/any(s: s/Id eq '{subcategory_id}')",
-                "marketsQuery": f"$filter=clientMetadata/subCategoryId eq '{subcategory_id}' AND tags/all(t: t ne 'SportcastBetBuilder')",
-                "include": "Events",
-                "entity": "events"
-            }
+        params = {
+            "isBatchable": "false",
+            "templateVars": f"84240,{PICK_SUBCATEGORY}",
+            "eventsQuery": f"$filter=leagueId eq '84240' AND clientMetadata/Subcategories/any(s: s/Id eq '{PICK_SUBCATEGORY}')",
+            "marketsQuery": f"$filter=clientMetadata/subCategoryId eq '{PICK_SUBCATEGORY}' AND tags/all(t: t ne 'SportcastBetBuilder')",
+            "include": "Events",
+            "entity": "events"
+        }
 
-            try:
-                resp = await page.request.get(url, params=params)
-                if resp.status == 200:
-                    data = await resp.json()
-                    selections = data.get('selections', [])
-                    logger.debug(f"DraftKings: {pick_num} Overall returned {len(selections)} selections")
+        try:
+            resp = await page.request.get(url, params=params)
+            if resp.status == 200:
+                data = await resp.json()
+                markets = data.get('markets', [])
+                selections = data.get('selections', [])
 
-                    for selection in selections:
-                        try:
-                            player_name = selection.get('label', '').strip()
-                            american_odds = selection.get('displayOdds', {}).get('american', '').strip()
+                # Map each market id → "#N Overall" by parsing "... Number N Pick"
+                market_label = {}
+                for mkt in markets:
+                    mname = mkt.get('name', '')
+                    mnum = re.search(r'Number\s+(\d+)\s+Pick', mname, re.IGNORECASE)
+                    if mnum:
+                        market_label[mkt.get('id')] = f"#{mnum.group(1)} Overall"
 
-                            if player_name and american_odds and len(player_name) > 2:
-                                american_odds = american_odds.replace('−', '-').replace('−', '-')
-                                implied_prob = american_to_implied(american_odds)
-                                if implied_prob:
-                                    implied = implied_prob * 100
-                                    picks.append({
-                                        "player": normalize_player(player_name),
-                                        "market": f"{pick_num} Overall",
-                                        "book": "DraftKings",
-                                        "implied": implied,
-                                    })
-                                    logger.debug(f"DraftKings: {pick_num} {player_name} {american_odds} = {implied:.1f}%")
-                        except Exception as e:
-                            logger.debug(f"DraftKings selection parse error: {e}")
-                else:
-                    logger.warning(f"DraftKings: API returned {resp.status} for {pick_num} Overall")
-            except Exception as e:
-                logger.warning(f"DraftKings: API request failed for {pick_num} Overall: {e}")
+                logger.debug(f"DraftKings: subcat {PICK_SUBCATEGORY} → {len(market_label)} pick markets, {len(selections)} selections")
 
-        logger.info(f"DraftKings: extracted {len(picks)} picks total")
+                for selection in selections:
+                    try:
+                        label = market_label.get(selection.get('marketId'))
+                        if not label:
+                            continue
+                        player_name = selection.get('label', '').strip()
+                        american_odds = selection.get('displayOdds', {}).get('american', '').strip()
+                        if not player_name or 'any other' in player_name.lower():
+                            continue
+                        if player_name and american_odds and len(player_name) > 2:
+                            american_odds = american_odds.replace('−', '-').replace('–', '-')
+                            implied_prob = american_to_implied(american_odds)
+                            if implied_prob:
+                                implied = implied_prob * 100
+                                picks.append({
+                                    "player": normalize_player(player_name),
+                                    "market": label,
+                                    "book": "DraftKings",
+                                    "implied": implied,
+                                })
+                                logger.debug(f"DraftKings: {label} {player_name} {american_odds} = {implied:.1f}%")
+                    except Exception as e:
+                        logger.debug(f"DraftKings selection parse error: {e}")
+            else:
+                logger.warning(f"DraftKings: API returned {resp.status} for pick markets")
+        except Exception as e:
+            logger.warning(f"DraftKings: API request failed for pick markets: {e}")
 
-        logger.info(f"DraftKings: Total picks extracted: {len(picks)}")
+        logger.info(f"DraftKings: extracted {len(picks)} overall picks (subcat {PICK_SUBCATEGORY})")
 
     except Exception as e:
         logger.warning(f"DraftKings picks scrape failed: {e}")
@@ -697,78 +703,134 @@ def scrape_bet99_graphql():
 
     return picks, ou, h2h
 
+BETMGM_FIXTURE_ID = "19771912"
+BETMGM_EVENT_URL = "https://www.on.betmgm.ca/en/sports/events/2026-mlb-draft-19771912"
+BETMGM_ORDINAL = {"1st": "#1 Overall", "2nd": "#2 Overall", "3rd": "#3 Overall",
+                  "4th": "#4 Overall", "5th": "#5 Overall"}
+
+def _bmgm_val(obj):
+    """BetMGM names are {'value': '...'} dicts. Return the string."""
+    if isinstance(obj, dict):
+        return obj.get("value", "")
+    return str(obj) if obj else ""
+
 async def scrape_betmgm(page):
-    """BetMGM — use expect_response() to capture fixture-view API (proven pattern)."""
-    picks = []
+    """BetMGM — capture x-bwin-accessid from network, then call the fixture-offers
+    CDS API directly with offerMapping=All to get every market (picks, Top 5/10,
+    O/U draft position, and H2H). Returns (picks, ou, h2h)."""
+    picks, ou, h2h = [], [], []
+    access_id = None
+
+    def on_response(response):
+        nonlocal access_id
+        url = response.url
+        if access_id is None and "x-bwin-accessid=" in url and "cds-api" in url:
+            start = url.find("x-bwin-accessid=") + len("x-bwin-accessid=")
+            end = url.find("&", start)
+            access_id = url[start:end] if end != -1 else url[start:]
 
     try:
-        logger.debug("BetMGM: navigating to MLB Draft page...")
+        logger.debug("BetMGM: navigating to capture access id...")
+        page.on("response", on_response)
+        await page.goto(BETMGM_EVENT_URL, timeout=45000, wait_until="domcontentloaded")
 
-        async with page.expect_response(
-            lambda r: "fixture-view" in r.url and r.status == 200,
-            timeout=45000
-        ) as response_promise:
-            await page.goto(
-                "https://www.on.betmgm.ca/en/sports/events/2026-mlb-draft-19771912",
-                timeout=30000,
-                wait_until="load"
-            )
-            logger.debug("BetMGM: waiting for fixture-view API response...")
-            resp = await response_promise
-            logger.debug(f"BetMGM: captured fixture-view response, parsing...")
+        # Poll briefly for the access id to appear in network traffic
+        for _ in range(20):
+            if access_id:
+                break
+            await asyncio.sleep(0.5)
 
-            payload = await resp.json()
-            fixture = payload.get("fixture", {})
-            games = fixture.get("games", [])
+        if not access_id:
+            logger.warning("BetMGM: could not capture x-bwin-accessid")
+            return picks, ou, h2h
 
-            logger.debug(f"BetMGM: found {len(games)} games in fixture")
+        logger.debug(f"BetMGM: captured access id {access_id[:16]}..., calling fixture-offers")
+        resp = await page.request.get(
+            "https://www.on.betmgm.ca/cds-api/bettingoffer/fixture-offers",
+            params={
+                "x-bwin-accessid": access_id,
+                "lang": "en-us",
+                "country": "CA",
+                "userCountry": "CA",
+                "subdivision": "CA-Ontario",
+                "fixtureIds": BETMGM_FIXTURE_ID,
+                "offerMapping": "All",
+            },
+        )
+        if resp.status != 200:
+            logger.warning(f"BetMGM: fixture-offers returned {resp.status}")
+            return picks, ou, h2h
 
-            for game in games:
-                name = game.get("name", {})
-                if isinstance(name, dict):
-                    name = name.get("value", "")
-                name_str = str(name).lower()
+        body = await resp.json()
+        offers = body.get("fixtureOffers", [])
+        if not offers:
+            logger.warning("BetMGM: no fixtureOffers in response")
+            return picks, ou, h2h
+        games = offers[0].get("games", [])
+        logger.debug(f"BetMGM: {len(games)} games (markets) returned")
 
-                # Extract pick number (#1, #2, #3, etc.)
-                pick_match = re.search(r'#(\d+)|(\d+)(?:st|nd|rd|th)', name_str)
-                if not pick_match:
-                    continue
-                pick_num = pick_match.group(1) or pick_match.group(2)
-                market_label = f"#{pick_num} Overall"
-
+        for game in games:
+            try:
+                name = _bmgm_val(game.get("name"))
+                low = name.lower()
                 results = game.get("results", [])
-                logger.debug(f"BetMGM: {market_label} with {len(results)} results")
 
-                for result in results:
-                    try:
-                        player_name = result.get("name", {})
-                        if isinstance(player_name, dict):
-                            player_name = player_name.get("value", "")
+                # ── Overall picks 1-5 ──
+                m = re.match(r'^(1st|2nd|3rd|4th|5th) overall pick$', low)
+                if m:
+                    label = BETMGM_ORDINAL[m.group(1)]
+                    for r in results:
+                        player = _bmgm_val(r.get("name"))
+                        odds = r.get("odds", 0) or 0
+                        if player and odds > 0:
+                            picks.append({"player": normalize_player(player), "market": label,
+                                          "book": "BetMGM", "implied": 100.0 / odds})
+                    continue
 
-                        odds_decimal = result.get("odds", 0)
-                        if not player_name or not odds_decimal:
-                            continue
+                # ── Top 5 / Top 10 ──
+                if "top 5 draft pick" in low or "top 10 draft pick" in low:
+                    label = "Top 5 Pick" if "top 5" in low else "Top 10 Pick"
+                    for r in results:
+                        player = _bmgm_val(r.get("name"))
+                        odds = r.get("odds", 0) or 0
+                        if player and odds > 0:
+                            picks.append({"player": normalize_player(player), "market": label,
+                                          "book": "BetMGM", "implied": 100.0 / odds})
+                    continue
 
-                        if odds_decimal > 0:
-                            implied_prob = 1.0 / odds_decimal
-                            if 0.001 < implied_prob < 0.9999:
-                                implied = implied_prob * 100
-                                picks.append({
-                                    "player": normalize_player(player_name),
-                                    "market": market_label,
-                                    "book": "BetMGM",
-                                    "implied": implied,
-                                })
-                                logger.debug(f"  {player_name}: {odds_decimal} → {implied:.1f}%")
-                    except Exception as e:
-                        logger.debug(f"BetMGM result parse error: {e}")
+                # ── O/U draft position ──
+                if low.endswith("draft position"):
+                    player = name[:-len(" Draft Position")].strip()
+                    for r in results:
+                        line = _bmgm_val(r.get("name"))  # "Over 21.5" / "Under 21.5"
+                        odds = r.get("odds", 0) or 0
+                        if player and odds > 0 and (line.startswith("Over") or line.startswith("Under")):
+                            ou.append({"player": normalize_player(player), "line": line,
+                                       "book": "BetMGM", "implied": 100.0 / odds})
+                    continue
 
-        logger.info(f"BetMGM: extracted {len(picks)} picks")
+                # ── H2H (who gets drafted first) ──
+                if low == "player to be drafted first" and len(results) == 2:
+                    a, b = results[0], results[1]
+                    an, bn = _bmgm_val(a.get("name")), _bmgm_val(b.get("name"))
+                    ao, bo = a.get("odds", 0) or 0, b.get("odds", 0) or 0
+                    if an and bn and ao > 0 and bo > 0:
+                        h2h.append({"player": normalize_player(an), "vs": normalize_player(bn),
+                                    "book": "BetMGM", "implied": 100.0 / ao})
+                        h2h.append({"player": normalize_player(bn), "vs": normalize_player(an),
+                                    "book": "BetMGM", "implied": 100.0 / bo})
+                    continue
+            except Exception as e:
+                logger.debug(f"BetMGM game parse error: {e}")
+
+        logger.info(f"BetMGM: extracted {len(picks)} picks, {len(ou)} O/U, {len(h2h)} H2H")
 
     except Exception as e:
         logger.warning(f"BetMGM scrape failed: {e}")
+        import traceback
+        logger.debug(traceback.format_exc())
 
-    return picks, [], []
+    return picks, ou, h2h
 
 # ── Placeholder books (app-only / not yet available) ────────────────────────
 
