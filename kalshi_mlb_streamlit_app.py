@@ -582,9 +582,9 @@ with tab_alerts:
 # TAB 5 — Sportsbook (Comps)
 # ══════════════════════════════════════════════════════════════════════════════
 
-PICK_ORDER = ["#1 Overall", "#2 Overall", "#3 Overall", "#4 Overall", "#5 Overall", "Top 3 Pick", "Top 5 Pick", "Top 10 Pick"]
+PICK_ORDER = ["#1 Overall", "#2 Overall", "#3 Overall", "#4 Overall", "#5 Overall", "Top 3 Pick", "Top 5 Pick", "Top 10 Pick", "R1"]
 OVERALL_PICKS = ["#1 Overall", "#2 Overall", "#3 Overall", "#4 Overall", "#5 Overall"]
-TOP_PICKS = ["Top 3 Pick", "Top 5 Pick", "Top 10 Pick"]
+TOP_PICKS = ["Top 3 Pick", "Top 5 Pick", "Top 10 Pick", "R1"]
 BOOKS_ORDER = ["Kalshi", "FanDuel", "Bookmaker", "DraftKings", "Caesars", "Kambi", "Betano", "Bet99", "BetMGM"]
 
 # Maps Kalshi event titles → PICK_ORDER labels
@@ -759,7 +759,7 @@ with tab_sportsbook:
         .stTabs [data-baseweb="tab"] p { font-size: 1.4rem !important; }
         .stTabs [data-baseweb="tab-list"] button { font-size: 1.4rem !important; }
         </style>""", unsafe_allow_html=True)
-        _ctab_picks, _ctab_top, _ctab_ou, _ctab_h2h = st.tabs(["🎯 Overall 1–5", "🏆 Top 3/5/10", "📈 O/U", "⚔️ H2H"])
+        _ctab_picks, _ctab_top, _ctab_ou, _ctab_h2h = st.tabs(["🎯 Overall 1–5", "🏆 Top 3/5/10/R1", "📈 O/U", "⚔️ H2H"])
 
         with _ctab_picks:
             # ── Overall picks 1-5 ────────────────────────────────────────────────
@@ -896,6 +896,7 @@ with tab_sportsbook:
                 elif pick in kalshi_lookup and kalshi_lookup[pick]:
                     picks_to_show.append(pick)
 
+            _TOP_HEADER = {"R1": "Drafted in Round 1 (R1)"}
             for pick in picks_to_show:
                 df_pick = df_all[df_all["market"] == pick].copy() if not df_all.empty else pd.DataFrame()
 
@@ -903,7 +904,7 @@ with tab_sportsbook:
                 st.markdown(
                     f"<div style='background:#1e3a5f;color:white;padding:6px 12px;"
                     f"border-radius:4px;font-weight:600;font-size:1.05rem;margin-top:16px;'>"
-                    f"{pick}</div>",
+                    f"{_TOP_HEADER.get(pick, pick)}</div>",
                     unsafe_allow_html=True,
                 )
 

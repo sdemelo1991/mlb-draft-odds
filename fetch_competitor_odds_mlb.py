@@ -388,6 +388,7 @@ async def scrape_draftkings(page):
     alternative_markets = {
         "20048": "Top 5 Pick",
         "20049": "Top 10 Pick",
+        "20050": "R1",              # To Be Drafted in the First Round
         "11602": "Draft Position O/U",
         "11605": "1st to Be Drafted H2H",
     }
@@ -409,8 +410,8 @@ async def scrape_draftkings(page):
                 markets = data.get('markets', [])
                 selections = data.get('selections', [])
 
-                if market_type.startswith("Top"):
-                    # Top 5 / Top 10 — similar to picks but for all markets
+                if market_type.startswith("Top") or market_type == "R1":
+                    # Top 5 / Top 10 / R1 — player → implied %, one flat selection list
                     for selection in selections:
                         try:
                             player_name = selection.get('label', '').strip()
@@ -795,6 +796,16 @@ async def scrape_betmgm(page):
                         odds = r.get("odds", 0) or 0
                         if player and odds > 0:
                             picks.append({"player": normalize_player(player), "market": label,
+                                          "book": "BetMGM", "implied": 100.0 / odds})
+                    continue
+
+                # ── Drafted in Round 1 (R1) ──
+                if "drafted in the 1st round" in low:
+                    for r in results:
+                        player = _bmgm_val(r.get("name"))
+                        odds = r.get("odds", 0) or 0
+                        if player and odds > 0:
+                            picks.append({"player": normalize_player(player), "market": "R1",
                                           "book": "BetMGM", "implied": 100.0 / odds})
                     continue
 
