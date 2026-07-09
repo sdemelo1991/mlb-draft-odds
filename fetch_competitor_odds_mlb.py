@@ -733,10 +733,21 @@ async def scrape_betmgm(page):
     try:
         logger.debug("BetMGM: navigating to capture access id...")
         page.on("response", on_response)
-        await page.goto(BETMGM_EVENT_URL, timeout=45000, wait_until="domcontentloaded")
 
-        # Poll briefly for the access id to appear in network traffic
-        for _ in range(20):
+        # BetMGM navigation is flaky (slow/heavy page). Retry the goto up to 3x.
+        for attempt in range(1, 4):
+            try:
+                await page.goto(BETMGM_EVENT_URL, timeout=45000, wait_until="domcontentloaded")
+                break
+            except Exception as nav_err:
+                logger.debug(f"BetMGM: goto attempt {attempt} failed: {nav_err}")
+                if attempt == 3:
+                    logger.warning("BetMGM: navigation timed out after 3 attempts")
+                    return picks, ou, h2h
+                await asyncio.sleep(3)
+
+        # Poll for the access id to appear in network traffic
+        for _ in range(30):
             if access_id:
                 break
             await asyncio.sleep(0.5)
