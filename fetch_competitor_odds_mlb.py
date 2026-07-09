@@ -154,13 +154,13 @@ def scrape_fanduel_sync(p):
 
                 for mkt_id, mkt in markets.items():
                     mkt_name = mkt.get("marketName", "") or mkt.get("name", "")
-                    market_label = None
-                    for i in range(1, 6):
-                        if f"#{i}" in mkt_name.lower() or f"{i} overall" in mkt_name.lower():
-                            market_label = f"#{i} Overall"
-                            break
-                    if not market_label:
-                        market_label = "#1 Overall"
+                    # FanDuel names markets like "2026 MLB Draft - 1st Overall Pick"
+                    # (ordinals with st/nd/rd/th). Parse the pick number; skip any
+                    # market that isn't an "Nth Overall" pick rather than defaulting.
+                    m = re.search(r'(\d+)(?:st|nd|rd|th)\s+overall', mkt_name.lower())
+                    if not m:
+                        continue
+                    market_label = f"#{m.group(1)} Overall"
 
                     runners = mkt.get("runners", [])
                     for runner in runners:
