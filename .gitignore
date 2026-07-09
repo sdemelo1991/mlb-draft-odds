@@ -19,4 +19,4 @@ node_modules/
 *.csv
 FD_Trading_*.csv
 refresh_comps.ps1
-.comp_cache.tmp.json
+.comp_cache.tmp.json*
