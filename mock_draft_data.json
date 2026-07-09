@@ -29,6 +29,11 @@
       "date": "7/2",
       "affiliation": "MLB",
       "logo_url": "https://www.google.com/s2/favicons?domain=mlb.com&sz=32"
+    },
+    "Longenhagen": {
+      "date": "7/8",
+      "affiliation": "FanGraphs",
+      "logo_url": "https://www.google.com/s2/favicons?domain=fangraphs.com&sz=32"
     }
   },
   "players": [
@@ -41,9 +46,10 @@
         "Callis": "3",
         "Doyle": "1",
         "Collazo": "2",
-        "Mayo": "2"
+        "Mayo": "2",
+        "Longenhagen": "1"
       },
-      "avg": 1.8,
+      "avg": 1.7,
       "min": 1,
       "max": 3
     },
@@ -56,9 +62,10 @@
         "Callis": "1",
         "Doyle": "4",
         "Collazo": "1",
-        "Mayo": "1"
+        "Mayo": "1",
+        "Longenhagen": "3"
       },
-      "avg": 1.8,
+      "avg": 2.0,
       "min": 1,
       "max": 4
     },
@@ -71,9 +78,10 @@
         "Callis": "2",
         "Doyle": "3",
         "Collazo": "3",
-        "Mayo": "3"
+        "Mayo": "3",
+        "Longenhagen": "2"
       },
-      "avg": 2.7,
+      "avg": 2.6,
       "min": 2,
       "max": 3
     },
@@ -86,9 +94,10 @@
         "Callis": "4",
         "Doyle": "6",
         "Collazo": "6",
-        "Mayo": "4"
+        "Mayo": "4",
+        "Longenhagen": "6"
       },
-      "avg": 4.5,
+      "avg": 5.0,
       "min": 4,
       "max": 6
     },
@@ -101,9 +110,10 @@
         "Callis": "6",
         "Doyle": "5",
         "Collazo": "5",
-        "Mayo": "6"
+        "Mayo": "6",
+        "Longenhagen": "4"
       },
-      "avg": 5.2,
+      "avg": 5.0,
       "min": 4,
       "max": 6
     },
@@ -116,10 +126,11 @@
         "Callis": "5",
         "Doyle": "7",
         "Collazo": "4",
-        "Mayo": "5"
+        "Mayo": "5",
+        "Longenhagen": "5"
       },
-      "avg": 6.2,
-      "min": 5,
+      "avg": 5.6,
+      "min": 4,
       "max": 7
     },
     {
@@ -131,11 +142,12 @@
         "Callis": "7",
         "Doyle": "9",
         "Collazo": "7",
-        "Mayo": "7"
+        "Mayo": "7",
+        "Longenhagen": "11"
       },
-      "avg": 7.3,
-      "min": 6,
-      "max": 9
+      "avg": 8.0,
+      "min": 7,
+      "max": 11
     },
     {
       "pick": "8",
@@ -146,9 +158,10 @@
         "Callis": "16",
         "Doyle": "2",
         "Collazo": "8",
-        "Mayo": "13"
+        "Mayo": "13",
+        "Longenhagen": "7"
       },
-      "avg": 9.5,
+      "avg": 9.1,
       "min": 2,
       "max": 16
     },
@@ -161,11 +174,12 @@
         "Callis": "8",
         "Doyle": "10",
         "Collazo": "13",
-        "Mayo": "8"
+        "Mayo": "8",
+        "Longenhagen": "24"
       },
-      "avg": 11.0,
+      "avg": 12.9,
       "min": 8,
-      "max": 18
+      "max": 24
     },
     {
       "pick": "10",
@@ -176,9 +190,10 @@
         "Callis": "10",
         "Doyle": "8",
         "Collazo": "10",
-        "Mayo": "12"
+        "Mayo": "12",
+        "Longenhagen": "9"
       },
-      "avg": 11.2,
+      "avg": 10.9,
       "min": 8,
       "max": 15
     },
@@ -191,9 +206,10 @@
         "Callis": "9",
         "Doyle": "16",
         "Collazo": "9",
-        "Mayo": "9"
+        "Mayo": "9",
+        "Longenhagen": "14"
       },
-      "avg": 12.2,
+      "avg": 12.4,
       "min": 9,
       "max": 21
     },
@@ -206,10 +222,11 @@
         "Callis": "11",
         "Doyle": "12",
         "Collazo": "14",
-        "Mayo": "14"
+        "Mayo": "14",
+        "Longenhagen": "8"
       },
-      "avg": 13.5,
-      "min": 11,
+      "avg": 12.7,
+      "min": 8,
       "max": 19
     },
     {
@@ -221,9 +238,10 @@
         "Callis": "19",
         "Doyle": "11",
         "Collazo": "19",
-        "Mayo": "16"
+        "Mayo": "16",
+        "Longenhagen": "13"
       },
-      "avg": 14.3,
+      "avg": 15.3,
       "min": 11,
       "max": 19
     },
@@ -236,9 +254,10 @@
         "Callis": "17",
         "Doyle": "17",
         "Collazo": "17",
-        "Mayo": "15"
+        "Mayo": "15",
+        "Longenhagen": "17"
       },
-      "avg": 15.0,
+      "avg": 15.3,
       "min": 10,
       "max": 17
     },
@@ -251,9 +270,10 @@
         "Callis": "12",
         "Doyle": "23",
         "Collazo": "16",
-        "Mayo": "17"
+        "Mayo": "17",
+        "Longenhagen": "18"
       },
-      "avg": 15.3,
+      "avg": 15.7,
       "min": 11,
       "max": 23
     },
@@ -266,9 +286,10 @@
         "Callis": "15",
         "Doyle": "25",
         "Collazo": "25",
-        "Mayo": "23"
+        "Mayo": "23",
+        "Longenhagen": "20"
       },
-      "avg": 18.2,
+      "avg": 20.3,
       "min": 12,
       "max": 25
     },
@@ -281,9 +302,10 @@
         "Callis": "18",
         "Doyle": "18",
         "Collazo": "15",
-        "Mayo": "18"
+        "Mayo": "18",
+        "Longenhagen": "15"
       },
-      "avg": 18.7,
+      "avg": 17.7,
       "min": 14,
       "max": 26
     },
@@ -296,9 +318,10 @@
         "Callis": "14",
         "Doyle": "14",
         "Collazo": "11",
-        "Mayo": "11"
+        "Mayo": "11",
+        "Longenhagen": "25"
       },
-      "avg": 16.7,
+      "avg": 17.9,
       "min": 11,
       "max": 25
     },
@@ -311,7 +334,8 @@
         "Callis": "13",
         "Doyle": "13",
         "Collazo": "18",
-        "Mayo": "10"
+        "Mayo": "10",
+        "Longenhagen": null
       },
       "avg": 15.0,
       "min": 10,
@@ -326,9 +350,10 @@
         "Callis": "20",
         "Doyle": "31",
         "Collazo": "21",
-        "Mayo": "27"
+        "Mayo": "27",
+        "Longenhagen": "21"
       },
-      "avg": 22.8,
+      "avg": 22.7,
       "min": 15,
       "max": 31
     },
@@ -341,9 +366,10 @@
         "Callis": "37",
         "Doyle": "15",
         "Collazo": "12",
-        "Mayo": "26"
+        "Mayo": "26",
+        "Longenhagen": "12"
       },
-      "avg": 21.7,
+      "avg": 18.7,
       "min": 6,
       "max": 37
     },
@@ -356,7 +382,8 @@
         "Callis": "23",
         "Doyle": "21",
         "Collazo": "26",
-        "Mayo": "19"
+        "Mayo": "19",
+        "Longenhagen": null
       },
       "avg": 20.5,
       "min": 19,
@@ -371,11 +398,12 @@
         "Callis": "35",
         "Doyle": "27",
         "Collazo": "23",
-        "Mayo": "28"
+        "Mayo": "28",
+        "Longenhagen": "28"
       },
-      "avg": 26.8,
+      "avg": 25.0,
       "min": 17,
-      "max": 37
+      "max": 35
     },
     {
       "pick": "24",
@@ -386,11 +414,12 @@
         "Callis": "25",
         "Doyle": null,
         "Collazo": "24",
-        "Mayo": "20"
+        "Mayo": "20",
+        "Longenhagen": "16"
       },
-      "avg": 25.7,
-      "min": 20,
-      "max": 32
+      "avg": 21.2,
+      "min": 16,
+      "max": 25
     },
     {
       "pick": "25",
@@ -401,11 +430,12 @@
         "Callis": "24",
         "Doyle": "28",
         "Collazo": "24",
-        "Mayo": "24"
+        "Mayo": "24",
+        "Longenhagen": "27"
       },
-      "avg": 26.2,
+      "avg": 25.4,
       "min": 24,
-      "max": 29
+      "max": 28
     },
     {
       "pick": "26",
@@ -416,7 +446,8 @@
         "Callis": "36",
         "Doyle": "26",
         "Collazo": "26",
-        "Mayo": "37"
+        "Mayo": "37",
+        "Longenhagen": null
       },
       "avg": 28.6,
       "min": 18,
@@ -431,9 +462,10 @@
         "Callis": "31",
         "Doyle": "39",
         "Collazo": "27",
-        "Mayo": "30"
+        "Mayo": "30",
+        "Longenhagen": "22"
       },
-      "avg": 29.6,
+      "avg": 28.1,
       "min": 20,
       "max": 39
     },
@@ -446,7 +478,8 @@
         "Callis": "21",
         "Doyle": null,
         "Collazo": "35",
-        "Mayo": "33"
+        "Mayo": "33",
+        "Longenhagen": null
       },
       "avg": 28.5,
       "min": 21,
@@ -461,11 +494,12 @@
         "Callis": "28",
         "Doyle": "22",
         "Collazo": "29",
-        "Mayo": "25"
+        "Mayo": "25",
+        "Longenhagen": "10"
       },
-      "avg": 25.2,
-      "min": 22,
-      "max": 28
+      "avg": 22.8,
+      "min": 10,
+      "max": 29
     },
     {
       "pick": "30",
@@ -476,9 +510,10 @@
         "Callis": null,
         "Doyle": "29",
         "Collazo": "31",
-        "Mayo": "21"
+        "Mayo": "21",
+        "Longenhagen": "26"
       },
-      "avg": 25.5,
+      "avg": 25.6,
       "min": 21,
       "max": 31
     },
@@ -491,7 +526,8 @@
         "Callis": "26",
         "Doyle": "19",
         "Collazo": "30",
-        "Mayo": "32"
+        "Mayo": "32",
+        "Longenhagen": null
       },
       "avg": 23.2,
       "min": 16,
@@ -506,7 +542,8 @@
         "Callis": "30",
         "Doyle": null,
         "Collazo": "32",
-        "Mayo": "29"
+        "Mayo": "29",
+        "Longenhagen": null
       },
       "avg": 28.7,
       "min": 27,
@@ -521,7 +558,8 @@
         "Callis": "39",
         "Doyle": null,
         "Collazo": "20",
-        "Mayo": null
+        "Mayo": null,
+        "Longenhagen": null
       },
       "avg": 27.7,
       "min": 20,
@@ -536,10 +574,11 @@
         "Callis": "27",
         "Doyle": null,
         "Collazo": "27",
-        "Mayo": "40"
+        "Mayo": "40",
+        "Longenhagen": "23"
       },
-      "avg": 31.3,
-      "min": 27,
+      "avg": 29.2,
+      "min": 23,
       "max": 40
     },
     {
@@ -551,7 +590,8 @@
         "Callis": null,
         "Doyle": "34",
         "Collazo": "22",
-        "Mayo": "22"
+        "Mayo": "22",
+        "Longenhagen": null
       },
       "avg": 26.0,
       "min": 22,
@@ -566,7 +606,8 @@
         "Callis": "34",
         "Doyle": null,
         "Collazo": "28",
-        "Mayo": "35"
+        "Mayo": "35",
+        "Longenhagen": null
       },
       "avg": 30.0,
       "min": 21,
@@ -581,10 +622,11 @@
         "Callis": "22",
         "Doyle": null,
         "Collazo": null,
-        "Mayo": null
+        "Mayo": null,
+        "Longenhagen": "19"
       },
-      "avg": 22.0,
-      "min": 22,
+      "avg": 21.0,
+      "min": 19,
       "max": 22
     },
     {
@@ -596,7 +638,8 @@
         "Callis": null,
         "Doyle": "33",
         "Collazo": "33",
-        "Mayo": "31"
+        "Mayo": "31",
+        "Longenhagen": null
       },
       "avg": 32.3,
       "min": 31,
@@ -611,7 +654,8 @@
         "Callis": null,
         "Doyle": null,
         "Collazo": "32",
-        "Mayo": "34"
+        "Mayo": "34",
+        "Longenhagen": null
       },
       "avg": 32.0,
       "min": 30,
@@ -626,7 +670,8 @@
         "Callis": "33",
         "Doyle": null,
         "Collazo": "34",
-        "Mayo": null
+        "Mayo": null,
+        "Longenhagen": null
       },
       "avg": 33.5,
       "min": 33,
@@ -641,7 +686,8 @@
         "Callis": null,
         "Doyle": "32",
         "Collazo": "29",
-        "Mayo": null
+        "Mayo": null,
+        "Longenhagen": null
       },
       "avg": 30.5,
       "min": 29,
@@ -656,7 +702,8 @@
         "Callis": null,
         "Doyle": null,
         "Collazo": null,
-        "Mayo": null
+        "Mayo": null,
+        "Longenhagen": null
       },
       "avg": 19.0,
       "min": 19,
@@ -671,7 +718,8 @@
         "Callis": null,
         "Doyle": "37",
         "Collazo": "40",
-        "Mayo": "31"
+        "Mayo": "31",
+        "Longenhagen": null
       },
       "avg": 34.0,
       "min": 31,
@@ -686,7 +734,8 @@
         "Callis": null,
         "Doyle": null,
         "Collazo": "28",
-        "Mayo": null
+        "Mayo": null,
+        "Longenhagen": null
       },
       "avg": 27.0,
       "min": 27,
@@ -701,7 +750,8 @@
         "Callis": null,
         "Doyle": null,
         "Collazo": null,
-        "Mayo": null
+        "Mayo": null,
+        "Longenhagen": null
       },
       "avg": 30.0,
       "min": 30,
