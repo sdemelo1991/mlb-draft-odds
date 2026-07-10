@@ -1156,7 +1156,7 @@ with tab_mock_consensus:
 
             mocks_info = mock_data.get("mocks", {})
             players_data = mock_data.get("players", [])
-            mock_order = ["Law", "Kiley", "Callis", "Doyle", "Collazo", "Mayo", "Longenhagen"]
+            mock_order = ["Law", "Kiley", "Ward", "Collazo", "Doyle", "Longenhagen", "Mayo", "Callis"]
 
             # Prepare data with average and range (min/max format)
             mock_rows = []

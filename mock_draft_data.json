@@ -34,6 +34,11 @@
       "date": "7/8",
       "affiliation": "FanGraphs",
       "logo_url": "https://www.google.com/s2/favicons?domain=fangraphs.com&sz=32"
+    },
+    "Ward": {
+      "date": "7/10",
+      "affiliation": "The Sporting Tribune",
+      "logo_url": "https://www.google.com/s2/favicons?domain=thesportingtribune.com&sz=32"
     }
   },
   "players": [
@@ -47,9 +52,10 @@
         "Doyle": "1",
         "Collazo": "2",
         "Mayo": "2",
-        "Longenhagen": "1"
+        "Longenhagen": "1",
+        "Ward": "2"
       },
-      "avg": 1.7,
+      "avg": 1.8,
       "min": 1,
       "max": 3
     },
@@ -63,9 +69,10 @@
         "Doyle": "4",
         "Collazo": "1",
         "Mayo": "1",
-        "Longenhagen": "3"
+        "Longenhagen": "3",
+        "Ward": "1"
       },
-      "avg": 2.0,
+      "avg": 1.9,
       "min": 1,
       "max": 4
     },
@@ -79,7 +86,8 @@
         "Doyle": "3",
         "Collazo": "3",
         "Mayo": "3",
-        "Longenhagen": "2"
+        "Longenhagen": "2",
+        "Ward": "3"
       },
       "avg": 2.6,
       "min": 2,
@@ -95,9 +103,10 @@
         "Doyle": "7",
         "Collazo": "4",
         "Mayo": "5",
-        "Longenhagen": "5"
+        "Longenhagen": "5",
+        "Ward": "4"
       },
-      "avg": 5.3,
+      "avg": 5.1,
       "min": 4,
       "max": 7
     },
@@ -111,7 +120,8 @@
         "Doyle": "5",
         "Collazo": "5",
         "Mayo": "6",
-        "Longenhagen": "4"
+        "Longenhagen": "4",
+        "Ward": "5"
       },
       "avg": 5.4,
       "min": 4,
@@ -127,9 +137,10 @@
         "Doyle": "6",
         "Collazo": "6",
         "Mayo": "4",
-        "Longenhagen": "6"
+        "Longenhagen": "6",
+        "Ward": "6"
       },
-      "avg": 5.7,
+      "avg": 5.8,
       "min": 4,
       "max": 10
     },
@@ -143,7 +154,8 @@
         "Doyle": "9",
         "Collazo": "7",
         "Mayo": "7",
-        "Longenhagen": "11"
+        "Longenhagen": "11",
+        "Ward": "7"
       },
       "avg": 7.4,
       "min": 5,
@@ -159,9 +171,10 @@
         "Doyle": "2",
         "Collazo": "8",
         "Mayo": "13",
-        "Longenhagen": "7"
+        "Longenhagen": "7",
+        "Ward": "8"
       },
-      "avg": 9.2,
+      "avg": 9.0,
       "min": 2,
       "max": 16
     },
@@ -175,7 +188,8 @@
         "Doyle": "8",
         "Collazo": "10",
         "Mayo": "12",
-        "Longenhagen": "9"
+        "Longenhagen": "9",
+        "Ward": "10"
       },
       "avg": 10.0,
       "min": 8,
@@ -191,30 +205,15 @@
         "Doyle": "12",
         "Collazo": "14",
         "Mayo": "14",
-        "Longenhagen": "8"
+        "Longenhagen": "8",
+        "Ward": "14"
       },
-      "avg": 11.1,
+      "avg": 11.5,
       "min": 8,
       "max": 14
     },
     {
       "pick": "11",
-      "name": "Ryder Helfrick",
-      "picks": {
-        "Law": "8",
-        "Kiley": "13",
-        "Callis": "8",
-        "Doyle": "10",
-        "Collazo": "13",
-        "Mayo": "8",
-        "Longenhagen": "24"
-      },
-      "avg": 12.0,
-      "min": 8,
-      "max": 24
-    },
-    {
-      "pick": "12",
       "name": "Gio Rojas",
       "picks": {
         "Law": "9",
@@ -223,11 +222,29 @@
         "Doyle": "16",
         "Collazo": "9",
         "Mayo": "9",
-        "Longenhagen": "14"
+        "Longenhagen": "14",
+        "Ward": "9"
       },
-      "avg": 12.0,
+      "avg": 11.6,
       "min": 9,
       "max": 18
+    },
+    {
+      "pick": "12",
+      "name": "Ryder Helfrick",
+      "picks": {
+        "Law": "8",
+        "Kiley": "13",
+        "Callis": "8",
+        "Doyle": "10",
+        "Collazo": "13",
+        "Mayo": "8",
+        "Longenhagen": "24",
+        "Ward": "13"
+      },
+      "avg": 12.1,
+      "min": 8,
+      "max": 24
     },
     {
       "pick": "13",
@@ -239,46 +256,15 @@
         "Doyle": "11",
         "Collazo": "19",
         "Mayo": "16",
-        "Longenhagen": "13"
+        "Longenhagen": "13",
+        "Ward": "11"
       },
-      "avg": 14.3,
+      "avg": 13.9,
       "min": 6,
       "max": 19
     },
     {
       "pick": "14",
-      "name": "Justin Lebron",
-      "picks": {
-        "Law": "15",
-        "Kiley": "12",
-        "Callis": "17",
-        "Doyle": "17",
-        "Collazo": "17",
-        "Mayo": "15",
-        "Longenhagen": "17"
-      },
-      "avg": 15.7,
-      "min": 12,
-      "max": 17
-    },
-    {
-      "pick": "15",
-      "name": "Ace Reese",
-      "picks": {
-        "Law": "17",
-        "Kiley": "20",
-        "Callis": "14",
-        "Doyle": "14",
-        "Collazo": "11",
-        "Mayo": "11",
-        "Longenhagen": "25"
-      },
-      "avg": 16.0,
-      "min": 11,
-      "max": 25
-    },
-    {
-      "pick": "16",
       "name": "Liam Peterson",
       "picks": {
         "Law": "12",
@@ -287,14 +273,32 @@
         "Doyle": "23",
         "Collazo": "16",
         "Mayo": "17",
-        "Longenhagen": "18"
+        "Longenhagen": "18",
+        "Ward": "12"
       },
-      "avg": 16.3,
+      "avg": 15.8,
       "min": 12,
       "max": 23
     },
     {
-      "pick": "17",
+      "pick": "15",
+      "name": "Justin Lebron",
+      "picks": {
+        "Law": "15",
+        "Kiley": "12",
+        "Callis": "17",
+        "Doyle": "17",
+        "Collazo": "17",
+        "Mayo": "15",
+        "Longenhagen": "17",
+        "Ward": "17"
+      },
+      "avg": 15.9,
+      "min": 12,
+      "max": 17
+    },
+    {
+      "pick": "16",
       "name": "Trevor Condon",
       "picks": {
         "Law": null,
@@ -303,11 +307,29 @@
         "Doyle": "18",
         "Collazo": "15",
         "Mayo": "18",
-        "Longenhagen": "15"
+        "Longenhagen": "15",
+        "Ward": "15"
       },
-      "avg": 16.3,
+      "avg": 16.1,
       "min": 14,
       "max": 18
+    },
+    {
+      "pick": "17",
+      "name": "Ace Reese",
+      "picks": {
+        "Law": "17",
+        "Kiley": "20",
+        "Callis": "14",
+        "Doyle": "14",
+        "Collazo": "11",
+        "Mayo": "11",
+        "Longenhagen": "25",
+        "Ward": "19"
+      },
+      "avg": 16.4,
+      "min": 11,
+      "max": 25
     },
     {
       "pick": "18",
@@ -319,9 +341,10 @@
         "Doyle": "13",
         "Collazo": "18",
         "Mayo": "10",
-        "Longenhagen": null
+        "Longenhagen": null,
+        "Ward": "23"
       },
-      "avg": 17.0,
+      "avg": 17.9,
       "min": 10,
       "max": 26
     },
@@ -335,30 +358,15 @@
         "Doyle": "15",
         "Collazo": "12",
         "Mayo": "26",
-        "Longenhagen": "12"
+        "Longenhagen": "12",
+        "Ward": "16"
       },
-      "avg": 19.1,
+      "avg": 18.8,
       "min": 12,
       "max": 37
     },
     {
       "pick": "20",
-      "name": "Hunter Dietz",
-      "picks": {
-        "Law": "18",
-        "Kiley": "15",
-        "Callis": "25",
-        "Doyle": null,
-        "Collazo": "24",
-        "Mayo": "20",
-        "Longenhagen": "16"
-      },
-      "avg": 19.7,
-      "min": 15,
-      "max": 25
-    },
-    {
-      "pick": "21",
       "name": "Chase Brunson",
       "picks": {
         "Law": "20",
@@ -367,14 +375,15 @@
         "Doyle": null,
         "Collazo": null,
         "Mayo": null,
-        "Longenhagen": null
+        "Longenhagen": null,
+        "Ward": null
       },
       "avg": 20.0,
       "min": 20,
       "max": 20
     },
     {
-      "pick": "22",
+      "pick": "21",
       "name": "Cameron Flukey",
       "picks": {
         "Law": "19",
@@ -383,14 +392,15 @@
         "Doyle": "25",
         "Collazo": "25",
         "Mayo": "23",
-        "Longenhagen": "20"
+        "Longenhagen": "20",
+        "Ward": "22"
       },
-      "avg": 21.7,
+      "avg": 21.8,
       "min": 15,
       "max": 25
     },
     {
-      "pick": "23",
+      "pick": "22",
       "name": "Zion Rose",
       "picks": {
         "Law": "23",
@@ -399,30 +409,32 @@
         "Doyle": "22",
         "Collazo": "29",
         "Mayo": "25",
-        "Longenhagen": "10"
+        "Longenhagen": "10",
+        "Ward": "18"
       },
-      "avg": 22.6,
+      "avg": 22.0,
       "min": 10,
       "max": 29
     },
     {
-      "pick": "24",
-      "name": "Sawyer Strosnider",
+      "pick": "23",
+      "name": "Hunter Dietz",
       "picks": {
-        "Law": "27",
-        "Kiley": null,
-        "Callis": "23",
-        "Doyle": "21",
-        "Collazo": "26",
-        "Mayo": "19",
-        "Longenhagen": null
+        "Law": "18",
+        "Kiley": "15",
+        "Callis": "25",
+        "Doyle": null,
+        "Collazo": "24",
+        "Mayo": "20",
+        "Longenhagen": "16",
+        "Ward": "38"
       },
-      "avg": 23.2,
-      "min": 19,
-      "max": 27
+      "avg": 22.3,
+      "min": 15,
+      "max": 38
     },
     {
-      "pick": "25",
+      "pick": "24",
       "name": "Tyler Spangler",
       "picks": {
         "Law": null,
@@ -431,30 +443,15 @@
         "Doyle": null,
         "Collazo": null,
         "Mayo": null,
-        "Longenhagen": "19"
+        "Longenhagen": "19",
+        "Ward": null
       },
       "avg": 23.3,
       "min": 19,
       "max": 29
     },
     {
-      "pick": "26",
-      "name": "Ben Blair",
-      "picks": {
-        "Law": null,
-        "Kiley": "24",
-        "Callis": null,
-        "Doyle": null,
-        "Collazo": null,
-        "Mayo": null,
-        "Longenhagen": null
-      },
-      "avg": 24.0,
-      "min": 24,
-      "max": 24
-    },
-    {
-      "pick": "27",
+      "pick": "25",
       "name": "Bo Lowrance",
       "picks": {
         "Law": "21",
@@ -463,14 +460,32 @@
         "Doyle": "31",
         "Collazo": "21",
         "Mayo": "27",
-        "Longenhagen": "21"
+        "Longenhagen": "21",
+        "Ward": "21"
       },
-      "avg": 24.1,
+      "avg": 23.8,
       "min": 20,
       "max": 31
     },
     {
-      "pick": "28",
+      "pick": "26",
+      "name": "Sawyer Strosnider",
+      "picks": {
+        "Law": "27",
+        "Kiley": null,
+        "Callis": "23",
+        "Doyle": "21",
+        "Collazo": "26",
+        "Mayo": "19",
+        "Longenhagen": null,
+        "Ward": "28"
+      },
+      "avg": 24.0,
+      "min": 19,
+      "max": 28
+    },
+    {
+      "pick": "27",
       "name": "Logan Hughes",
       "picks": {
         "Law": "25",
@@ -479,11 +494,29 @@
         "Doyle": null,
         "Collazo": "28",
         "Mayo": null,
-        "Longenhagen": null
+        "Longenhagen": null,
+        "Ward": null
       },
       "avg": 25.3,
       "min": 23,
       "max": 28
+    },
+    {
+      "pick": "28",
+      "name": "Tegan Kuhns",
+      "picks": {
+        "Law": "24",
+        "Kiley": "34",
+        "Callis": "24",
+        "Doyle": "28",
+        "Collazo": "24",
+        "Mayo": "24",
+        "Longenhagen": "27",
+        "Ward": "20"
+      },
+      "avg": 25.6,
+      "min": 20,
+      "max": 34
     },
     {
       "pick": "29",
@@ -495,46 +528,15 @@
         "Doyle": "29",
         "Collazo": "31",
         "Mayo": "21",
-        "Longenhagen": "26"
+        "Longenhagen": "26",
+        "Ward": "29"
       },
-      "avg": 25.8,
+      "avg": 26.3,
       "min": 21,
       "max": 31
     },
     {
       "pick": "30",
-      "name": "Aiden Ruiz",
-      "picks": {
-        "Law": null,
-        "Kiley": null,
-        "Callis": null,
-        "Doyle": "34",
-        "Collazo": "22",
-        "Mayo": "22",
-        "Longenhagen": null
-      },
-      "avg": 26.0,
-      "min": 22,
-      "max": 34
-    },
-    {
-      "pick": "31",
-      "name": "Tegan Kuhns",
-      "picks": {
-        "Law": "24",
-        "Kiley": "34",
-        "Callis": "24",
-        "Doyle": "28",
-        "Collazo": "24",
-        "Mayo": "24",
-        "Longenhagen": "27"
-      },
-      "avg": 26.4,
-      "min": 24,
-      "max": 34
-    },
-    {
-      "pick": "32",
       "name": "Daniel Jackson",
       "picks": {
         "Law": "28",
@@ -543,30 +545,32 @@
         "Doyle": "27",
         "Collazo": "23",
         "Mayo": "28",
-        "Longenhagen": "28"
+        "Longenhagen": "28",
+        "Ward": null
       },
       "avg": 26.6,
       "min": 17,
       "max": 35
     },
     {
-      "pick": "33",
-      "name": "Logan Reddemann",
+      "pick": "31",
+      "name": "Caden Sorrell",
       "picks": {
         "Law": null,
-        "Kiley": "30",
-        "Callis": "26",
-        "Doyle": "19",
-        "Collazo": "30",
-        "Mayo": "32",
+        "Kiley": null,
+        "Ward": "27",
+        "Callis": null,
+        "Doyle": null,
+        "Collazo": null,
+        "Mayo": null,
         "Longenhagen": null
       },
-      "avg": 27.4,
-      "min": 19,
-      "max": 32
+      "avg": 27.0,
+      "min": 27,
+      "max": 27
     },
     {
-      "pick": "34",
+      "pick": "32",
       "name": "Taylor Rabe",
       "picks": {
         "Law": "14",
@@ -575,62 +579,66 @@
         "Doyle": null,
         "Collazo": "20",
         "Mayo": null,
-        "Longenhagen": null
+        "Longenhagen": null,
+        "Ward": "24"
       },
-      "avg": 28.2,
+      "avg": 27.4,
       "min": 14,
       "max": 40
     },
     {
-      "pick": "35",
-      "name": "Aiden Robbins",
+      "pick": "33",
+      "name": "Ben Blair",
+      "picks": {
+        "Law": null,
+        "Kiley": "24",
+        "Callis": null,
+        "Doyle": null,
+        "Collazo": null,
+        "Mayo": null,
+        "Longenhagen": null,
+        "Ward": "31"
+      },
+      "avg": 27.5,
+      "min": 24,
+      "max": 31
+    },
+    {
+      "pick": "34",
+      "name": "Aiden Ruiz",
       "picks": {
         "Law": null,
         "Kiley": null,
-        "Callis": "27",
-        "Doyle": null,
-        "Collazo": "27",
-        "Mayo": "40",
-        "Longenhagen": "23"
+        "Callis": null,
+        "Doyle": "34",
+        "Collazo": "22",
+        "Mayo": "22",
+        "Longenhagen": null,
+        "Ward": "35"
       },
-      "avg": 29.2,
-      "min": 23,
-      "max": 40
-    },
-    {
-      "pick": "36",
-      "name": "Cole Carlon",
-      "picks": {
-        "Law": null,
-        "Kiley": "33",
-        "Callis": "31",
-        "Doyle": "39",
-        "Collazo": "27",
-        "Mayo": "30",
-        "Longenhagen": "22"
-      },
-      "avg": 30.3,
+      "avg": 28.2,
       "min": 22,
-      "max": 39
+      "max": 35
     },
     {
-      "pick": "37",
-      "name": "Brody Bumila",
+      "pick": "35",
+      "name": "Logan Reddemann",
       "picks": {
         "Law": null,
-        "Kiley": null,
-        "Callis": "30",
-        "Doyle": null,
-        "Collazo": "32",
-        "Mayo": "29",
-        "Longenhagen": null
+        "Kiley": "30",
+        "Callis": "26",
+        "Doyle": "19",
+        "Collazo": "30",
+        "Mayo": "32",
+        "Longenhagen": null,
+        "Ward": "32"
       },
-      "avg": 30.3,
-      "min": 29,
+      "avg": 28.2,
+      "min": 19,
       "max": 32
     },
     {
-      "pick": "38",
+      "pick": "36",
       "name": "Cade Townsend",
       "picks": {
         "Law": null,
@@ -639,14 +647,15 @@
         "Doyle": "26",
         "Collazo": "26",
         "Mayo": "37",
-        "Longenhagen": null
+        "Longenhagen": null,
+        "Ward": "26"
       },
-      "avg": 30.4,
+      "avg": 29.7,
       "min": 26,
       "max": 37
     },
     {
-      "pick": "39",
+      "pick": "37",
       "name": "Cole Prosek",
       "picks": {
         "Law": "30",
@@ -655,46 +664,66 @@
         "Doyle": null,
         "Collazo": "35",
         "Mayo": "33",
-        "Longenhagen": null
+        "Longenhagen": null,
+        "Ward": "25"
       },
-      "avg": 30.8,
+      "avg": 29.8,
       "min": 21,
       "max": 35
     },
     {
-      "pick": "40",
-      "name": "Archer Horn",
+      "pick": "38",
+      "name": "Brody Bumila",
       "picks": {
-        "Law": "29",
-        "Kiley": "36",
-        "Callis": null,
-        "Doyle": "32",
-        "Collazo": "29",
-        "Mayo": null,
-        "Longenhagen": null
+        "Law": null,
+        "Kiley": null,
+        "Callis": "30",
+        "Doyle": null,
+        "Collazo": "32",
+        "Mayo": "29",
+        "Longenhagen": null,
+        "Ward": null
       },
-      "avg": 31.5,
+      "avg": 30.3,
       "min": 29,
-      "max": 36
+      "max": 32
+    },
+    {
+      "pick": "39",
+      "name": "Aiden Robbins",
+      "picks": {
+        "Law": null,
+        "Kiley": null,
+        "Callis": "27",
+        "Doyle": null,
+        "Collazo": "27",
+        "Mayo": "40",
+        "Longenhagen": "23",
+        "Ward": "39"
+      },
+      "avg": 31.2,
+      "min": 23,
+      "max": 40
+    },
+    {
+      "pick": "40",
+      "name": "Cole Carlon",
+      "picks": {
+        "Law": null,
+        "Kiley": "33",
+        "Callis": "31",
+        "Doyle": "39",
+        "Collazo": "27",
+        "Mayo": "30",
+        "Longenhagen": "22",
+        "Ward": "40"
+      },
+      "avg": 31.7,
+      "min": 22,
+      "max": 40
     },
     {
       "pick": "41",
-      "name": "Taj Marchand",
-      "picks": {
-        "Law": null,
-        "Kiley": "32",
-        "Callis": null,
-        "Doyle": "33",
-        "Collazo": "33",
-        "Mayo": "31",
-        "Longenhagen": null
-      },
-      "avg": 32.2,
-      "min": 31,
-      "max": 33
-    },
-    {
-      "pick": "42",
       "name": "Coleman Borthwick",
       "picks": {
         "Law": null,
@@ -703,14 +732,49 @@
         "Doyle": null,
         "Collazo": "28",
         "Mayo": "35",
-        "Longenhagen": null
+        "Longenhagen": null,
+        "Ward": "30"
       },
-      "avg": 32.3,
+      "avg": 31.8,
       "min": 28,
       "max": 35
     },
     {
+      "pick": "42",
+      "name": "Archer Horn",
+      "picks": {
+        "Law": "29",
+        "Kiley": "36",
+        "Callis": null,
+        "Doyle": "32",
+        "Collazo": "29",
+        "Mayo": null,
+        "Longenhagen": null,
+        "Ward": "36"
+      },
+      "avg": 32.4,
+      "min": 29,
+      "max": 36
+    },
+    {
       "pick": "43",
+      "name": "Taj Marchand",
+      "picks": {
+        "Law": null,
+        "Kiley": "32",
+        "Callis": null,
+        "Doyle": "33",
+        "Collazo": "33",
+        "Mayo": "31",
+        "Longenhagen": null,
+        "Ward": "33"
+      },
+      "avg": 32.4,
+      "min": 31,
+      "max": 33
+    },
+    {
+      "pick": "44",
       "name": "Landon Thome",
       "picks": {
         "Law": null,
@@ -719,14 +783,32 @@
         "Doyle": null,
         "Collazo": "34",
         "Mayo": null,
-        "Longenhagen": null
+        "Longenhagen": null,
+        "Ward": null
       },
       "avg": 33.5,
       "min": 33,
       "max": 34
     },
     {
-      "pick": "44",
+      "pick": "45",
+      "name": "Jensen Hirschkorn",
+      "picks": {
+        "Law": null,
+        "Kiley": null,
+        "Ward": "34",
+        "Callis": null,
+        "Doyle": null,
+        "Collazo": null,
+        "Mayo": null,
+        "Longenhagen": null
+      },
+      "avg": 34.0,
+      "min": 34,
+      "max": 34
+    },
+    {
+      "pick": "46",
       "name": "Logan Schmidt",
       "picks": {
         "Law": null,
@@ -735,14 +817,15 @@
         "Doyle": null,
         "Collazo": "32",
         "Mayo": "34",
-        "Longenhagen": null
+        "Longenhagen": null,
+        "Ward": null
       },
       "avg": 34.7,
       "min": 32,
       "max": 38
     },
     {
-      "pick": "45",
+      "pick": "47",
       "name": "Eric Becker",
       "picks": {
         "Law": null,
@@ -751,18 +834,37 @@
         "Doyle": "37",
         "Collazo": "40",
         "Mayo": "31",
-        "Longenhagen": null
+        "Longenhagen": null,
+        "Ward": null
       },
       "avg": 34.8,
       "min": 31,
       "max": 40
     },
     {
-      "pick": "46",
+      "pick": "48",
       "name": "Jack Radel",
       "picks": {
         "Law": null,
         "Kiley": "37",
+        "Callis": null,
+        "Doyle": null,
+        "Collazo": null,
+        "Mayo": null,
+        "Longenhagen": null,
+        "Ward": null
+      },
+      "avg": 37.0,
+      "min": 37,
+      "max": 37
+    },
+    {
+      "pick": "49",
+      "name": "Jack Slightom",
+      "picks": {
+        "Law": null,
+        "Kiley": null,
+        "Ward": "37",
         "Callis": null,
         "Doyle": null,
         "Collazo": null,
@@ -774,7 +876,7 @@
       "max": 37
     },
     {
-      "pick": "47",
+      "pick": "50",
       "name": "Will Brick",
       "picks": {
         "Law": null,
@@ -783,7 +885,8 @@
         "Doyle": null,
         "Collazo": null,
         "Mayo": null,
-        "Longenhagen": null
+        "Longenhagen": null,
+        "Ward": null
       },
       "avg": 39.0,
       "min": 39,
