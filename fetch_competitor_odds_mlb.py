@@ -860,7 +860,6 @@ def add_placeholder_books():
     """Add placeholder entries for books not yet offering or app-only."""
     return {
         "Bet365": "Manual entry available",
-        "Bookmaker": "App-only — manual entry required",
         "Caesars": "App-only — manual entry required",
         "Kambi": "Not yet offering — will scrape when available",
     }
