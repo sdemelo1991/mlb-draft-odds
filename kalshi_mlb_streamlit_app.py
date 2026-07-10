@@ -586,6 +586,8 @@ PICK_ORDER = ["#1 Overall", "#2 Overall", "#3 Overall", "#4 Overall", "#5 Overal
 OVERALL_PICKS = ["#1 Overall", "#2 Overall", "#3 Overall", "#4 Overall", "#5 Overall"]
 TOP_PICKS = ["Top 3 Pick", "Top 5 Pick", "Top 10 Pick", "R1"]
 BOOKS_ORDER = ["Kalshi", "FanDuel", "Bookmaker", "DraftKings", "Caesars", "Kambi", "Betano", "Bet99", "BetMGM"]
+# O/U tab shows a frozen "BM Opener" snapshot beside the live Bookmaker line to gauge directional movement
+OU_BOOKS_ORDER = ["Kalshi", "FanDuel", "Bookmaker", "BM Opener", "DraftKings", "Caesars", "Kambi", "Betano", "Bet99", "BetMGM"]
 
 # Maps Kalshi event titles → PICK_ORDER labels
 KALSHI_EVENT_TO_PICK = {
@@ -1040,7 +1042,7 @@ with tab_sportsbook:
                 df_ou_pivot = pd.DataFrame.from_dict(df_ou_data, orient="index")
                 df_ou_pivot.index = df_ou_pivot.index.map(_normalize_player)  # Normalize for mock_lookup matching
                 df_ou_pivot.index.name = "Player"
-                ou_book_order = [b for b in BOOKS_ORDER if b in df_ou_pivot.columns]
+                ou_book_order = [b for b in OU_BOOKS_ORDER if b in df_ou_pivot.columns]
                 df_ou_pivot = df_ou_pivot.reindex(columns=ou_book_order)
 
                 # Add Mock Average and Mock Range columns

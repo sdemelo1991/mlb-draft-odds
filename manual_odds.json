@@ -643,6 +643,439 @@
       "american": 20882
     }
   ],
-  "ou": [],
+  "ou": [
+    {
+      "player": "Ace Reese",
+      "line": "Over 21.5",
+      "book": "Bookmaker",
+      "american": -112
+    },
+    {
+      "player": "Ace Reese",
+      "line": "Under 21.5",
+      "book": "Bookmaker",
+      "american": -112
+    },
+    {
+      "player": "Aiden Robbins",
+      "line": "Over 29.5",
+      "book": "Bookmaker",
+      "american": -137
+    },
+    {
+      "player": "Aiden Robbins",
+      "line": "Under 29.5",
+      "book": "Bookmaker",
+      "american": 113
+    },
+    {
+      "player": "AJ Gracia",
+      "line": "Over 22.5",
+      "book": "Bookmaker",
+      "american": -112
+    },
+    {
+      "player": "AJ Gracia",
+      "line": "Under 22.5",
+      "book": "Bookmaker",
+      "american": -112
+    },
+    {
+      "player": "Archer Horn",
+      "line": "Over 31.5",
+      "book": "Bookmaker",
+      "american": -112
+    },
+    {
+      "player": "Archer Horn",
+      "line": "Under 31.5",
+      "book": "Bookmaker",
+      "american": -112
+    },
+    {
+      "player": "Bo Lowrance",
+      "line": "Over 21.5",
+      "book": "Bookmaker",
+      "american": 113
+    },
+    {
+      "player": "Bo Lowrance",
+      "line": "Under 21.5",
+      "book": "Bookmaker",
+      "american": -137
+    },
+    {
+      "player": "Cameron Flukey",
+      "line": "Over 22.5",
+      "book": "Bookmaker",
+      "american": -107
+    },
+    {
+      "player": "Cameron Flukey",
+      "line": "Under 22.5",
+      "book": "Bookmaker",
+      "american": -117
+    },
+    {
+      "player": "Chris Hacopian",
+      "line": "Over 11.5",
+      "book": "Bookmaker",
+      "american": -102
+    },
+    {
+      "player": "Chris Hacopian",
+      "line": "Under 11.5",
+      "book": "Bookmaker",
+      "american": -122
+    },
+    {
+      "player": "Cole Carlon",
+      "line": "Over 32.5",
+      "book": "Bookmaker",
+      "american": 100
+    },
+    {
+      "player": "Cole Carlon",
+      "line": "Under 32.5",
+      "book": "Bookmaker",
+      "american": -124
+    },
+    {
+      "player": "Cole Prosek",
+      "line": "Over 32.5",
+      "book": "Bookmaker",
+      "american": -112
+    },
+    {
+      "player": "Cole Prosek",
+      "line": "Under 32.5",
+      "book": "Bookmaker",
+      "american": -112
+    },
+    {
+      "player": "Daniel Jackson",
+      "line": "Over 25.5",
+      "book": "Bookmaker",
+      "american": 123
+    },
+    {
+      "player": "Daniel Jackson",
+      "line": "Under 25.5",
+      "book": "Bookmaker",
+      "american": -147
+    },
+    {
+      "player": "Derek Curiel",
+      "line": "Over 10.5",
+      "book": "Bookmaker",
+      "american": 138
+    },
+    {
+      "player": "Derek Curiel",
+      "line": "Under 10.5",
+      "book": "Bookmaker",
+      "american": -166
+    },
+    {
+      "player": "Drew Burress",
+      "line": "Over 7.5",
+      "book": "Bookmaker",
+      "american": 162
+    },
+    {
+      "player": "Drew Burress",
+      "line": "Under 7.5",
+      "book": "Bookmaker",
+      "american": -196
+    },
+    {
+      "player": "Eric Becker",
+      "line": "Over 35.5",
+      "book": "Bookmaker",
+      "american": -112
+    },
+    {
+      "player": "Eric Becker",
+      "line": "Under 35.5",
+      "book": "Bookmaker",
+      "american": -112
+    },
+    {
+      "player": "Eric Booth Jr.",
+      "line": "Over 6.5",
+      "book": "Bookmaker",
+      "american": 200
+    },
+    {
+      "player": "Eric Booth Jr.",
+      "line": "Under 6.5",
+      "book": "Bookmaker",
+      "american": -245
+    },
+    {
+      "player": "Gio Rojas",
+      "line": "Over 12.5",
+      "book": "Bookmaker",
+      "american": 121
+    },
+    {
+      "player": "Gio Rojas",
+      "line": "Under 12.5",
+      "book": "Bookmaker",
+      "american": -145
+    },
+    {
+      "player": "Hunter Dietz",
+      "line": "Over 21.5",
+      "book": "Bookmaker",
+      "american": -112
+    },
+    {
+      "player": "Hunter Dietz",
+      "line": "Under 21.5",
+      "book": "Bookmaker",
+      "american": -112
+    },
+    {
+      "player": "Justin Lebron",
+      "line": "Over 14.5",
+      "book": "Bookmaker",
+      "american": -112
+    },
+    {
+      "player": "Justin Lebron",
+      "line": "Under 14.5",
+      "book": "Bookmaker",
+      "american": -112
+    },
+    {
+      "player": "Landon Thome",
+      "line": "Over 33.5",
+      "book": "Bookmaker",
+      "american": -122
+    },
+    {
+      "player": "Landon Thome",
+      "line": "Under 33.5",
+      "book": "Bookmaker",
+      "american": -102
+    },
+    {
+      "player": "Ace Reese",
+      "line": "Over 21.5",
+      "book": "BM Opener",
+      "american": -112
+    },
+    {
+      "player": "Ace Reese",
+      "line": "Under 21.5",
+      "book": "BM Opener",
+      "american": -112
+    },
+    {
+      "player": "Aiden Robbins",
+      "line": "Over 29.5",
+      "book": "BM Opener",
+      "american": -137
+    },
+    {
+      "player": "Aiden Robbins",
+      "line": "Under 29.5",
+      "book": "BM Opener",
+      "american": 113
+    },
+    {
+      "player": "AJ Gracia",
+      "line": "Over 22.5",
+      "book": "BM Opener",
+      "american": -112
+    },
+    {
+      "player": "AJ Gracia",
+      "line": "Under 22.5",
+      "book": "BM Opener",
+      "american": -112
+    },
+    {
+      "player": "Archer Horn",
+      "line": "Over 31.5",
+      "book": "BM Opener",
+      "american": -112
+    },
+    {
+      "player": "Archer Horn",
+      "line": "Under 31.5",
+      "book": "BM Opener",
+      "american": -112
+    },
+    {
+      "player": "Bo Lowrance",
+      "line": "Over 21.5",
+      "book": "BM Opener",
+      "american": 113
+    },
+    {
+      "player": "Bo Lowrance",
+      "line": "Under 21.5",
+      "book": "BM Opener",
+      "american": -137
+    },
+    {
+      "player": "Cameron Flukey",
+      "line": "Over 22.5",
+      "book": "BM Opener",
+      "american": -107
+    },
+    {
+      "player": "Cameron Flukey",
+      "line": "Under 22.5",
+      "book": "BM Opener",
+      "american": -117
+    },
+    {
+      "player": "Chris Hacopian",
+      "line": "Over 11.5",
+      "book": "BM Opener",
+      "american": -102
+    },
+    {
+      "player": "Chris Hacopian",
+      "line": "Under 11.5",
+      "book": "BM Opener",
+      "american": -122
+    },
+    {
+      "player": "Cole Carlon",
+      "line": "Over 32.5",
+      "book": "BM Opener",
+      "american": 100
+    },
+    {
+      "player": "Cole Carlon",
+      "line": "Under 32.5",
+      "book": "BM Opener",
+      "american": -124
+    },
+    {
+      "player": "Cole Prosek",
+      "line": "Over 32.5",
+      "book": "BM Opener",
+      "american": -112
+    },
+    {
+      "player": "Cole Prosek",
+      "line": "Under 32.5",
+      "book": "BM Opener",
+      "american": -112
+    },
+    {
+      "player": "Daniel Jackson",
+      "line": "Over 25.5",
+      "book": "BM Opener",
+      "american": 123
+    },
+    {
+      "player": "Daniel Jackson",
+      "line": "Under 25.5",
+      "book": "BM Opener",
+      "american": -147
+    },
+    {
+      "player": "Derek Curiel",
+      "line": "Over 10.5",
+      "book": "BM Opener",
+      "american": 138
+    },
+    {
+      "player": "Derek Curiel",
+      "line": "Under 10.5",
+      "book": "BM Opener",
+      "american": -166
+    },
+    {
+      "player": "Drew Burress",
+      "line": "Over 7.5",
+      "book": "BM Opener",
+      "american": 162
+    },
+    {
+      "player": "Drew Burress",
+      "line": "Under 7.5",
+      "book": "BM Opener",
+      "american": -196
+    },
+    {
+      "player": "Eric Becker",
+      "line": "Over 35.5",
+      "book": "BM Opener",
+      "american": -112
+    },
+    {
+      "player": "Eric Becker",
+      "line": "Under 35.5",
+      "book": "BM Opener",
+      "american": -112
+    },
+    {
+      "player": "Eric Booth Jr.",
+      "line": "Over 6.5",
+      "book": "BM Opener",
+      "american": 200
+    },
+    {
+      "player": "Eric Booth Jr.",
+      "line": "Under 6.5",
+      "book": "BM Opener",
+      "american": -245
+    },
+    {
+      "player": "Gio Rojas",
+      "line": "Over 12.5",
+      "book": "BM Opener",
+      "american": 121
+    },
+    {
+      "player": "Gio Rojas",
+      "line": "Under 12.5",
+      "book": "BM Opener",
+      "american": -145
+    },
+    {
+      "player": "Hunter Dietz",
+      "line": "Over 21.5",
+      "book": "BM Opener",
+      "american": -112
+    },
+    {
+      "player": "Hunter Dietz",
+      "line": "Under 21.5",
+      "book": "BM Opener",
+      "american": -112
+    },
+    {
+      "player": "Justin Lebron",
+      "line": "Over 14.5",
+      "book": "BM Opener",
+      "american": -112
+    },
+    {
+      "player": "Justin Lebron",
+      "line": "Under 14.5",
+      "book": "BM Opener",
+      "american": -112
+    },
+    {
+      "player": "Landon Thome",
+      "line": "Over 33.5",
+      "book": "BM Opener",
+      "american": -122
+    },
+    {
+      "player": "Landon Thome",
+      "line": "Under 33.5",
+      "book": "BM Opener",
+      "american": -102
+    }
+  ],
   "h2h": []
 }
