@@ -587,7 +587,7 @@ OVERALL_PICKS = ["#1 Overall", "#2 Overall", "#3 Overall", "#4 Overall", "#5 Ove
 TOP_PICKS = ["Top 3 Pick", "Top 5 Pick", "Top 10 Pick", "R1"]
 BOOKS_ORDER = ["Kalshi", "FanDuel", "Bookmaker", "DraftKings", "Caesars", "Kambi", "Betano", "Bet99", "BetMGM"]
 # O/U tab shows a frozen "BM Opener" snapshot beside the live Bookmaker line to gauge directional movement
-OU_BOOKS_ORDER = ["Kalshi", "FanDuel", "Bookmaker", "BM Opener", "DraftKings", "Caesars", "Kambi", "Betano", "Bet99", "BetMGM"]
+OU_BOOKS_ORDER = ["Kalshi", "FanDuel", "BM Opener", "Bookmaker", "DraftKings", "Caesars", "Kambi", "Betano", "Bet99", "BetMGM"]
 
 # Maps Kalshi event titles → PICK_ORDER labels
 KALSHI_EVENT_TO_PICK = {
