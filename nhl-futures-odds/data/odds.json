@@ -5686,6 +5686,12 @@
           "bet365": 15000,
           "fanduel": 5000
         }
+      },
+      "test": {
+        "team": "",
+        "prices": {
+          "fanduel": 10000
+        }
       }
     },
     "art_ross": {
@@ -9121,7 +9127,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-21 03:17",
+    "last_updated": "2026-08-21 11:17",
     "book_updated": {
       "dazn": "2026-08-21",
       "fanduel": "2026-08-21",
