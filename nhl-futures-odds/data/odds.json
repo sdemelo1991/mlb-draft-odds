@@ -6174,7 +6174,7 @@
       "yes": {
         "dazn": 250,
         "fanduel": 285,
-        "kambi": 275,
+        "kambi": 220,
         "betmgm": 275,
         "betano": 250,
         "betonline": 250,
@@ -6187,7 +6187,7 @@
       "no": {
         "dazn": -357,
         "fanduel": -400,
-        "kambi": -375,
+        "kambi": -286,
         "betmgm": -350,
         "betano": -357,
         "betonline": -325,
@@ -9121,7 +9121,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-21 01:07",
+    "last_updated": "2026-08-21 03:17",
     "book_updated": {
       "dazn": "2026-08-21",
       "fanduel": "2026-08-21",
