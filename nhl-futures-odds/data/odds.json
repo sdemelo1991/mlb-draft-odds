@@ -7074,7 +7074,7 @@
         "pinnacle": 1647,
         "dazn": 1400,
         "fanduel": 1900,
-        "kambi": 1700,
+        "kambi": 1600,
         "betmgm": 1900,
         "betano": 1700,
         "betonline": 1800,
@@ -9127,10 +9127,10 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-22 15:37",
+    "last_updated": "2026-08-23 00:27",
     "book_updated": {
-      "dazn": "2026-08-22",
-      "fanduel": "2026-08-22",
+      "dazn": "2026-08-23",
+      "fanduel": "2026-08-23",
       "kalshi": "2026-08-20",
       "circa": "2026-08-11 12:25 (Circa mobile app)",
       "bookmaker": "2026-08-11",
