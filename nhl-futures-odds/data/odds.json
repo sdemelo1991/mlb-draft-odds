@@ -5436,7 +5436,8 @@
         "prices": {
           "caesars": 600,
           "bet365": 600,
-          "fanduel": 1100
+          "fanduel": 1100,
+          "kambi": 700
         }
       },
       "Spencer Carbery": {
@@ -5444,7 +5445,8 @@
         "prices": {
           "caesars": 600,
           "bet365": 600,
-          "fanduel": 2200
+          "fanduel": 2200,
+          "kambi": 1000
         }
       },
       "Paul Maurice": {
@@ -5452,7 +5454,8 @@
         "prices": {
           "caesars": 800,
           "bet365": 800,
-          "fanduel": 1100
+          "fanduel": 1100,
+          "kambi": 1000
         }
       },
       "Mike Babcock": {
@@ -5460,7 +5463,8 @@
         "prices": {
           "caesars": 1000,
           "bet365": 1000,
-          "fanduel": 2500
+          "fanduel": 2500,
+          "kambi": 1500
         }
       },
       "Jim Hiller": {
@@ -5468,7 +5472,8 @@
         "prices": {
           "caesars": 1500,
           "bet365": 1400,
-          "fanduel": 2000
+          "fanduel": 2000,
+          "kambi": 1500
         }
       },
       "Sheldon Keefe": {
@@ -5476,7 +5481,8 @@
         "prices": {
           "caesars": 1500,
           "bet365": 1400,
-          "fanduel": 1600
+          "fanduel": 1600,
+          "kambi": 1500
         }
       },
       "Rick Tocchet": {
@@ -5484,7 +5490,8 @@
         "prices": {
           "caesars": 1600,
           "bet365": 1600,
-          "fanduel": 2200
+          "fanduel": 2200,
+          "kambi": 2000
         }
       },
       "Martin St. Louis": {
@@ -5492,7 +5499,8 @@
         "prices": {
           "caesars": 1600,
           "bet365": 1600,
-          "fanduel": 2200
+          "fanduel": 2200,
+          "kambi": 2000
         }
       },
       "John Hynes": {
@@ -5500,7 +5508,8 @@
         "prices": {
           "caesars": 1800,
           "bet365": 2000,
-          "fanduel": 2000
+          "fanduel": 2000,
+          "kambi": 1500
         }
       },
       "Glen Gulutzan": {
@@ -5508,7 +5517,8 @@
         "prices": {
           "caesars": 2000,
           "bet365": 2000,
-          "fanduel": 2500
+          "fanduel": 2500,
+          "kambi": 2500
         }
       },
       "Rod Brind'Amour": {
@@ -5516,7 +5526,8 @@
         "prices": {
           "caesars": 2000,
           "bet365": 2000,
-          "fanduel": 2500
+          "fanduel": 2500,
+          "kambi": 2000
         }
       },
       "Jim Montgomery": {
@@ -5524,7 +5535,8 @@
         "prices": {
           "caesars": 2000,
           "bet365": 2000,
-          "fanduel": 4000
+          "fanduel": 4000,
+          "kambi": 3500
         }
       },
       "Peter Laviolette": {
@@ -5532,7 +5544,8 @@
         "prices": {
           "caesars": 2000,
           "bet365": 2000,
-          "fanduel": 1500
+          "fanduel": 1500,
+          "kambi": 1500
         }
       },
       "Ryan Craig": {
@@ -5540,7 +5553,8 @@
         "prices": {
           "caesars": 2500,
           "bet365": 2500,
-          "fanduel": 2200
+          "fanduel": 2200,
+          "kambi": 2500
         }
       },
       "Mike Sullivan": {
@@ -5548,7 +5562,8 @@
         "prices": {
           "caesars": 2500,
           "bet365": 2500,
-          "fanduel": 2500
+          "fanduel": 2500,
+          "kambi": 2500
         }
       },
       "Andre Tourigny": {
@@ -5556,7 +5571,8 @@
         "prices": {
           "caesars": 2500,
           "bet365": 2500,
-          "fanduel": 2200
+          "fanduel": 2200,
+          "kambi": 2500
         }
       },
       "Rick Bowness": {
@@ -5564,7 +5580,8 @@
         "prices": {
           "caesars": 2500,
           "bet365": 2500,
-          "fanduel": 2000
+          "fanduel": 2000,
+          "kambi": 2000
         }
       },
       "Peter DeBoer": {
@@ -5572,7 +5589,8 @@
         "prices": {
           "caesars": 2800,
           "bet365": 2800,
-          "fanduel": 2700
+          "fanduel": 2700,
+          "kambi": 3500
         }
       },
       "Lindy Ruff": {
@@ -5580,7 +5598,8 @@
         "prices": {
           "caesars": 3000,
           "bet365": 3000,
-          "fanduel": 2200
+          "fanduel": 2200,
+          "kambi": 2500
         }
       },
       "Jared Bednar": {
@@ -5588,7 +5607,8 @@
         "prices": {
           "caesars": 3500,
           "bet365": 3500,
-          "fanduel": 1700
+          "fanduel": 1700,
+          "kambi": 2000
         }
       },
       "Travis Green": {
@@ -5596,7 +5616,8 @@
         "prices": {
           "caesars": 4000,
           "bet365": 4000,
-          "fanduel": 2500
+          "fanduel": 2500,
+          "kambi": 2500
         }
       },
       "Jon Cooper": {
@@ -5604,7 +5625,8 @@
         "prices": {
           "caesars": 5000,
           "bet365": 5000,
-          "fanduel": 3500
+          "fanduel": 3500,
+          "kambi": 5000
         }
       },
       "Andrew Brunette": {
@@ -5612,7 +5634,8 @@
         "prices": {
           "caesars": 5000,
           "bet365": 5000,
-          "fanduel": 3500
+          "fanduel": 3500,
+          "kambi": 5000
         }
       },
       "Marco Sturm": {
@@ -5620,7 +5643,8 @@
         "prices": {
           "caesars": 6000,
           "bet365": 6000,
-          "fanduel": 3500
+          "fanduel": 3500,
+          "kambi": 5000
         }
       },
       "Scott Arniel": {
@@ -5628,7 +5652,8 @@
         "prices": {
           "caesars": 6000,
           "bet365": 6000,
-          "fanduel": 4500
+          "fanduel": 4500,
+          "kambi": 6000
         }
       },
       "Joel Quenneville": {
@@ -5636,7 +5661,8 @@
         "prices": {
           "caesars": 7000,
           "bet365": 7500,
-          "fanduel": 4000
+          "fanduel": 4000,
+          "kambi": 5000
         }
       },
       "Dan Muse": {
@@ -5644,7 +5670,8 @@
         "prices": {
           "caesars": 8000,
           "bet365": 7500,
-          "fanduel": 3000
+          "fanduel": 3000,
+          "kambi": 5000
         }
       },
       "Jeff Blashill": {
@@ -5652,7 +5679,8 @@
         "prices": {
           "caesars": 8000,
           "bet365": 7500,
-          "fanduel": 3300
+          "fanduel": 3300,
+          "kambi": 5000
         }
       },
       "Lane Lambert": {
@@ -5660,7 +5688,8 @@
         "prices": {
           "caesars": 10000,
           "bet365": 10000,
-          "fanduel": 4000
+          "fanduel": 4000,
+          "kambi": 7500
         }
       },
       "Todd McLellan": {
@@ -5668,7 +5697,8 @@
         "prices": {
           "caesars": 10000,
           "bet365": 10000,
-          "fanduel": 3000
+          "fanduel": 3000,
+          "kambi": 7500
         }
       },
       "Manny Malhotra": {
@@ -5676,7 +5706,8 @@
         "prices": {
           "caesars": 15000,
           "bet365": 15000,
-          "fanduel": 5000
+          "fanduel": 5000,
+          "kambi": 7500
         }
       },
       "Ryan Huska": {
@@ -5684,7 +5715,8 @@
         "prices": {
           "caesars": 15000,
           "bet365": 15000,
-          "fanduel": 5000
+          "fanduel": 5000,
+          "kambi": 7500
         }
       },
       "test": {
@@ -9127,7 +9159,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-23 00:27",
+    "last_updated": "2026-08-23 09:57",
     "book_updated": {
       "dazn": "2026-08-23",
       "fanduel": "2026-08-23",
