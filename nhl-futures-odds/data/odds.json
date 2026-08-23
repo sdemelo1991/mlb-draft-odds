@@ -5437,7 +5437,7 @@
           "caesars": 600,
           "bet365": 600,
           "fanduel": 1100,
-          "kambi": 700
+          "kambi": 850
         }
       },
       "Spencer Carbery": {
@@ -5446,7 +5446,7 @@
           "caesars": 600,
           "bet365": 600,
           "fanduel": 2200,
-          "kambi": 1000
+          "kambi": 1300
         }
       },
       "Paul Maurice": {
@@ -5464,7 +5464,7 @@
           "caesars": 1000,
           "bet365": 1000,
           "fanduel": 2500,
-          "kambi": 1500
+          "kambi": 1700
         }
       },
       "Jim Hiller": {
@@ -5473,7 +5473,7 @@
           "caesars": 1500,
           "bet365": 1400,
           "fanduel": 2000,
-          "kambi": 1500
+          "kambi": 1700
         }
       },
       "Sheldon Keefe": {
@@ -5509,7 +5509,7 @@
           "caesars": 1800,
           "bet365": 2000,
           "fanduel": 2000,
-          "kambi": 1500
+          "kambi": 1700
         }
       },
       "Glen Gulutzan": {
@@ -5527,7 +5527,7 @@
           "caesars": 2000,
           "bet365": 2000,
           "fanduel": 2500,
-          "kambi": 2000
+          "kambi": 2300
         }
       },
       "Jim Montgomery": {
@@ -5545,7 +5545,7 @@
           "caesars": 2000,
           "bet365": 2000,
           "fanduel": 1500,
-          "kambi": 1500
+          "kambi": 1700
         }
       },
       "Ryan Craig": {
@@ -5581,7 +5581,7 @@
           "caesars": 2500,
           "bet365": 2500,
           "fanduel": 2000,
-          "kambi": 2000
+          "kambi": 2300
         }
       },
       "Peter DeBoer": {
@@ -5617,7 +5617,7 @@
           "caesars": 4000,
           "bet365": 4000,
           "fanduel": 2500,
-          "kambi": 2500
+          "kambi": 2700
         }
       },
       "Jon Cooper": {
@@ -9159,7 +9159,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-23 12:57",
+    "last_updated": "2026-08-23 16:17",
     "book_updated": {
       "dazn": "2026-08-23",
       "fanduel": "2026-08-23",
