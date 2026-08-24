@@ -2648,8 +2648,6 @@
       "Alberts A mits": {
         "team": "",
         "prices": {
-          "fanduel": 10000,
-          "kambi": 9000,
           "betmgm": 15000,
           "betano": 12400,
           "thescore": 10000,
@@ -2862,8 +2860,6 @@
       "Oscar Fisker MA lgaard": {
         "team": "",
         "prices": {
-          "fanduel": 30000,
-          "kambi": 10000,
           "betmgm": 30000,
           "betano": 19900,
           "draftkings": 15000,
@@ -8489,7 +8485,6 @@
       },
       "Chicago Blackhawks": {
         "dazn": 19900,
-        "fanduel": 40000,
         "kambi": 35000,
         "betmgm": 40000,
         "betano": 49900,
@@ -8500,7 +8495,6 @@
       },
       "Seattle Kraken": {
         "dazn": 29900,
-        "fanduel": 40000,
         "kambi": 50000,
         "betmgm": 40000,
         "betano": 49900,
@@ -9173,7 +9167,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-24 10:57",
+    "last_updated": "2026-08-24 11:08",
     "book_updated": {
       "dazn": "2026-08-24",
       "fanduel": "2026-08-24",
