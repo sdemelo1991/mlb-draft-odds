@@ -3027,7 +3027,10 @@
           "kambi": 9000,
           "betmgm": 15000,
           "betano": 12400,
-          "draftkings": 15000
+          "draftkings": 15000,
+          "caesars": 15000,
+          "bet365": 10000,
+          "hardrock": 10000
         }
       },
       "Oscar Fisker Mølgaard": {
@@ -3037,7 +3040,10 @@
           "kambi": 10000,
           "betmgm": 30000,
           "betano": 19900,
-          "draftkings": 15000
+          "draftkings": 15000,
+          "caesars": 27500,
+          "bet365": 15000,
+          "hardrock": 15000
         }
       }
     },
@@ -9163,7 +9169,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-24 11:17",
+    "last_updated": "2026-08-24 11:48",
     "book_updated": {
       "dazn": "2026-08-24",
       "fanduel": "2026-08-24",
