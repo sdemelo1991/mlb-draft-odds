@@ -3034,7 +3034,8 @@
           "fanduel": 10000,
           "kambi": 9000,
           "betmgm": 15000,
-          "betano": 12400
+          "betano": 12400,
+          "draftkings": 15000
         }
       },
       "Oscar Fisker Mølgaard": {
@@ -3043,7 +3044,8 @@
           "fanduel": 30000,
           "kambi": 10000,
           "betmgm": 30000,
-          "betano": 19900
+          "betano": 19900,
+          "draftkings": 15000
         }
       }
     },
@@ -9171,7 +9173,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-24 10:39",
+    "last_updated": "2026-08-24 10:57",
     "book_updated": {
       "dazn": "2026-08-24",
       "fanduel": "2026-08-24",
