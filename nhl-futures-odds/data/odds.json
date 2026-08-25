@@ -8981,195 +8981,227 @@
         "fanduel": 340,
         "caesars": 325,
         "bet365": 325,
-        "hardrock": 325
+        "hardrock": 325,
+        "betmgm": 320
       },
       "Calgary Flames": {
         "fanduel": 460,
         "caesars": 425,
         "bet365": 475,
-        "hardrock": 475
+        "hardrock": 475,
+        "betmgm": 450
       },
       "Seattle Kraken": {
         "fanduel": 700,
         "caesars": 650,
         "bet365": 750,
-        "hardrock": 700
+        "hardrock": 700,
+        "betmgm": 700
       },
       "Chicago Blackhawks": {
         "fanduel": 650,
         "caesars": 600,
         "bet365": 650,
-        "hardrock": 650
+        "hardrock": 650,
+        "betmgm": 675
       },
       "Winnipeg Jets": {
         "fanduel": 1500,
         "caesars": 1600,
         "bet365": 1600,
-        "hardrock": 1600
+        "hardrock": 1600,
+        "betmgm": 1700
       },
       "St. Louis Blues": {
         "fanduel": 1700,
         "caesars": 1600,
         "bet365": 1600,
-        "hardrock": 1600
+        "hardrock": 1600,
+        "betmgm": 1600
       },
       "Nashville Predators": {
         "fanduel": 1500,
         "caesars": 1500,
         "bet365": 1600,
-        "hardrock": 1600
+        "hardrock": 1600,
+        "betmgm": 1700
       },
       "Boston Bruins": {
         "fanduel": 1800,
         "caesars": 2000,
         "bet365": 2000,
-        "hardrock": 1750
+        "hardrock": 1750,
+        "betmgm": 2200
       },
       "Detroit Red Wings": {
         "fanduel": 1900,
         "caesars": 1900,
         "bet365": 2000,
-        "hardrock": 2000
+        "hardrock": 2000,
+        "betmgm": 1900
       },
       "New York Islanders": {
         "fanduel": 2000,
         "caesars": 2400,
         "bet365": 2000,
-        "hardrock": 2000
+        "hardrock": 2000,
+        "betmgm": 2200
       },
       "Pittsburgh Penguins": {
         "fanduel": 2200,
         "caesars": 2000,
         "bet365": 3000,
-        "hardrock": 2000
+        "hardrock": 2000,
+        "betmgm": 3000
       },
       "New York Rangers": {
         "fanduel": 2200,
         "caesars": 1900,
         "bet365": 2500,
-        "hardrock": 2250
+        "hardrock": 2250,
+        "betmgm": 2800
       },
       "San Jose Sharks": {
         "fanduel": 3500,
         "caesars": 4000,
         "bet365": 4000,
-        "hardrock": 3000
+        "hardrock": 3000,
+        "betmgm": 6000
       },
       "Columbus Blue Jackets": {
         "fanduel": 4000,
         "caesars": 3500,
         "bet365": 3500,
-        "hardrock": 3000
+        "hardrock": 3000,
+        "betmgm": 4000
       },
       "Philadelphia Flyers": {
         "fanduel": 4000,
         "caesars": 3500,
         "bet365": 3500,
-        "hardrock": 4000
+        "hardrock": 4000,
+        "betmgm": 4000
       },
       "Anaheim Ducks": {
         "fanduel": 4500,
         "caesars": 4000,
         "bet365": 5000,
-        "hardrock": 4000
+        "hardrock": 4000,
+        "betmgm": 6600
       },
       "Utah Mammoth": {
         "fanduel": 7000,
         "caesars": 5000,
         "bet365": 7500,
-        "hardrock": 6000
+        "hardrock": 6000,
+        "betmgm": 8000
       },
       "Ottawa Senators": {
         "fanduel": 6000,
         "caesars": 6000,
         "bet365": 4000,
-        "hardrock": 6000
+        "hardrock": 6000,
+        "betmgm": 6000
       },
       "Buffalo Sabres": {
         "fanduel": 6000,
         "caesars": 6000,
         "bet365": 5500,
-        "hardrock": 6000
+        "hardrock": 6000,
+        "betmgm": 6600
       },
       "Los Angeles Kings": {
         "fanduel": 5500,
         "caesars": 5500,
         "bet365": 6000,
-        "hardrock": 6000
+        "hardrock": 6000,
+        "betmgm": 6600
       },
       "Toronto Maple Leafs": {
         "fanduel": 7000,
         "caesars": 7000,
         "bet365": 7000,
-        "hardrock": 7500
+        "hardrock": 7500,
+        "betmgm": 8000
       },
       "New Jersey Devils": {
         "fanduel": 6500,
         "caesars": 6000,
         "bet365": 7500,
-        "hardrock": 7500
+        "hardrock": 7500,
+        "betmgm": 8000
       },
       "Montreal Canadiens": {
         "fanduel": 10000,
         "caesars": 7500,
         "bet365": 10000,
-        "hardrock": 10000
+        "hardrock": 10000,
+        "betmgm": 12500
       },
       "Dallas Stars": {
         "fanduel": 17500,
         "caesars": 15000,
         "bet365": 12500,
-        "hardrock": 15000
+        "hardrock": 15000,
+        "betmgm": 15000
       },
       "Minnesota Wild": {
         "fanduel": 20000,
         "caesars": 17500,
         "bet365": 20000,
-        "hardrock": 20000
+        "hardrock": 20000,
+        "betmgm": 17500
       },
       "Vegas Golden Knights": {
         "fanduel": 22500,
         "caesars": 25000,
         "bet365": 25000,
-        "hardrock": 20000
+        "hardrock": 20000,
+        "betmgm": 20000
       },
       "Washington Capitals": {
         "fanduel": 20000,
         "caesars": 10000,
         "bet365": 12500,
-        "hardrock": 20000
+        "hardrock": 20000,
+        "betmgm": 15000
       },
       "Edmonton Oilers": {
         "fanduel": 30000,
         "caesars": 22500,
         "bet365": 25000,
-        "hardrock": 25000
+        "hardrock": 25000,
+        "betmgm": 30000
       },
       "Tampa Bay Lightning": {
         "fanduel": 30000,
         "caesars": 25000,
         "bet365": 25000,
-        "hardrock": 25000
+        "hardrock": 25000,
+        "betmgm": 30000
       },
       "Florida Panthers": {
         "caesars": 35000,
         "bet365": 30000,
-        "hardrock": 25000
+        "hardrock": 25000,
+        "betmgm": 50000
       },
       "Colorado Avalanche": {
         "caesars": 50000,
         "bet365": 30000,
-        "hardrock": 25000
+        "hardrock": 25000,
+        "betmgm": 50000
       },
       "Carolina Hurricanes": {
         "caesars": 50000,
         "bet365": 30000,
-        "hardrock": 25000
+        "hardrock": 25000,
+        "betmgm": 50000
       }
     }
   },
   "meta": {
-    "last_updated": "2026-08-25 13:27",
+    "last_updated": "2026-08-25 15:57",
     "book_updated": {
       "dazn": "2026-08-25",
       "fanduel": "2026-08-25",
