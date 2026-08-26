@@ -5742,319 +5742,372 @@
       "Connor McDavid": {
         "team": "",
         "prices": {
-          "caesars": 275
+          "caesars": 275,
+          "kambi": 450
         }
       },
       "Nikita Kucherov": {
         "team": "",
         "prices": {
-          "caesars": 375
+          "caesars": 375,
+          "kambi": 850
         }
       },
       "Nathan MacKinnon": {
         "team": "",
         "prices": {
-          "caesars": 425
+          "caesars": 425,
+          "kambi": 650
         }
       },
       "Macklin Celebrini": {
         "team": "",
         "prices": {
-          "caesars": 1000
+          "caesars": 1000,
+          "kambi": 1500
         }
       },
       "Leon Draisaitl": {
         "team": "",
         "prices": {
-          "caesars": 1000
+          "caesars": 1000,
+          "kambi": 1500
         }
       },
       "David Pastrnak": {
         "team": "",
         "prices": {
-          "caesars": 1200
+          "caesars": 1200,
+          "kambi": 3000
         }
       },
       "Kirill Kaprizov": {
         "team": "",
         "prices": {
-          "caesars": 2000
+          "caesars": 2000,
+          "kambi": 3000
         }
       },
       "Jack Eichel": {
         "team": "",
         "prices": {
-          "caesars": 2000
+          "caesars": 2000,
+          "kambi": 3500
         }
       },
       "Jason Robertson": {
         "team": "",
         "prices": {
-          "caesars": 2500
+          "caesars": 2500,
+          "kambi": 3500
         }
       },
       "Kyle Connor": {
         "team": "",
         "prices": {
-          "caesars": 2800
+          "caesars": 2800,
+          "kambi": 5400
         }
       },
       "Mitchell Marner": {
         "team": "",
         "prices": {
-          "caesars": 3000
+          "caesars": 3000,
+          "kambi": 5400
         }
       },
       "Cale Makar": {
         "team": "",
         "prices": {
-          "caesars": 4000
+          "caesars": 4000,
+          "kambi": 5400
         }
       },
       "William Nylander": {
         "team": "",
         "prices": {
-          "caesars": 4000
+          "caesars": 4000,
+          "kambi": 5400
         }
       },
       "Auston Matthews": {
         "team": "",
         "prices": {
-          "caesars": 5000
+          "caesars": 5000,
+          "kambi": 5400
         }
       },
       "Nick Suzuki": {
         "team": "",
         "prices": {
-          "caesars": 5000
+          "caesars": 5000,
+          "kambi": 3500
         }
       },
       "Mikko Rantanen": {
         "team": "",
         "prices": {
-          "caesars": 5000
+          "caesars": 5000,
+          "kambi": 3500
         }
       },
       "Clayton Keller": {
         "team": "",
         "prices": {
-          "caesars": 5000
+          "caesars": 5000,
+          "kambi": 5400
         }
       },
       "Jake Guentzel": {
         "team": "",
         "prices": {
-          "caesars": 5000
+          "caesars": 5000,
+          "kambi": 5400
         }
       },
       "Jack Hughes": {
         "team": "",
         "prices": {
-          "caesars": 7500
+          "caesars": 7500,
+          "kambi": 7500
         }
       },
       "Quinn Hughes": {
         "team": "",
         "prices": {
-          "caesars": 7500
+          "caesars": 7500,
+          "kambi": 7500
         }
       },
       "Martin Necas": {
         "team": "",
         "prices": {
-          "caesars": 7500
+          "caesars": 7500,
+          "kambi": 5400
         }
       },
       "Matthew Tkachuk": {
         "team": "",
         "prices": {
-          "caesars": 7500
+          "caesars": 7500,
+          "kambi": 7500
         }
       },
       "Cole Caufield": {
         "team": "",
         "prices": {
-          "caesars": 7500
+          "caesars": 7500,
+          "kambi": 7500
         }
       },
       "Rasmus Dahlin": {
         "team": "",
         "prices": {
-          "caesars": 10000
+          "caesars": 10000,
+          "kambi": 12500
         }
       },
       "Lane Hutson": {
         "team": "",
         "prices": {
-          "caesars": 10000
+          "caesars": 10000,
+          "kambi": 7500
         }
       },
       "Robert Thomas": {
         "team": "",
         "prices": {
-          "caesars": 10000
+          "caesars": 10000,
+          "kambi": 12500
         }
       },
       "Zach Werenski": {
         "team": "",
         "prices": {
-          "caesars": 10000
+          "caesars": 10000,
+          "kambi": 7500
         }
       },
       "Jesper Bratt": {
         "team": "",
         "prices": {
-          "caesars": 10000
+          "caesars": 10000,
+          "kambi": 12500
         }
       },
       "Sam Reinhart": {
         "team": "",
         "prices": {
-          "caesars": 10000
+          "caesars": 10000,
+          "kambi": 12500
         }
       },
       "Brandon Hagel": {
         "team": "",
         "prices": {
-          "caesars": 10000
+          "caesars": 10000,
+          "kambi": 12500
         }
       },
       "Matthew Boldy": {
         "team": "",
         "prices": {
-          "caesars": 15000
+          "caesars": 15000,
+          "kambi": 10000
         }
       },
       "Mark Scheifele": {
         "team": "",
         "prices": {
-          "caesars": 15000
+          "caesars": 15000,
+          "kambi": 30000
         }
       },
       "Dylan Larkin": {
         "team": "",
         "prices": {
-          "caesars": 15000
+          "caesars": 15000,
+          "kambi": 17500
         }
       },
       "Sidney Crosby": {
         "team": "",
         "prices": {
-          "caesars": 15000
+          "caesars": 15000,
+          "kambi": 10000
         }
       },
       "Wyatt Johnston": {
         "team": "",
         "prices": {
-          "caesars": 15000
+          "caesars": 15000,
+          "kambi": 10000
         }
       },
       "Leo Carlsson": {
         "team": "",
         "prices": {
-          "caesars": 15000
+          "caesars": 15000,
+          "kambi": 10000
         }
       },
       "Sebastian Aho": {
         "team": "",
         "prices": {
-          "caesars": 15000
+          "caesars": 15000,
+          "kambi": 15000
         }
       },
       "Tage Thompson": {
         "team": "",
         "prices": {
-          "caesars": 15000
+          "caesars": 15000,
+          "kambi": 15000
         }
       },
       "Brayden Point": {
         "team": "",
         "prices": {
-          "caesars": 15000
+          "caesars": 15000,
+          "kambi": 17500
         }
       },
       "Steven Stamkos": {
         "team": "",
         "prices": {
-          "caesars": 20000
+          "caesars": 20000,
+          "kambi": 20000
         }
       },
       "Artemi Panarin": {
         "team": "",
         "prices": {
-          "caesars": 20000
+          "caesars": 20000,
+          "kambi": 17500
         }
       },
       "Nikolaj Ehlers": {
         "team": "",
         "prices": {
-          "caesars": 20000
+          "caesars": 20000,
+          "kambi": 20000
         }
       },
       "Adam Fox": {
         "team": "",
         "prices": {
-          "caesars": 20000
+          "caesars": 20000,
+          "kambi": 25000
         }
       },
       "Nico Hischier": {
         "team": "",
         "prices": {
-          "caesars": 20000
+          "caesars": 20000,
+          "kambi": 20000
         }
       },
       "Cutter Gauthier": {
         "team": "",
         "prices": {
-          "caesars": 20000
+          "caesars": 20000,
+          "kambi": 15000
         }
       },
       "Morgan Geekie": {
         "team": "",
         "prices": {
-          "caesars": 20000
+          "caesars": 20000,
+          "kambi": 20000
         }
       },
       "Alex DeBrincat": {
         "team": "",
         "prices": {
-          "caesars": 20000
+          "caesars": 20000,
+          "kambi": 20000
         }
       },
       "Connor Bedard": {
         "team": "",
         "prices": {
-          "caesars": 20000
+          "caesars": 20000,
+          "kambi": 10000
         }
       },
       "Aleksander Barkov": {
         "team": "",
         "prices": {
-          "caesars": 20000
+          "caesars": 20000,
+          "kambi": 20000
         }
       },
       "Tim Stutzle": {
         "team": "",
         "prices": {
-          "caesars": 20000
+          "caesars": 20000,
+          "kambi": 17500
         }
       },
       "Drake Batherson": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 20000
         }
       },
       "Alex Tuch": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 25000
         }
       },
       "Ivan Demidov": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 20000
         }
       },
       "Matt Coronato": {
@@ -6066,37 +6119,43 @@
       "Jordan Kyrou": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 25000
         }
       },
       "Alex Ovechkin": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 17500
         }
       },
       "Matthew Knies": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 25000
         }
       },
       "Evgeni Malkin": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 25000
         }
       },
       "Quinton Byfield": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 25000
         }
       },
       "Kevin Fiala": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 30000
         }
       },
       "Kirill Marchenko": {
@@ -6108,85 +6167,365 @@
       "Trevor Zegras": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 30000
         }
       },
       "Adrian Kempe": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 25000
         }
       },
       "Mika Zibanejad": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 25000
         }
       },
       "Mathew Barzal": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 25000
         }
       },
       "John Tavares": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 30000
         }
       },
       "Brady Tkachuk": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 25000
         }
       },
       "Filip Forsberg": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 20000
         }
       },
       "Dylan Guenther": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 17500
         }
       },
       "Brock Boeser": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 25000
         }
       },
       "Lucas Raymond": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 20000
         }
       },
       "Adam Fantilli": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 15000
         }
       },
       "William Eklund": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 25000
         }
       },
       "Gavin McKenna": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 20000
         }
       },
       "Bo Horvat": {
         "team": "",
         "prices": {
-          "caesars": 25000
+          "caesars": 25000,
+          "kambi": 25000
+        }
+      },
+      "Dylan Holloway": {
+        "team": "",
+        "prices": {
+          "kambi": 20000
+        }
+      },
+      "Dylan Strome": {
+        "team": "",
+        "prices": {
+          "kambi": 25000
+        }
+      },
+      "Elias Pettersson (f)": {
+        "team": "",
+        "prices": {
+          "kambi": 25000
+        }
+      },
+      "Jordan Eberle": {
+        "team": "",
+        "prices": {
+          "kambi": 30000
+        }
+      },
+      "Logan Cooley": {
+        "team": "",
+        "prices": {
+          "kambi": 17500
+        }
+      },
+      "Mark Stone": {
+        "team": "",
+        "prices": {
+          "kambi": 25000
+        }
+      },
+      "Matthew Coronato": {
+        "team": "",
+        "prices": {
+          "kambi": 25000
+        }
+      },
+      "Seth Jarvis": {
+        "team": "",
+        "prices": {
+          "kambi": 20000
+        }
+      }
+    },
+    "selke": {
+      "Aleksander Barkov": {
+        "team": "",
+        "prices": {
+          "kambi": 550
+        }
+      },
+      "Alex Tuch": {
+        "team": "",
+        "prices": {
+          "kambi": 4000
+        }
+      },
+      "Anthony Cirelli": {
+        "team": "",
+        "prices": {
+          "kambi": 800
+        }
+      },
+      "Anton Lundell": {
+        "team": "",
+        "prices": {
+          "kambi": 4000
+        }
+      },
+      "Auston Matthews": {
+        "team": "",
+        "prices": {
+          "kambi": 2500
+        }
+      },
+      "Bo Horvat": {
+        "team": "",
+        "prices": {
+          "kambi": 30000
+        }
+      },
+      "Brandon Hagel": {
+        "team": "",
+        "prices": {
+          "kambi": 7500
+        }
+      },
+      "Brock Nelson": {
+        "team": "",
+        "prices": {
+          "kambi": 1000
+        }
+      },
+      "Clayton Keller": {
+        "team": "",
+        "prices": {
+          "kambi": 17500
+        }
+      },
+      "Connor McDavid": {
+        "team": "",
+        "prices": {
+          "kambi": 5000
+        }
+      },
+      "Dylan Larkin": {
+        "team": "",
+        "prices": {
+          "kambi": 17500
+        }
+      },
+      "Jack Eichel": {
+        "team": "",
+        "prices": {
+          "kambi": 2500
+        }
+      },
+      "Jason Robertson": {
+        "team": "",
+        "prices": {
+          "kambi": 10000
+        }
+      },
+      "Joel Eriksson Ek": {
+        "team": "",
+        "prices": {
+          "kambi": 10000
+        }
+      },
+      "Jordan Kyrou": {
+        "team": "",
+        "prices": {
+          "kambi": 17500
+        }
+      },
+      "Jordan Staal": {
+        "team": "",
+        "prices": {
+          "kambi": 3000
+        }
+      },
+      "Leon Draisaitl": {
+        "team": "",
+        "prices": {
+          "kambi": 3000
+        }
+      },
+      "Macklin Celebrini": {
+        "team": "",
+        "prices": {
+          "kambi": 5000
+        }
+      },
+      "Mark Stone": {
+        "team": "",
+        "prices": {
+          "kambi": 5500
+        }
+      },
+      "Matthew Boldy": {
+        "team": "",
+        "prices": {
+          "kambi": 10000
+        }
+      },
+      "Michael Amadio": {
+        "team": "",
+        "prices": {
+          "kambi": 30000
+        }
+      },
+      "Mitchell Marner": {
+        "team": "",
+        "prices": {
+          "kambi": 3000
+        }
+      },
+      "Nathan MacKinnon": {
+        "team": "",
+        "prices": {
+          "kambi": 4000
+        }
+      },
+      "Nick Suzuki": {
+        "team": "",
+        "prices": {
+          "kambi": 550
+        }
+      },
+      "Nico Hischier": {
+        "team": "",
+        "prices": {
+          "kambi": 1400
+        }
+      },
+      "Noah Cates": {
+        "team": "",
+        "prices": {
+          "kambi": 12500
+        }
+      },
+      "Robert Thomas": {
+        "team": "",
+        "prices": {
+          "kambi": 12500
+        }
+      },
+      "Roope Hintz": {
+        "team": "",
+        "prices": {
+          "kambi": 7500
+        }
+      },
+      "Ryan O'Reilly": {
+        "team": "",
+        "prices": {
+          "kambi": 4000
+        }
+      },
+      "Sam Reinhart": {
+        "team": "",
+        "prices": {
+          "kambi": 1400
+        }
+      },
+      "Sebastian Aho": {
+        "team": "",
+        "prices": {
+          "kambi": 1400
+        }
+      },
+      "Seth Jarvis": {
+        "team": "",
+        "prices": {
+          "kambi": 5500
+        }
+      },
+      "Shane Pinto": {
+        "team": "",
+        "prices": {
+          "kambi": 2500
+        }
+      },
+      "Sidney Crosby": {
+        "team": "",
+        "prices": {
+          "kambi": 17500
+        }
+      },
+      "Tom Wilson": {
+        "team": "",
+        "prices": {
+          "kambi": 10000
+        }
+      },
+      "Yanni Gourde": {
+        "team": "",
+        "prices": {
+          "kambi": 2500
         }
       }
     }
@@ -9201,10 +9540,10 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-25 22:53",
+    "last_updated": "2026-08-26 03:17",
     "book_updated": {
-      "dazn": "2026-08-25",
-      "fanduel": "2026-08-25",
+      "dazn": "2026-08-26",
+      "fanduel": "2026-08-26",
       "kalshi": "2026-08-20",
       "circa": "2026-08-11 12:25 (Circa mobile app)",
       "bookmaker": "2026-08-11",
