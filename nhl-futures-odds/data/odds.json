@@ -1830,7 +1830,7 @@
       "Frederik Andersen": {
         "team": "",
         "prices": {
-          "fanduel": 6000,
+          "fanduel": 8000,
           "kambi": 6000,
           "betmgm": 6000,
           "betano": 5900,
@@ -2143,7 +2143,7 @@
       "Tristan Jarry": {
         "team": "",
         "prices": {
-          "fanduel": 30000,
+          "fanduel": 10000,
           "kambi": 6000,
           "betmgm": 8000,
           "betano": 14900,
@@ -2188,7 +2188,7 @@
       "Devon Levi": {
         "team": "",
         "prices": {
-          "fanduel": 30000
+          "fanduel": 20000
         }
       },
       "Connor Ingram": {
@@ -9540,7 +9540,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-26 15:37",
+    "last_updated": "2026-08-26 16:47",
     "book_updated": {
       "dazn": "2026-08-26",
       "fanduel": "2026-08-26",
