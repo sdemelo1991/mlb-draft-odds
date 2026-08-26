@@ -6196,7 +6196,7 @@
       "yes": {
         "dazn": -154,
         "fanduel": -156,
-        "kambi": -182,
+        "kambi": -167,
         "betmgm": -160,
         "betano": -154,
         "betonline": -150,
@@ -6209,7 +6209,7 @@
       "no": {
         "dazn": 115,
         "fanduel": 122,
-        "kambi": 145,
+        "kambi": 133,
         "betmgm": 130,
         "betano": 115,
         "betonline": 120,
@@ -8587,7 +8587,7 @@
         "dazn": 900,
         "fanduel": 900,
         "kambi": 1100,
-        "betmgm": 1000,
+        "betmgm": 950,
         "betano": 900,
         "betonline": 900,
         "thescore": 850,
@@ -8615,7 +8615,7 @@
         "dazn": 3400,
         "fanduel": 3000,
         "kambi": 3000,
-        "betmgm": 3500,
+        "betmgm": 4000,
         "betano": 3400,
         "betonline": 4000,
         "thescore": 4000,
@@ -9201,7 +9201,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-25 15:57",
+    "last_updated": "2026-08-25 22:53",
     "book_updated": {
       "dazn": "2026-08-25",
       "fanduel": "2026-08-25",
