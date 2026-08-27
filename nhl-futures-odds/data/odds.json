@@ -1458,11 +1458,6 @@
       }
     },
     "Winnipeg Jets": {
-      "fanduel": {
-        "line": 85.5,
-        "over": -106,
-        "under": -120
-      },
       "kambi": {
         "line": 86.5,
         "over": -106,
@@ -9540,7 +9535,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-27 12:37",
+    "last_updated": "2026-08-27 14:57",
     "book_updated": {
       "dazn": "2026-08-27",
       "fanduel": "2026-08-27",
@@ -11168,7 +11163,7 @@
             "draftkings": 140
           },
           "70": {
-            "betmgm": 2000
+            "betmgm": 1800
           },
           "55": {
             "draftkings": -135
