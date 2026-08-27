@@ -3547,7 +3547,7 @@
       "Leo Carlsson": {
         "team": "",
         "prices": {
-          "fanduel": 30000,
+          "fanduel": 20000,
           "kambi": 12500,
           "betmgm": 10000,
           "betano": 19900,
@@ -6315,7 +6315,7 @@
       "Aleksander Barkov": {
         "team": "",
         "prices": {
-          "kambi": 550
+          "kambi": 450
         }
       },
       "Alex Tuch": {
@@ -9540,7 +9540,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-27 01:57",
+    "last_updated": "2026-08-27 11:27",
     "book_updated": {
       "dazn": "2026-08-27",
       "fanduel": "2026-08-27",
