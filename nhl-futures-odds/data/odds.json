@@ -49,9 +49,9 @@
     },
     "Buffalo Sabres": {
       "fanduel": {
-        "line": 95.5,
-        "over": -130,
-        "under": 102
+        "line": 96.5,
+        "over": -113,
+        "under": -113
       },
       "kambi": {
         "line": 96.5,
@@ -65,8 +65,8 @@
       },
       "betonline": {
         "line": 96.5,
-        "over": 100,
-        "under": -130
+        "over": -110,
+        "under": -120
       },
       "thescore": {
         "line": 96.5,
@@ -9542,7 +9542,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-27 15:37",
+    "last_updated": "2026-08-27 15:47",
     "book_updated": {
       "dazn": "2026-08-27",
       "fanduel": "2026-08-27",
