@@ -1479,7 +1479,7 @@
         "under": -130
       },
       "draftkings": {
-        "line": 85.5,
+        "line": 84.5,
         "over": -115,
         "under": -115
       },
@@ -7384,7 +7384,7 @@
         "betano": 215,
         "betonline": 240,
         "thescore": 200,
-        "draftkings": 220,
+        "draftkings": 240,
         "caesars": 210,
         "bet365": 210,
         "hardrock": 240
@@ -7397,7 +7397,7 @@
         "betano": -303,
         "betonline": -300,
         "thescore": -260,
-        "draftkings": -330,
+        "draftkings": -350,
         "caesars": -265,
         "bet365": -286,
         "hardrock": -300
@@ -9542,7 +9542,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-27 15:17",
+    "last_updated": "2026-08-27 15:37",
     "book_updated": {
       "dazn": "2026-08-27",
       "fanduel": "2026-08-27",
