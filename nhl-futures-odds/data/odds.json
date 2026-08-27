@@ -8900,7 +8900,7 @@
         "kambi": 650,
         "betmgm": 575,
         "betano": 650,
-        "betonline": 625,
+        "betonline": 0,
         "thescore": 650,
         "draftkings": 600,
         "bookmaker": 600,
@@ -9540,10 +9540,10 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-26 23:57",
+    "last_updated": "2026-08-27 01:27",
     "book_updated": {
-      "dazn": "2026-08-26",
-      "fanduel": "2026-08-26",
+      "dazn": "2026-08-27",
+      "fanduel": "2026-08-27",
       "kalshi": "2026-08-20",
       "circa": "2026-08-11 12:25 (Circa mobile app)",
       "bookmaker": "2026-08-11",
