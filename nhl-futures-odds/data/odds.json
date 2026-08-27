@@ -1202,9 +1202,9 @@
         "under": -125
       },
       "draftkings": {
-        "line": 96.5,
-        "over": -120,
-        "under": -110
+        "line": 95.5,
+        "over": -110,
+        "under": -120
       },
       "caesars": {
         "line": 95.5,
@@ -9540,7 +9540,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-27 11:27",
+    "last_updated": "2026-08-27 12:37",
     "book_updated": {
       "dazn": "2026-08-27",
       "fanduel": "2026-08-27",
