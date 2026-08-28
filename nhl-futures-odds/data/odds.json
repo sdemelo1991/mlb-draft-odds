@@ -1510,7 +1510,7 @@
       "Logan Thompson": {
         "team": "",
         "prices": {
-          "fanduel": 500,
+          "fanduel": 600,
           "kambi": 1000,
           "betmgm": 700,
           "betano": 650,
@@ -1526,7 +1526,7 @@
       "Connor Hellebuyck": {
         "team": "",
         "prices": {
-          "fanduel": 700,
+          "fanduel": 500,
           "kambi": 425,
           "betmgm": 400,
           "betano": 550,
@@ -1622,7 +1622,7 @@
       "Jesper Wallstedt": {
         "team": "",
         "prices": {
-          "fanduel": 1800,
+          "fanduel": 2200,
           "kambi": 2500,
           "betmgm": 2000,
           "betano": 2100,
@@ -1670,7 +1670,7 @@
       "Lukas Dostal": {
         "team": "",
         "prices": {
-          "fanduel": 2200,
+          "fanduel": 3000,
           "kambi": 4500,
           "betmgm": 4000,
           "betano": 3400,
@@ -7438,7 +7438,6 @@
     "conference": {
       "Boston Bruins": {
         "pinnacle": 4311,
-        "dazn": 3900,
         "fanduel": 5000,
         "kambi": 5000,
         "betmgm": 5500,
@@ -7455,7 +7454,6 @@
       },
       "Buffalo Sabres": {
         "pinnacle": 1647,
-        "dazn": 1400,
         "fanduel": 1700,
         "kambi": 1600,
         "betmgm": 1900,
@@ -7472,7 +7470,6 @@
       },
       "Carolina Hurricanes": {
         "pinnacle": 353,
-        "dazn": 285,
         "fanduel": 400,
         "kambi": 375,
         "betmgm": 375,
@@ -7489,7 +7486,6 @@
       },
       "Columbus Blue Jackets": {
         "pinnacle": 2773,
-        "dazn": 1600,
         "fanduel": 2500,
         "kambi": 3000,
         "betmgm": 3500,
@@ -7506,7 +7502,6 @@
       },
       "Detroit Red Wings": {
         "pinnacle": 5040,
-        "dazn": 3900,
         "fanduel": 4500,
         "kambi": 5000,
         "betmgm": 6000,
@@ -7523,7 +7518,6 @@
       },
       "Florida Panthers": {
         "pinnacle": 337,
-        "dazn": 350,
         "fanduel": 370,
         "kambi": 350,
         "betmgm": 340,
@@ -7540,7 +7534,6 @@
       },
       "Montreal Canadiens": {
         "pinnacle": 1261,
-        "dazn": 1100,
         "fanduel": 1300,
         "kambi": 1300,
         "betmgm": 1100,
@@ -7557,7 +7550,6 @@
       },
       "New Jersey Devils": {
         "pinnacle": 1515,
-        "dazn": 1200,
         "fanduel": 1400,
         "kambi": 1300,
         "betmgm": 1800,
@@ -7574,7 +7566,6 @@
       },
       "New York Islanders": {
         "pinnacle": 5544,
-        "dazn": 3400,
         "fanduel": 4500,
         "kambi": 5000,
         "betmgm": 5500,
@@ -7591,7 +7582,6 @@
       },
       "New York Rangers": {
         "pinnacle": 4032,
-        "dazn": 2900,
         "fanduel": 3300,
         "kambi": 3000,
         "betmgm": 4000,
@@ -7608,7 +7598,6 @@
       },
       "Ottawa Senators": {
         "pinnacle": 1749,
-        "dazn": 1600,
         "fanduel": 1900,
         "kambi": 1800,
         "betmgm": 2200,
@@ -7625,7 +7614,6 @@
       },
       "Philadelphia Flyers": {
         "pinnacle": 2773,
-        "dazn": 1900,
         "fanduel": 2200,
         "kambi": 2500,
         "betmgm": 2800,
@@ -7642,7 +7630,6 @@
       },
       "Pittsburgh Penguins": {
         "pinnacle": 4032,
-        "dazn": 2900,
         "fanduel": 3500,
         "kambi": 4000,
         "betmgm": 4000,
@@ -7659,7 +7646,6 @@
       },
       "Tampa Bay Lightning": {
         "pinnacle": 556,
-        "dazn": 500,
         "fanduel": 650,
         "kambi": 600,
         "betmgm": 600,
@@ -7676,7 +7662,6 @@
       },
       "Toronto Maple Leafs": {
         "pinnacle": 1577,
-        "dazn": 1400,
         "fanduel": 1700,
         "kambi": 2000,
         "betmgm": 1700,
@@ -7693,7 +7678,6 @@
       },
       "Washington Capitals": {
         "pinnacle": 757,
-        "dazn": 1100,
         "fanduel": 650,
         "kambi": 600,
         "betmgm": 700,
@@ -9542,7 +9526,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-28 05:27",
+    "last_updated": "2026-08-28 10:09",
     "book_updated": {
       "dazn": "2026-08-28",
       "fanduel": "2026-08-28",
