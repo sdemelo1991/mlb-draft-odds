@@ -7377,11 +7377,11 @@
     },
     "Winnipeg Jets": {
       "yes": {
-        "dazn": 215,
+        "dazn": 250,
         "fanduel": 255,
         "kambi": 200,
         "betmgm": 220,
-        "betano": 215,
+        "betano": 250,
         "betonline": 240,
         "thescore": 200,
         "draftkings": 240,
@@ -7390,11 +7390,11 @@
         "hardrock": 240
       },
       "no": {
-        "dazn": -303,
+        "dazn": -357,
         "fanduel": -350,
         "kambi": -265,
         "betmgm": -285,
-        "betano": -303,
+        "betano": -357,
         "betonline": -300,
         "thescore": -260,
         "draftkings": -350,
@@ -9542,7 +9542,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-28 04:07",
+    "last_updated": "2026-08-28 04:17",
     "book_updated": {
       "dazn": "2026-08-28",
       "fanduel": "2026-08-28",
