@@ -1740,7 +1740,7 @@
           "betano": 5400,
           "betonline": 5000,
           "thescore": 5000,
-          "draftkings": 6000,
+          "draftkings": 4000,
           "circa": 3500,
           "caesars": 5000,
           "bet365": 6000,
@@ -1971,7 +1971,7 @@
           "betano": 6400,
           "betonline": 3300,
           "thescore": 6000,
-          "draftkings": 3000,
+          "draftkings": 4000,
           "circa": 6000,
           "caesars": 7000,
           "bet365": 5000,
@@ -9542,7 +9542,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-28 10:17",
+    "last_updated": "2026-08-28 13:37",
     "book_updated": {
       "dazn": "2026-08-28",
       "fanduel": "2026-08-28",
