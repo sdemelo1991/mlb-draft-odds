@@ -7205,11 +7205,11 @@
     },
     "St. Louis Blues": {
       "yes": {
-        "dazn": 200,
+        "dazn": 230,
         "fanduel": 200,
         "kambi": 220,
         "betmgm": 230,
-        "betano": 200,
+        "betano": 230,
         "betonline": 250,
         "thescore": 230,
         "draftkings": 260,
@@ -7218,11 +7218,11 @@
         "hardrock": 230
       },
       "no": {
-        "dazn": -278,
+        "dazn": -333,
         "fanduel": -265,
         "kambi": -286,
         "betmgm": -300,
-        "betano": -278,
+        "betano": -333,
         "betonline": -325,
         "thescore": -320,
         "draftkings": -340,
@@ -9542,7 +9542,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-29 13:17",
+    "last_updated": "2026-08-29 13:37",
     "book_updated": {
       "dazn": "2026-08-29",
       "fanduel": "2026-08-29",
