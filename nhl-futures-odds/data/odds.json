@@ -5743,7 +5743,7 @@
         "team": "",
         "prices": {
           "caesars": 275,
-          "kambi": 400
+          "kambi": 275
         }
       },
       "Nikita Kucherov": {
@@ -9542,7 +9542,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-30 14:47",
+    "last_updated": "2026-08-30 17:27",
     "book_updated": {
       "dazn": "2026-08-30",
       "fanduel": "2026-08-30",
