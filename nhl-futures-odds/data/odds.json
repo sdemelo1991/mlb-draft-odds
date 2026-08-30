@@ -5750,7 +5750,7 @@
         "team": "",
         "prices": {
           "caesars": 375,
-          "kambi": 850
+          "kambi": 650
         }
       },
       "Nathan MacKinnon": {
@@ -9542,7 +9542,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-29 19:17",
+    "last_updated": "2026-08-29 20:07",
     "book_updated": {
       "dazn": "2026-08-29",
       "fanduel": "2026-08-29",
