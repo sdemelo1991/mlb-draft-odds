@@ -5750,7 +5750,7 @@
         "team": "",
         "prices": {
           "caesars": 375,
-          "kambi": 650
+          "kambi": 550
         }
       },
       "Nathan MacKinnon": {
@@ -6315,7 +6315,7 @@
       "Aleksander Barkov": {
         "team": "",
         "prices": {
-          "kambi": 350
+          "kambi": 325
         }
       },
       "Alex Tuch": {
@@ -9542,7 +9542,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-30 10:47",
+    "last_updated": "2026-08-30 14:47",
     "book_updated": {
       "dazn": "2026-08-30",
       "fanduel": "2026-08-30",
