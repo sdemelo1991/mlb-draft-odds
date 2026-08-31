@@ -8332,11 +8332,11 @@
       },
       "Chicago Blackhawks": {
         "pinnacle": 20799,
-        "dazn": 19900,
+        "dazn": 24900,
         "fanduel": 20000,
         "kambi": 20000,
         "betmgm": 20000,
-        "betano": 19900,
+        "betano": 24900,
         "betonline": 12500,
         "thescore": 15000,
         "draftkings": 25000,
@@ -8365,11 +8365,11 @@
       },
       "Columbus Blue Jackets": {
         "pinnacle": 5739,
-        "dazn": 5900,
+        "dazn": 5400,
         "fanduel": 5000,
         "kambi": 6600,
         "betmgm": 6600,
-        "betano": 5900,
+        "betano": 5400,
         "betonline": 5000,
         "thescore": 6000,
         "draftkings": 6000,
@@ -8382,11 +8382,11 @@
       },
       "Dallas Stars": {
         "pinnacle": 1573,
-        "dazn": 1600,
+        "dazn": 1400,
         "fanduel": 1600,
         "kambi": 1300,
         "betmgm": 1700,
-        "betano": 1600,
+        "betano": 1400,
         "betonline": 1800,
         "thescore": 1600,
         "draftkings": 1400,
@@ -9167,7 +9167,7 @@
         "fanduel": 1700,
         "kambi": 2300,
         "betmgm": 1700,
-        "betano": 1700,
+        "betano": 1600,
         "betonline": 1800,
         "thescore": 1800,
         "draftkings": 1600,
@@ -9219,11 +9219,11 @@
         "hardrock": 160
       },
       "Vegas Golden Knights": {
-        "dazn": 195,
+        "dazn": 190,
         "fanduel": 200,
         "kambi": 185,
         "betmgm": 180,
-        "betano": 195,
+        "betano": 190,
         "betonline": 180,
         "thescore": 200,
         "draftkings": 185,
@@ -9542,7 +9542,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-31 09:07",
+    "last_updated": "2026-08-31 11:47",
     "book_updated": {
       "dazn": "2026-08-31",
       "fanduel": "2026-08-31",
