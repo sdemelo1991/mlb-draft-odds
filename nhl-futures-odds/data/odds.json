@@ -9275,7 +9275,6 @@
         "hardrock": 850
       },
       "Seattle Kraken": {
-        "dazn": 7900,
         "fanduel": 4500,
         "kambi": 6000,
         "betmgm": 8000,
@@ -9289,7 +9288,6 @@
         "hardrock": 10000
       },
       "Calgary Flames": {
-        "dazn": 8900,
         "fanduel": 7500,
         "kambi": 8000,
         "betmgm": 10000,
@@ -9303,7 +9301,6 @@
         "hardrock": 10000
       },
       "Vancouver Canucks": {
-        "dazn": 19900,
         "fanduel": 10000,
         "kambi": 10000,
         "betmgm": 25000,
@@ -9542,7 +9539,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-31 04:27",
+    "last_updated": "2026-08-31 08:37",
     "book_updated": {
       "dazn": "2026-08-31",
       "fanduel": "2026-08-31",
