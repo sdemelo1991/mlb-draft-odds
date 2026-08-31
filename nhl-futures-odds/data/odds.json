@@ -9285,7 +9285,8 @@
         "bookmaker": 4800,
         "caesars": 7000,
         "bet365": 6000,
-        "hardrock": 10000
+        "hardrock": 10000,
+        "dazn": 7900
       },
       "Calgary Flames": {
         "fanduel": 7500,
@@ -9298,7 +9299,8 @@
         "bookmaker": 6600,
         "caesars": 10000,
         "bet365": 7500,
-        "hardrock": 10000
+        "hardrock": 10000,
+        "dazn": 8900
       },
       "Vancouver Canucks": {
         "fanduel": 10000,
@@ -9311,7 +9313,8 @@
         "bookmaker": 8800,
         "caesars": 20000,
         "bet365": 10000,
-        "hardrock": 25000
+        "hardrock": 25000,
+        "dazn": 19900
       }
     },
     "worst": {
@@ -9539,7 +9542,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-31 08:37",
+    "last_updated": "2026-08-31 08:47",
     "book_updated": {
       "dazn": "2026-08-31",
       "fanduel": "2026-08-31",
