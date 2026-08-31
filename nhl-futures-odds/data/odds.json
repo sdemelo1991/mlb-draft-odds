@@ -854,8 +854,8 @@
       },
       "kambi": {
         "line": 74.5,
-        "over": -114,
-        "under": -114
+        "over": 100,
+        "under": -130
       },
       "betmgm": {
         "line": 75.5,
@@ -9542,7 +9542,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-31 08:47",
+    "last_updated": "2026-08-31 09:07",
     "book_updated": {
       "dazn": "2026-08-31",
       "fanduel": "2026-08-31",
