@@ -9557,7 +9557,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-01 10:17",
+    "last_updated": "2026-09-01 12:37",
     "book_updated": {
       "dazn": "2026-09-01",
       "fanduel": "2026-09-01",
@@ -11201,7 +11201,7 @@
         "plus": {
           "50": {
             "betmgm": 260,
-            "draftkings": 250
+            "draftkings": 200
           },
           "40": {
             "draftkings": -160
