@@ -2897,7 +2897,8 @@
       "Alex Bump": {
         "team": "",
         "prices": {
-          "kambi": 5000
+          "kambi": 5000,
+          "fanduel": 10000
         }
       },
       "Eduard Sale": {
@@ -2915,7 +2916,8 @@
       "Michael Brandsegg-Nygard": {
         "team": "",
         "prices": {
-          "kambi": 8000
+          "kambi": 8000,
+          "fanduel": 10000
         }
       },
       "Nikita Chibrikov": {
@@ -3044,6 +3046,12 @@
           "caesars": 27500,
           "bet365": 15000,
           "hardrock": 15000
+        }
+      },
+      "Sandis Vilmanis": {
+        "team": "",
+        "prices": {
+          "fanduel": 10000
         }
       }
     },
@@ -9542,10 +9550,10 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-31 19:27",
+    "last_updated": "2026-09-01 10:08",
     "book_updated": {
-      "dazn": "2026-08-31",
-      "fanduel": "2026-08-31",
+      "dazn": "2026-09-01",
+      "fanduel": "2026-09-01",
       "kalshi": "2026-08-20",
       "circa": "2026-08-11 12:25 (Circa mobile app)",
       "bookmaker": "2026-08-11",
