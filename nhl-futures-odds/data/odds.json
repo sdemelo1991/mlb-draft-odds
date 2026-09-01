@@ -309,9 +309,9 @@
         "under": -135
       },
       "draftkings": {
-        "line": 91.5,
-        "over": 100,
-        "under": -130
+        "line": 89.5,
+        "over": -115,
+        "under": -115
       },
       "caesars": {
         "line": 90.5,
@@ -1437,7 +1437,7 @@
         "under": 100
       },
       "draftkings": {
-        "line": 99.5,
+        "line": 101.5,
         "over": -115,
         "under": -115
       },
@@ -6696,7 +6696,7 @@
         "betano": 365,
         "betonline": 400,
         "thescore": 400,
-        "draftkings": 400,
+        "draftkings": 600,
         "caesars": 375,
         "bet365": 350,
         "hardrock": 325
@@ -6709,7 +6709,7 @@
         "betano": -588,
         "betonline": -600,
         "thescore": -600,
-        "draftkings": -600,
+        "draftkings": -900,
         "caesars": -500,
         "bet365": -500,
         "hardrock": -450
@@ -6752,7 +6752,7 @@
         "betano": 150,
         "betonline": 160,
         "thescore": 130,
-        "draftkings": 160,
+        "draftkings": 150,
         "caesars": 135,
         "bet365": 145,
         "hardrock": 150
@@ -6765,7 +6765,7 @@
         "betano": -200,
         "betonline": -200,
         "thescore": -170,
-        "draftkings": -200,
+        "draftkings": -185,
         "caesars": -165,
         "bet365": -185,
         "hardrock": -185
@@ -7144,7 +7144,7 @@
         "betano": 180,
         "betonline": 170,
         "thescore": 200,
-        "draftkings": 170,
+        "draftkings": 195,
         "caesars": 210,
         "bet365": 190,
         "hardrock": 180
@@ -7157,7 +7157,7 @@
         "betano": -250,
         "betonline": -210,
         "thescore": -270,
-        "draftkings": -210,
+        "draftkings": -240,
         "caesars": -270,
         "bet365": -250,
         "hardrock": -240
@@ -7372,7 +7372,7 @@
         "betano": -286,
         "betonline": -230,
         "thescore": -320,
-        "draftkings": -235,
+        "draftkings": -260,
         "caesars": -280,
         "bet365": -278,
         "hardrock": -275
@@ -7385,7 +7385,7 @@
         "betano": 205,
         "betonline": 190,
         "thescore": 230,
-        "draftkings": 190,
+        "draftkings": 210,
         "caesars": 220,
         "bet365": 205,
         "hardrock": 210
@@ -9557,7 +9557,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-01 15:37",
+    "last_updated": "2026-09-01 19:17",
     "book_updated": {
       "dazn": "2026-09-01",
       "fanduel": "2026-09-01",
