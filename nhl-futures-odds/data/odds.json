@@ -7004,7 +7004,7 @@
         "betano": -125,
         "betonline": -120,
         "thescore": -145,
-        "draftkings": -120,
+        "draftkings": -135,
         "caesars": -150,
         "bet365": -141,
         "hardrock": -125
@@ -7017,7 +7017,7 @@
         "betano": -105,
         "betonline": -110,
         "thescore": 110,
-        "draftkings": -110,
+        "draftkings": 105,
         "caesars": 122,
         "bet365": 110,
         "hardrock": 100
@@ -9557,7 +9557,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-02 13:17",
+    "last_updated": "2026-09-02 16:57",
     "book_updated": {
       "dazn": "2026-09-02",
       "fanduel": "2026-09-02",
