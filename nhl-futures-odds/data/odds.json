@@ -8943,7 +8943,7 @@
         "dazn": 900,
         "fanduel": 900,
         "kambi": 1100,
-        "betmgm": 950,
+        "betmgm": 900,
         "betano": 900,
         "betonline": 900,
         "thescore": 850,
@@ -9557,7 +9557,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-02 05:57",
+    "last_updated": "2026-09-02 06:57",
     "book_updated": {
       "dazn": "2026-09-02",
       "fanduel": "2026-09-02",
