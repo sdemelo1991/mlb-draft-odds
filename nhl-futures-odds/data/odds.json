@@ -96,9 +96,9 @@
     },
     "Calgary Flames": {
       "fanduel": {
-        "line": 77.5,
-        "over": 130,
-        "under": -166
+        "line": 74.5,
+        "over": -118,
+        "under": -108
       },
       "kambi": {
         "line": 78.5,
@@ -1130,9 +1130,9 @@
     },
     "New York Rangers": {
       "fanduel": {
-        "line": 88.5,
-        "over": -125,
-        "under": -102
+        "line": 89.5,
+        "over": -108,
+        "under": -115
       },
       "kambi": {
         "line": 87.5,
@@ -1177,9 +1177,9 @@
     },
     "Anaheim Ducks": {
       "fanduel": {
-        "line": 94.5,
-        "over": 104,
-        "under": -132
+        "line": 93.5,
+        "over": -108,
+        "under": -118
       },
       "kambi": {
         "line": 96.5,
@@ -9557,7 +9557,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-02 08:57",
+    "last_updated": "2026-09-02 13:17",
     "book_updated": {
       "dazn": "2026-09-02",
       "fanduel": "2026-09-02",
