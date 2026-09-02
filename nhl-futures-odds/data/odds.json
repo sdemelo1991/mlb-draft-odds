@@ -2245,7 +2245,7 @@
         "team": "",
         "prices": {
           "fanduel": 260,
-          "kambi": 225,
+          "kambi": 250,
           "betmgm": 250,
           "betano": 275,
           "betonline": 275,
@@ -2260,7 +2260,7 @@
         "team": "",
         "prices": {
           "fanduel": 280,
-          "kambi": 225,
+          "kambi": 250,
           "betmgm": 300,
           "betano": 300,
           "betonline": 300,
@@ -2275,7 +2275,7 @@
         "team": "",
         "prices": {
           "fanduel": 550,
-          "kambi": 600,
+          "kambi": 550,
           "betmgm": 700,
           "betano": 550,
           "betonline": 600,
@@ -2290,7 +2290,7 @@
         "team": "",
         "prices": {
           "fanduel": 900,
-          "kambi": 850,
+          "kambi": 900,
           "betmgm": 900,
           "betano": 900,
           "betonline": 900,
@@ -2305,7 +2305,7 @@
         "team": "",
         "prices": {
           "fanduel": 900,
-          "kambi": 750,
+          "kambi": 800,
           "betmgm": 900,
           "betano": 900,
           "betonline": 900,
@@ -2335,7 +2335,7 @@
         "team": "",
         "prices": {
           "fanduel": 1900,
-          "kambi": 1700,
+          "kambi": 2000,
           "betmgm": 1800,
           "betano": 1700,
           "betonline": 1800,
@@ -2365,7 +2365,7 @@
         "team": "",
         "prices": {
           "fanduel": 3500,
-          "kambi": 1700,
+          "kambi": 2000,
           "betmgm": 1200,
           "betano": 2400,
           "betonline": 1600,
@@ -6579,7 +6579,7 @@
       "yes": {
         "dazn": 250,
         "fanduel": 300,
-        "kambi": 220,
+        "kambi": 200,
         "betmgm": 275,
         "betano": 250,
         "betonline": 250,
@@ -6592,7 +6592,7 @@
       "no": {
         "dazn": -357,
         "fanduel": -430,
-        "kambi": -286,
+        "kambi": -265,
         "betmgm": -350,
         "betano": -357,
         "betonline": -325,
@@ -7778,7 +7778,7 @@
         "pinnacle": 342,
         "dazn": 350,
         "fanduel": 350,
-        "kambi": 350,
+        "kambi": 300,
         "betmgm": 340,
         "betano": 350,
         "betonline": 360,
@@ -7795,7 +7795,7 @@
         "pinnacle": 746,
         "dazn": 750,
         "fanduel": 750,
-        "kambi": 650,
+        "kambi": 700,
         "betmgm": 750,
         "betano": 750,
         "betonline": 850,
@@ -7812,7 +7812,7 @@
         "pinnacle": 469,
         "dazn": 450,
         "fanduel": 450,
-        "kambi": 400,
+        "kambi": 450,
         "betmgm": 450,
         "betano": 450,
         "betonline": 550,
@@ -7964,7 +7964,7 @@
         "pinnacle": 508,
         "dazn": 450,
         "fanduel": 500,
-        "kambi": 450,
+        "kambi": 500,
         "betmgm": 450,
         "betano": 450,
         "betonline": 650,
@@ -9557,7 +9557,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-02 02:37",
+    "last_updated": "2026-09-02 02:47",
     "book_updated": {
       "dazn": "2026-09-02",
       "fanduel": "2026-09-02",
