@@ -9557,7 +9557,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-03 12:17",
+    "last_updated": "2026-09-03 12:37",
     "book_updated": {
       "dazn": "2026-09-03",
       "fanduel": "2026-09-03",
@@ -11614,6 +11614,117 @@
           },
           "25": {
             "draftkings": -140
+          },
+          "20": {
+            "draftkings": -290
+          }
+        }
+      },
+      "Drew Doughty": {
+        "team": "",
+        "ou": {},
+        "plus": {
+          "30": {
+            "draftkings": -150
+          },
+          "40": {
+            "draftkings": 280
+          },
+          "35": {
+            "draftkings": 135
+          },
+          "25": {
+            "draftkings": -320
+          }
+        }
+      },
+      "Darnell Nurse": {
+        "team": "",
+        "ou": {},
+        "plus": {
+          "30": {
+            "draftkings": 105
+          },
+          "40": {
+            "draftkings": 425
+          },
+          "35": {
+            "draftkings": 210
+          },
+          "25": {
+            "draftkings": -200
+          }
+        }
+      },
+      "Phillip Danault": {
+        "team": "",
+        "ou": {},
+        "plus": {
+          "30": {
+            "draftkings": 115
+          },
+          "40": {
+            "draftkings": 475
+          },
+          "35": {
+            "draftkings": 230
+          },
+          "25": {
+            "draftkings": -180
+          }
+        }
+      },
+      "Nino Neiderreiter": {
+        "team": "",
+        "ou": {},
+        "plus": {
+          "30": {
+            "draftkings": 120
+          },
+          "35": {
+            "draftkings": 240
+          },
+          "20": {
+            "draftkings": -370
+          },
+          "25": {
+            "draftkings": -170
+          }
+        }
+      },
+      "Scott Laughton": {
+        "team": "",
+        "ou": {},
+        "plus": {
+          "30": {
+            "draftkings": 125
+          },
+          "35": {
+            "draftkings": 255
+          },
+          "20": {
+            "draftkings": -350
+          },
+          "25": {
+            "draftkings": -165
+          }
+        }
+      },
+      "Ross Colton": {
+        "team": "",
+        "ou": {},
+        "plus": {
+          "30": {
+            "draftkings": 125
+          },
+          "35": {
+            "draftkings": 255
+          },
+          "20": {
+            "draftkings": -350
+          },
+          "25": {
+            "draftkings": -165
           }
         }
       }
