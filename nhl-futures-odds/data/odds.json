@@ -9557,7 +9557,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-03 14:37",
+    "last_updated": "2026-09-03 15:37",
     "book_updated": {
       "dazn": "2026-09-03",
       "fanduel": "2026-09-03",
@@ -11715,16 +11715,16 @@
         "ou": {},
         "plus": {
           "30": {
-            "draftkings": 125
+            "draftkings": 115
           },
           "35": {
-            "draftkings": 255
+            "draftkings": 230
           },
           "20": {
             "draftkings": -350
           },
           "25": {
-            "draftkings": -165
+            "draftkings": -180
           }
         }
       }
