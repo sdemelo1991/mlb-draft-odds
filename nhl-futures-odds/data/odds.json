@@ -9557,7 +9557,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-03 11:57",
+    "last_updated": "2026-09-03 12:17",
     "book_updated": {
       "dazn": "2026-09-03",
       "fanduel": "2026-09-03",
@@ -11581,6 +11581,39 @@
           },
           "85": {
             "draftkings": 380
+          }
+        }
+      },
+      "Brett Howden": {
+        "team": "",
+        "ou": {},
+        "plus": {
+          "30": {
+            "draftkings": -135
+          },
+          "40": {
+            "draftkings": 310
+          },
+          "35": {
+            "draftkings": 150
+          },
+          "25": {
+            "draftkings": -290
+          }
+        }
+      },
+      "Simon Nemec": {
+        "team": "",
+        "ou": {},
+        "plus": {
+          "30": {
+            "draftkings": 145
+          },
+          "35": {
+            "draftkings": 300
+          },
+          "25": {
+            "draftkings": -140
           }
         }
       }
