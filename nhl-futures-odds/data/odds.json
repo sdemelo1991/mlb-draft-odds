@@ -9557,7 +9557,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-02 22:57",
+    "last_updated": "2026-09-02 23:07",
     "book_updated": {
       "dazn": "2026-09-02",
       "fanduel": "2026-09-02",
@@ -9721,7 +9721,7 @@
         },
         "plus": {
           "120": {
-            "betmgm": -200,
+            "betmgm": -145,
             "draftkings": -195
           },
           "125": {
@@ -10013,11 +10013,11 @@
         },
         "plus": {
           "110": {
-            "betmgm": -130,
+            "betmgm": 105,
             "draftkings": -135
           },
           "120": {
-            "betmgm": 300,
+            "betmgm": 550,
             "draftkings": 300
           },
           "115": {
@@ -10074,7 +10074,7 @@
             "draftkings": -155
           },
           "100": {
-            "betmgm": 260,
+            "betmgm": 450,
             "draftkings": 260
           },
           "95": {
@@ -10125,7 +10125,7 @@
         },
         "plus": {
           "110": {
-            "betmgm": 150,
+            "betmgm": 240,
             "draftkings": 150
           },
           "105": {
@@ -10212,7 +10212,7 @@
             "draftkings": -135
           },
           "100": {
-            "betmgm": 310,
+            "betmgm": 550,
             "draftkings": 310
           },
           "95": {
@@ -10353,7 +10353,7 @@
             "draftkings": -160
           },
           "100": {
-            "betmgm": 260,
+            "betmgm": 375,
             "draftkings": 255
           },
           "95": {
@@ -10525,11 +10525,11 @@
         },
         "plus": {
           "100": {
-            "betmgm": -190,
+            "betmgm": -115,
             "draftkings": -190
           },
           "110": {
-            "betmgm": 220,
+            "betmgm": 500,
             "draftkings": 215
           },
           "105": {
@@ -10557,7 +10557,7 @@
             "draftkings": -255
           },
           "100": {
-            "betmgm": 165,
+            "betmgm": 260,
             "draftkings": 165
           },
           "95": {
@@ -10640,7 +10640,7 @@
             "draftkings": -130
           },
           "100": {
-            "betmgm": 300,
+            "betmgm": 550,
             "draftkings": 300
           },
           "95": {
