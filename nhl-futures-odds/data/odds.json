@@ -8366,7 +8366,7 @@
         "pinnacle": 735,
         "dazn": 700,
         "fanduel": 750,
-        "kambi": 850,
+        "kambi": 750,
         "betmgm": 750,
         "betano": 700,
         "betonline": 900,
@@ -9557,7 +9557,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-03 15:57",
+    "last_updated": "2026-09-03 17:37",
     "book_updated": {
       "dazn": "2026-09-03",
       "fanduel": "2026-09-03",
