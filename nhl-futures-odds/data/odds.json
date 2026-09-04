@@ -563,6 +563,11 @@
         "line": 84.5,
         "over": -132,
         "under": 108
+      },
+      "fanduel": {
+        "line": 86.5,
+        "over": -120,
+        "under": -106
       }
     },
     "Seattle Kraken": {
@@ -909,9 +914,9 @@
     },
     "Vegas Golden Knights": {
       "fanduel": {
-        "line": 103.5,
-        "over": 100,
-        "under": -128
+        "line": 102.5,
+        "over": -115,
+        "under": -111
       },
       "kambi": {
         "line": 103.5,
@@ -1080,9 +1085,9 @@
     },
     "Toronto Maple Leafs": {
       "fanduel": {
-        "line": 95.5,
-        "over": -128,
-        "under": 100
+        "line": 96.5,
+        "over": -111,
+        "under": -115
       },
       "kambi": {
         "line": 95.5,
@@ -10338,7 +10343,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-04 17:38",
+    "last_updated": "2026-09-04 17:48",
     "book_updated": {
       "dazn": "2026-09-04",
       "fanduel": "2026-09-04",
