@@ -9006,7 +9006,8 @@
         "bookmaker": 125,
         "caesars": 145,
         "bet365": 125,
-        "hardrock": 120
+        "hardrock": 120,
+        "betmgm": 125
       },
       "Minnesota Wild": {
         "dazn": 300,
@@ -9019,7 +9020,8 @@
         "bookmaker": 250,
         "caesars": 300,
         "bet365": 300,
-        "hardrock": 325
+        "hardrock": 325,
+        "betmgm": 310
       },
       "Dallas Stars": {
         "dazn": 370,
@@ -9032,7 +9034,8 @@
         "bookmaker": 400,
         "caesars": 300,
         "bet365": 400,
-        "hardrock": 325
+        "hardrock": 325,
+        "betmgm": 400
       },
       "Utah Mammoth": {
         "dazn": 750,
@@ -9045,7 +9048,8 @@
         "bookmaker": 600,
         "caesars": 660,
         "bet365": 750,
-        "hardrock": 800
+        "hardrock": 800,
+        "betmgm": 750
       },
       "Winnipeg Jets": {
         "dazn": 3400,
@@ -9058,7 +9062,8 @@
         "bookmaker": 2200,
         "caesars": 4000,
         "bet365": 3300,
-        "hardrock": 4000
+        "hardrock": 4000,
+        "betmgm": 3000
       },
       "St. Louis Blues": {
         "dazn": 3900,
@@ -9071,7 +9076,8 @@
         "bookmaker": 3000,
         "caesars": 3000,
         "bet365": 3500,
-        "hardrock": 4000
+        "hardrock": 4000,
+        "betmgm": 3500
       },
       "Nashville Predators": {
         "dazn": 3400,
@@ -9084,7 +9090,8 @@
         "bookmaker": 2800,
         "caesars": 5000,
         "bet365": 4000,
-        "hardrock": 5000
+        "hardrock": 5000,
+        "betmgm": 4500
       },
       "Chicago Blackhawks": {
         "dazn": 5900,
@@ -9097,7 +9104,8 @@
         "bookmaker": 5500,
         "caesars": 7000,
         "bet365": 4500,
-        "hardrock": 5000
+        "hardrock": 5000,
+        "betmgm": 6000
       },
       "Carolina Hurricanes": {
         "dazn": -111,
@@ -9549,7 +9557,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-04 03:17",
+    "last_updated": "2026-09-04 07:57",
     "book_updated": {
       "dazn": "2026-09-04",
       "fanduel": "2026-09-04",
