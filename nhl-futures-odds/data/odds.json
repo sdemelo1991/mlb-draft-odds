@@ -1199,9 +1199,9 @@
     },
     "Columbus Blue Jackets": {
       "fanduel": {
-        "line": 90.5,
-        "over": -130,
-        "under": 102
+        "line": 91.5,
+        "over": -113,
+        "under": -113
       },
       "kambi": {
         "line": 91.5,
@@ -1308,9 +1308,9 @@
     },
     "Ottawa Senators": {
       "fanduel": {
-        "line": 96.5,
-        "over": -106,
-        "under": -120
+        "line": 95.5,
+        "over": -122,
+        "under": -104
       },
       "kambi": {
         "line": 93.5,
@@ -1536,9 +1536,9 @@
     },
     "Edmonton Oilers": {
       "fanduel": {
-        "line": 105.5,
-        "over": -102,
-        "under": -125
+        "line": 104.5,
+        "over": -118,
+        "under": -108
       },
       "kambi": {
         "line": 104.5,
@@ -10343,7 +10343,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-04 17:57",
+    "last_updated": "2026-09-04 18:08",
     "book_updated": {
       "dazn": "2026-09-04",
       "fanduel": "2026-09-04",
