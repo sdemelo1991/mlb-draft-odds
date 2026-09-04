@@ -50,6 +50,11 @@
         "line": 107.5,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 107.5,
+        "over": -112,
+        "under": -112
       }
     },
     "Buffalo Sabres": {
@@ -102,6 +107,11 @@
         "line": 94.0,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 96.5,
+        "over": 101,
+        "under": -125
       }
     },
     "Calgary Flames": {
@@ -154,6 +164,11 @@
         "line": 76.5,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 77.5,
+        "over": -112,
+        "under": -112
       }
     },
     "Los Angeles Kings": {
@@ -206,6 +221,11 @@
         "line": 95.5,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 95.5,
+        "over": -117,
+        "under": -107
       }
     },
     "Florida Panthers": {
@@ -258,6 +278,11 @@
         "line": 106.5,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 106.5,
+        "over": -122,
+        "under": -102
       }
     },
     "San Jose Sharks": {
@@ -310,6 +335,11 @@
         "line": 93.5,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 94.5,
+        "over": -105,
+        "under": -119
       }
     },
     "Pittsburgh Penguins": {
@@ -362,6 +392,11 @@
         "line": 89.5,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 91.5,
+        "over": 118,
+        "under": -142
       }
     },
     "Minnesota Wild": {
@@ -414,6 +449,11 @@
         "line": 101.5,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 101.5,
+        "over": -117,
+        "under": -107
       }
     },
     "Tampa Bay Lightning": {
@@ -466,6 +506,11 @@
         "line": 104.0,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 102.5,
+        "over": -112,
+        "under": -112
       }
     },
     "St. Louis Blues": {
@@ -518,6 +563,11 @@
         "line": 87.0,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 84.5,
+        "over": -132,
+        "under": 108
       }
     },
     "Seattle Kraken": {
@@ -570,6 +620,11 @@
         "line": 81.5,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 81.5,
+        "over": -112,
+        "under": -112
       }
     },
     "Philadelphia Flyers": {
@@ -622,6 +677,11 @@
         "line": 92.0,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 93.5,
+        "over": 108,
+        "under": -132
       }
     },
     "Chicago Blackhawks": {
@@ -674,6 +734,11 @@
         "line": 78.0,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 78.5,
+        "over": -122,
+        "under": -102
       }
     },
     "Nashville Predators": {
@@ -726,6 +791,11 @@
         "line": 85.5,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 85.5,
+        "over": -112,
+        "under": -112
       }
     },
     "Detroit Red Wings": {
@@ -778,6 +848,11 @@
         "line": 86.5,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 86.5,
+        "over": -112,
+        "under": -112
       }
     },
     "Dallas Stars": {
@@ -830,6 +905,11 @@
         "line": 101.5,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 100.5,
+        "over": -117,
+        "under": -107
       }
     },
     "Vegas Golden Knights": {
@@ -882,6 +962,11 @@
         "line": 101.0,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 103.5,
+        "over": -117,
+        "under": -107
       }
     },
     "Montreal Canadiens": {
@@ -934,6 +1019,11 @@
         "line": 97.5,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 99.5,
+        "over": 103,
+        "under": -127
       }
     },
     "Vancouver Canucks": {
@@ -986,6 +1076,11 @@
         "line": 73.0,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 74.5,
+        "over": -109,
+        "under": -115
       }
     },
     "Toronto Maple Leafs": {
@@ -1038,6 +1133,11 @@
         "line": 94.5,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 96.5,
+        "over": 117,
+        "under": -142
       }
     },
     "Utah Mammoth": {
@@ -1090,6 +1190,11 @@
         "line": 95.0,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 96.5,
+        "over": -102,
+        "under": -122
       }
     },
     "Columbus Blue Jackets": {
@@ -1137,6 +1242,11 @@
         "line": 91.5,
         "over": -110,
         "under": -110
+      },
+      "bookmaker": {
+        "line": 91.5,
+        "over": -115,
+        "under": -109
       }
     },
     "Carolina Hurricanes": {
@@ -1189,6 +1299,11 @@
         "line": 107.5,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 107.5,
+        "over": -127,
+        "under": 103
       }
     },
     "Ottawa Senators": {
@@ -1241,6 +1356,11 @@
         "line": 95.0,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 94.5,
+        "over": -107,
+        "under": -117
       }
     },
     "New York Rangers": {
@@ -1293,6 +1413,11 @@
         "line": 88.5,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 86.5,
+        "over": -127,
+        "under": 103
       }
     },
     "Anaheim Ducks": {
@@ -1345,6 +1470,11 @@
         "line": 94.5,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 95.5,
+        "over": -117,
+        "under": -107
       }
     },
     "Boston Bruins": {
@@ -1397,6 +1527,11 @@
         "line": 87.5,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 89.5,
+        "over": 113,
+        "under": -137
       }
     },
     "Edmonton Oilers": {
@@ -1449,6 +1584,11 @@
         "line": 105.5,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 104.5,
+        "over": -127,
+        "under": 103
       }
     },
     "New York Islanders": {
@@ -1501,6 +1641,11 @@
         "line": 88.5,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 88.5,
+        "over": 113,
+        "under": -137
       }
     },
     "New Jersey Devils": {
@@ -1553,6 +1698,11 @@
         "line": 96.5,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 95.5,
+        "over": 102,
+        "under": -126
       }
     },
     "Washington Capitals": {
@@ -1605,6 +1755,11 @@
         "line": 100.0,
         "over": -105,
         "under": -105
+      },
+      "bookmaker": {
+        "line": 99.5,
+        "over": -127,
+        "under": 103
       }
     },
     "Winnipeg Jets": {
@@ -1675,7 +1830,8 @@
           "circa": 500,
           "caesars": 700,
           "bet365": 700,
-          "hardrock": 600
+          "hardrock": 600,
+          "bookmaker": 500
         }
       },
       "Connor Hellebuyck": {
@@ -1691,7 +1847,8 @@
           "circa": 600,
           "caesars": 400,
           "bet365": 500,
-          "hardrock": 400
+          "hardrock": 400,
+          "bookmaker": 725
         }
       },
       "Igor Shesterkin": {
@@ -1707,7 +1864,8 @@
           "circa": 800,
           "caesars": 1000,
           "bet365": 900,
-          "hardrock": 900
+          "hardrock": 900,
+          "bookmaker": 650
         }
       },
       "Andrei Vasilevskiy": {
@@ -1723,7 +1881,8 @@
           "circa": 800,
           "caesars": 850,
           "bet365": 750,
-          "hardrock": 750
+          "hardrock": 750,
+          "bookmaker": 900
         }
       },
       "Ilya Sorokin": {
@@ -1739,7 +1898,8 @@
           "circa": 800,
           "caesars": 700,
           "bet365": 800,
-          "hardrock": 800
+          "hardrock": 800,
+          "bookmaker": 950
         }
       },
       "Jacob Markstrom": {
@@ -1755,7 +1915,8 @@
           "circa": 1500,
           "caesars": 2500,
           "bet365": 2000,
-          "hardrock": 2000
+          "hardrock": 2000,
+          "bookmaker": 1200
         }
       },
       "Jeremy Swayman": {
@@ -1771,7 +1932,8 @@
           "circa": 1200,
           "caesars": 1100,
           "bet365": 1200,
-          "hardrock": 1300
+          "hardrock": 1300,
+          "bookmaker": 1250
         }
       },
       "Jesper Wallstedt": {
@@ -1787,7 +1949,8 @@
           "circa": 2000,
           "caesars": 1500,
           "bet365": 1800,
-          "hardrock": 2500
+          "hardrock": 2500,
+          "bookmaker": 1400
         }
       },
       "Jet Greaves": {
@@ -1803,7 +1966,8 @@
           "circa": 1700,
           "caesars": 2000,
           "bet365": 3000,
-          "hardrock": 5000
+          "hardrock": 5000,
+          "bookmaker": 1600
         }
       },
       "Jake Oettinger": {
@@ -1819,7 +1983,8 @@
           "circa": 2800,
           "caesars": 3000,
           "bet365": 2500,
-          "hardrock": 2500
+          "hardrock": 2500,
+          "bookmaker": 1600
         }
       },
       "Lukas Dostal": {
@@ -1835,7 +2000,8 @@
           "circa": 3000,
           "caesars": 5000,
           "bet365": 3000,
-          "hardrock": 4000
+          "hardrock": 4000,
+          "bookmaker": 1400
         }
       },
       "Jakub Dobes": {
@@ -1851,7 +2017,8 @@
           "circa": 2800,
           "caesars": 2000,
           "bet365": 2800,
-          "hardrock": 3000
+          "hardrock": 3000,
+          "bookmaker": 2200
         }
       },
       "Karel Vejmelka": {
@@ -1867,7 +2034,8 @@
           "circa": 3500,
           "caesars": 3500,
           "bet365": 3000,
-          "hardrock": 3000
+          "hardrock": 3000,
+          "bookmaker": 2500
         }
       },
       "Brandon Bussi": {
@@ -1883,7 +2051,8 @@
           "circa": 4000,
           "caesars": 2500,
           "bet365": 3000,
-          "hardrock": 3000
+          "hardrock": 3000,
+          "bookmaker": 3500
         }
       },
       "Linus Ullmark": {
@@ -1899,7 +2068,8 @@
           "circa": 3500,
           "caesars": 5000,
           "bet365": 6000,
-          "hardrock": 6000
+          "hardrock": 6000,
+          "bookmaker": 4500
         }
       },
       "Scott Wedgewood": {
@@ -1915,7 +2085,8 @@
           "circa": 7000,
           "caesars": 2000,
           "bet365": 3500,
-          "hardrock": 4000
+          "hardrock": 4000,
+          "bookmaker": 5500
         }
       },
       "Mackenzie Blackwood": {
@@ -1931,7 +2102,8 @@
           "circa": 6000,
           "caesars": 5000,
           "bet365": 6000,
-          "hardrock": 7500
+          "hardrock": 7500,
+          "bookmaker": 5500
         }
       },
       "Spencer Knight": {
@@ -1947,7 +2119,8 @@
           "circa": 6000,
           "caesars": 8000,
           "bet365": 5000,
-          "hardrock": 5000
+          "hardrock": 5000,
+          "bookmaker": 5500
         }
       },
       "Dan Vladar": {
@@ -1963,7 +2136,8 @@
           "circa": 5000,
           "caesars": 3500,
           "bet365": 4000,
-          "hardrock": 4000
+          "hardrock": 4000,
+          "bookmaker": 4500
         }
       },
       "Sergei Bobrovsky": {
@@ -1979,7 +2153,8 @@
           "circa": 7000,
           "caesars": 3500,
           "bet365": 3500,
-          "hardrock": 2000
+          "hardrock": 2000,
+          "bookmaker": 5500
         }
       },
       "Frederik Andersen": {
@@ -1995,7 +2170,8 @@
           "circa": 9000,
           "caesars": 7000,
           "bet365": 6000,
-          "hardrock": 6000
+          "hardrock": 6000,
+          "bookmaker": 5000
         }
       },
       "Darcy Kuemper": {
@@ -2011,7 +2187,8 @@
           "circa": 7500,
           "caesars": 4000,
           "bet365": 4000,
-          "hardrock": 4000
+          "hardrock": 4000,
+          "bookmaker": 5500
         }
       },
       "Jake Allen": {
@@ -2019,7 +2196,8 @@
         "prices": {
           "fanduel": 6000,
           "circa": 5000,
-          "caesars": 6000
+          "caesars": 6000,
+          "bookmaker": 5500
         }
       },
       "Joel Hofer": {
@@ -2034,7 +2212,8 @@
           "circa": 6500,
           "caesars": 12500,
           "bet365": 12500,
-          "hardrock": 15000
+          "hardrock": 15000,
+          "bookmaker": 6600
         }
       },
       "Carter Hart": {
@@ -2050,7 +2229,8 @@
           "circa": 8000,
           "caesars": 6000,
           "bet365": 5000,
-          "hardrock": 4000
+          "hardrock": 4000,
+          "bookmaker": 7500
         }
       },
       "Ukko-Pekka Luukkonen": {
@@ -2066,7 +2246,8 @@
           "circa": 5000,
           "caesars": 7000,
           "bet365": 7500,
-          "hardrock": 10000
+          "hardrock": 10000,
+          "bookmaker": 6600
         }
       },
       "John Gibson": {
@@ -2082,7 +2263,8 @@
           "circa": 10000,
           "caesars": 8000,
           "bet365": 5000,
-          "hardrock": 4000
+          "hardrock": 4000,
+          "bookmaker": 7500
         }
       },
       "Yaroslav Askarov": {
@@ -2098,7 +2280,8 @@
           "circa": 7000,
           "caesars": 7000,
           "bet365": 6000,
-          "hardrock": 4000
+          "hardrock": 4000,
+          "bookmaker": 8800
         }
       },
       "Filip Gustavsson": {
@@ -2114,7 +2297,8 @@
           "circa": 12500,
           "caesars": 10000,
           "bet365": 7500,
-          "hardrock": 6000
+          "hardrock": 6000,
+          "bookmaker": 8800
         }
       },
       "Juuse Saros": {
@@ -2130,7 +2314,8 @@
           "circa": 6000,
           "caesars": 7000,
           "bet365": 5000,
-          "hardrock": 3000
+          "hardrock": 3000,
+          "bookmaker": 10000
         }
       },
       "Jacob Fowler": {
@@ -2138,7 +2323,8 @@
         "prices": {
           "fanduel": 12500,
           "circa": 10000,
-          "bet365": 10000
+          "bet365": 10000,
+          "bookmaker": 10000
         }
       },
       "Thatcher Demko": {
@@ -2154,7 +2340,8 @@
           "circa": 15000,
           "caesars": 8000,
           "bet365": 7500,
-          "hardrock": 5000
+          "hardrock": 5000,
+          "bookmaker": 15000
         }
       },
       "Stuart Skinner": {
@@ -2169,7 +2356,8 @@
           "draftkings": 8000,
           "caesars": 20000,
           "bet365": 10000,
-          "hardrock": 7500
+          "hardrock": 7500,
+          "bookmaker": 15000
         }
       },
       "Arturs Silovs": {
@@ -2184,7 +2372,8 @@
           "circa": 30000,
           "caesars": 15000,
           "bet365": 20000,
-          "hardrock": 15000
+          "hardrock": 15000,
+          "bookmaker": 15000
         }
       },
       "Jordan Binnington": {
@@ -2200,7 +2389,8 @@
           "circa": 15000,
           "caesars": 6000,
           "bet365": 7500,
-          "hardrock": 4000
+          "hardrock": 4000,
+          "bookmaker": 15000
         }
       },
       "Alex Lyon": {
@@ -2408,7 +2598,8 @@
           "draftkings": 280,
           "caesars": 190,
           "bet365": 275,
-          "hardrock": 275
+          "hardrock": 275,
+          "bookmaker": 251
         }
       },
       "Gavin McKenna": {
@@ -2423,7 +2614,8 @@
           "draftkings": 280,
           "caesars": 260,
           "bet365": 300,
-          "hardrock": 300
+          "hardrock": 300,
+          "bookmaker": 276
         }
       },
       "Ivar Stenberg": {
@@ -2438,7 +2630,8 @@
           "draftkings": 600,
           "caesars": 550,
           "bet365": 650,
-          "hardrock": 650
+          "hardrock": 650,
+          "bookmaker": 552
         }
       },
       "Cole Hutson": {
@@ -2453,7 +2646,8 @@
           "draftkings": 900,
           "caesars": 850,
           "bet365": 900,
-          "hardrock": 900
+          "hardrock": 900,
+          "bookmaker": 903
         }
       },
       "Anton Frondell": {
@@ -2468,7 +2662,8 @@
           "draftkings": 900,
           "caesars": 900,
           "bet365": 900,
-          "hardrock": 900
+          "hardrock": 900,
+          "bookmaker": 903
         }
       },
       "Roman Kantserov": {
@@ -2483,7 +2678,8 @@
           "draftkings": 1400,
           "caesars": 1200,
           "bet365": 1600,
-          "hardrock": 1500
+          "hardrock": 1500,
+          "bookmaker": 1505
         }
       },
       "Konsta Helenius": {
@@ -2498,7 +2694,8 @@
           "draftkings": 1900,
           "caesars": 1700,
           "bet365": 1800,
-          "hardrock": 2000
+          "hardrock": 2000,
+          "bookmaker": 1605
         }
       },
       "James Hagens": {
@@ -2513,7 +2710,8 @@
           "draftkings": 3000,
           "caesars": 3500,
           "bet365": 2800,
-          "hardrock": 2500
+          "hardrock": 2500,
+          "bookmaker": 2809
         }
       },
       "Ilya Protas": {
@@ -2528,7 +2726,8 @@
           "draftkings": 2500,
           "caesars": 2000,
           "bet365": 1400,
-          "hardrock": 1200
+          "hardrock": 1200,
+          "bookmaker": 3311
         }
       },
       "Viggo Bjorck": {
@@ -2543,7 +2742,8 @@
           "draftkings": 4000,
           "caesars": 4000,
           "bet365": 4000,
-          "hardrock": 5000
+          "hardrock": 5000,
+          "bookmaker": 4014
         }
       },
       "Tij Iginla": {
@@ -2558,14 +2758,16 @@
           "draftkings": 4000,
           "caesars": 4000,
           "bet365": 4000,
-          "hardrock": 4000
+          "hardrock": 4000,
+          "bookmaker": 4515
         }
       },
       "Nikita Klepov": {
         "team": "",
         "prices": {
           "fanduel": 4500,
-          "betano": 4400
+          "betano": 4400,
+          "bookmaker": 4515
         }
       },
       "Victor Eklund": {
@@ -2580,7 +2782,8 @@
           "draftkings": 4500,
           "caesars": 5500,
           "bet365": 5000,
-          "hardrock": 4000
+          "hardrock": 4000,
+          "bookmaker": 6623
         }
       },
       "Jacob Fowler": {
@@ -2595,7 +2798,8 @@
           "draftkings": 2500,
           "caesars": 6500,
           "bet365": 2800,
-          "hardrock": 2000
+          "hardrock": 2000,
+          "bookmaker": 6623
         }
       },
       "Sam O'Reilly": {
@@ -2605,13 +2809,15 @@
           "kambi": 6000,
           "betmgm": 6600,
           "thescore": 7500,
-          "bet365": 6000
+          "bet365": 6000,
+          "bookmaker": 6824
         }
       },
       "Sebastian Cossa": {
         "team": "",
         "prices": {
-          "fanduel": 6500
+          "fanduel": 6500,
+          "bookmaker": 7527
         }
       },
       "Brady Martin": {
@@ -2626,7 +2832,8 @@
           "draftkings": 8000,
           "caesars": 12500,
           "bet365": 7500,
-          "hardrock": 6000
+          "hardrock": 6000,
+          "bookmaker": 7527
         }
       },
       "Liam Greentree": {
@@ -2637,7 +2844,8 @@
           "betano": 9900,
           "draftkings": 15000,
           "bet365": 15000,
-          "hardrock": 15000
+          "hardrock": 15000,
+          "bookmaker": 8832
         }
       },
       "Cole Eiserman": {
@@ -2649,7 +2857,8 @@
           "draftkings": 15000,
           "caesars": 15000,
           "bet365": 15000,
-          "hardrock": 15000
+          "hardrock": 15000,
+          "bookmaker": 8832
         }
       },
       "Roger McQueen": {
@@ -2663,63 +2872,73 @@
           "draftkings": 5000,
           "caesars": 6500,
           "bet365": 5000,
-          "hardrock": 5000
+          "hardrock": 5000,
+          "bookmaker": 8832
         }
       },
       "Bill Zonnon": {
         "team": "",
         "prices": {
-          "fanduel": 7000
+          "fanduel": 7000,
+          "bookmaker": 8832
         }
       },
       "Carter Bear": {
         "team": "",
         "prices": {
-          "fanduel": 7000
+          "fanduel": 7000,
+          "bookmaker": 8832
         }
       },
       "Charlie Cerrato": {
         "team": "",
         "prices": {
-          "fanduel": 7000
+          "fanduel": 7000,
+          "bookmaker": 8832
         }
       },
       "Justin Carbonneau": {
         "team": "",
         "prices": {
-          "fanduel": 7000
+          "fanduel": 7000,
+          "bookmaker": 8832
         }
       },
       "Filip Bystedt": {
         "team": "",
         "prices": {
-          "fanduel": 7000
+          "fanduel": 7000,
+          "bookmaker": 8832
         }
       },
       "Trevor Connelly": {
         "team": "",
         "prices": {
           "fanduel": 7000,
-          "bet365": 10000
+          "bet365": 10000,
+          "bookmaker": 7000
         }
       },
       "Quentin Musty": {
         "team": "",
         "prices": {
-          "fanduel": 7000
+          "fanduel": 7000,
+          "bookmaker": 10036
         }
       },
       "Sacha Boisvert": {
         "team": "",
         "prices": {
           "fanduel": 7000,
-          "kambi": 10000
+          "kambi": 10000,
+          "bookmaker": 10036
         }
       },
       "Andrew Cristall": {
         "team": "",
         "prices": {
-          "fanduel": 7000
+          "fanduel": 7000,
+          "bookmaker": 10036
         }
       },
       "Carter Yakemchuk": {
@@ -2732,7 +2951,8 @@
           "thescore": 10000,
           "caesars": 9000,
           "bet365": 7500,
-          "hardrock": 7500
+          "hardrock": 7500,
+          "bookmaker": 10036
         }
       },
       "Caleb Desnoyers": {
@@ -2747,7 +2967,8 @@
           "draftkings": 4000,
           "caesars": 6500,
           "bet365": 3300,
-          "hardrock": 4000
+          "hardrock": 4000,
+          "bookmaker": 10036
         }
       },
       "Kashawn Aitcheson": {
@@ -2758,7 +2979,8 @@
           "betano": 12400,
           "draftkings": 15000,
           "bet365": 20000,
-          "hardrock": 15000
+          "hardrock": 15000,
+          "bookmaker": 10036
         }
       },
       "Fabian Lysell": {
@@ -2771,7 +2993,8 @@
           "draftkings": 10000,
           "caesars": 10000,
           "bet365": 10000,
-          "hardrock": 10000
+          "hardrock": 10000,
+          "bookmaker": 10036
         }
       },
       "T.J. Hughes": {
@@ -2782,7 +3005,8 @@
           "betano": 12400,
           "draftkings": 15000,
           "caesars": 12500,
-          "hardrock": 15000
+          "hardrock": 15000,
+          "bookmaker": 10036
         }
       },
       "Bradly Nadeau": {
@@ -2797,7 +3021,8 @@
           "draftkings": 10000,
           "caesars": 12500,
           "bet365": 10000,
-          "hardrock": 10000
+          "hardrock": 10000,
+          "bookmaker": 10036
         }
       },
       "Alberts A mits": {
@@ -3233,7 +3458,8 @@
           "bet365": 250,
           "hardrock": 250,
           "kalshi": 351,
-          "circa": 240
+          "circa": 240,
+          "bookmaker": 215
         }
       },
       "Nathan MacKinnon": {
@@ -3250,7 +3476,8 @@
           "bet365": 350,
           "hardrock": 350,
           "kalshi": 296,
-          "circa": 325
+          "circa": 325,
+          "bookmaker": 333
         }
       },
       "Macklin Celebrini": {
@@ -3266,7 +3493,8 @@
           "caesars": 400,
           "bet365": 500,
           "hardrock": 650,
-          "circa": 425
+          "circa": 425,
+          "bookmaker": 500
         }
       },
       "Leon Draisaitl": {
@@ -3283,7 +3511,8 @@
           "bet365": 1100,
           "hardrock": 900,
           "kalshi": 625,
-          "circa": 1000
+          "circa": 1000,
+          "bookmaker": 1001
         }
       },
       "Nikita Kucherov": {
@@ -3300,7 +3529,8 @@
           "bet365": 1200,
           "hardrock": 1200,
           "kalshi": 841,
-          "circa": 875
+          "circa": 875,
+          "bookmaker": 1252
         }
       },
       "Kirill Kaprizov": {
@@ -3316,7 +3546,8 @@
           "caesars": 1600,
           "bet365": 1400,
           "hardrock": 1400,
-          "circa": 2000
+          "circa": 2000,
+          "bookmaker": 1602
         }
       },
       "Auston Matthews": {
@@ -3333,7 +3564,8 @@
           "bet365": 1500,
           "hardrock": 1500,
           "kalshi": 1222,
-          "circa": 2800
+          "circa": 2800,
+          "bookmaker": 1802
         }
       },
       "David Pastrnak": {
@@ -3349,7 +3581,8 @@
           "caesars": 2000,
           "bet365": 1200,
           "hardrock": 1200,
-          "circa": 1600
+          "circa": 1600,
+          "bookmaker": 2202
         }
       },
       "Jack Hughes": {
@@ -3366,7 +3599,8 @@
           "bet365": 2500,
           "hardrock": 2250,
           "kalshi": 841,
-          "circa": 2500
+          "circa": 2500,
+          "bookmaker": 2502
         }
       },
       "Jack Eichel": {
@@ -3382,7 +3616,8 @@
           "caesars": 3300,
           "bet365": 4000,
           "hardrock": 4000,
-          "circa": 6000
+          "circa": 6000,
+          "bookmaker": 3304
         }
       },
       "Mitchell Marner": {
@@ -3398,7 +3633,8 @@
           "caesars": 3500,
           "bet365": 3000,
           "hardrock": 3000,
-          "circa": 6000
+          "circa": 6000,
+          "bookmaker": 3804
         }
       },
       "Cale Makar": {
@@ -3414,7 +3650,8 @@
           "caesars": 3500,
           "bet365": 2500,
           "hardrock": 2500,
-          "circa": 4500
+          "circa": 4500,
+          "bookmaker": 4505
         }
       },
       "Nick Suzuki": {
@@ -3430,7 +3667,8 @@
           "caesars": 2500,
           "bet365": 3000,
           "hardrock": 3000,
-          "circa": 7500
+          "circa": 7500,
+          "bookmaker": 6607
         }
       },
       "Tage Thompson": {
@@ -3446,7 +3684,8 @@
           "caesars": 5500,
           "bet365": 6000,
           "hardrock": 6000,
-          "circa": 7000
+          "circa": 7000,
+          "bookmaker": 6607
         }
       },
       "Jason Robertson": {
@@ -3462,7 +3701,8 @@
           "caesars": 4500,
           "bet365": 6000,
           "hardrock": 6000,
-          "circa": 5000
+          "circa": 5000,
+          "bookmaker": 6607
         }
       },
       "Quinn Hughes": {
@@ -3479,7 +3719,8 @@
           "bet365": 6000,
           "hardrock": 6000,
           "kalshi": 756,
-          "circa": 10000
+          "circa": 10000,
+          "bookmaker": 8811
         }
       },
       "Connor Bedard": {
@@ -3495,7 +3736,8 @@
           "caesars": 8000,
           "bet365": 4000,
           "hardrock": 4000,
-          "circa": 9000
+          "circa": 9000,
+          "bookmaker": 8758
         }
       },
       "Cole Caufield": {
@@ -3511,7 +3753,8 @@
           "caesars": 8000,
           "bet365": 7500,
           "hardrock": 7500,
-          "circa": 10000
+          "circa": 10000,
+          "bookmaker": 8811
         }
       },
       "Connor Hellebuyck": {
@@ -3527,7 +3770,8 @@
           "caesars": 7000,
           "bet365": 15000,
           "hardrock": 15000,
-          "circa": 7500
+          "circa": 7500,
+          "bookmaker": 8811
         }
       },
       "Andrei Vasilevskiy": {
@@ -3543,7 +3787,8 @@
           "caesars": 10000,
           "bet365": 15000,
           "hardrock": 15000,
-          "circa": 17500
+          "circa": 17500,
+          "bookmaker": 8811
         }
       },
       "Matthew Schaefer": {
@@ -3559,7 +3804,8 @@
           "caesars": 10000,
           "bet365": 10000,
           "hardrock": 10000,
-          "circa": 12500
+          "circa": 12500,
+          "bookmaker": 10012
         }
       },
       "Jeremy Swayman": {
@@ -3573,7 +3819,8 @@
           "draftkings": 20000,
           "caesars": 20000,
           "bet365": 20000,
-          "hardrock": 20000
+          "hardrock": 20000,
+          "bookmaker": 10012
         }
       },
       "Mikko Rantanen": {
@@ -3589,7 +3836,8 @@
           "caesars": 5000,
           "bet365": 3000,
           "hardrock": 3000,
-          "circa": 12500
+          "circa": 12500,
+          "bookmaker": 10012
         }
       },
       "Sidney Crosby": {
@@ -3605,7 +3853,8 @@
           "caesars": 20000,
           "bet365": 10000,
           "hardrock": 10000,
-          "circa": 30000
+          "circa": 30000,
+          "bookmaker": 20025
         }
       },
       "Ilya Sorokin": {
@@ -3620,7 +3869,8 @@
           "caesars": 10000,
           "bet365": 20000,
           "hardrock": 20000,
-          "circa": 15000
+          "circa": 15000,
+          "bookmaker": 20025
         }
       },
       "Igor Shesterkin": {
@@ -3635,7 +3885,8 @@
           "caesars": 20000,
           "bet365": 20000,
           "hardrock": 20000,
-          "circa": 15000
+          "circa": 15000,
+          "bookmaker": 20025
         }
       },
       "Jake Oettinger": {
@@ -3649,7 +3900,8 @@
           "thescore": 15000,
           "draftkings": 15000,
           "bet365": 15000,
-          "hardrock": 15000
+          "hardrock": 15000,
+          "bookmaker": 20025
         }
       },
       "Aleksander Barkov": {
@@ -3665,7 +3917,8 @@
           "caesars": 15000,
           "bet365": 5000,
           "hardrock": 5000,
-          "circa": 30000
+          "circa": 30000,
+          "bookmaker": 19714
         }
       },
       "Wyatt Johnston": {
@@ -3680,14 +3933,16 @@
           "caesars": 20000,
           "bet365": 30000,
           "hardrock": 25000,
-          "circa": 15000
+          "circa": 15000,
+          "bookmaker": 15010
         }
       },
       "Porter Martone": {
         "team": "",
         "prices": {
           "fanduel": 30000,
-          "caesars": 20000
+          "caesars": 20000,
+          "bookmaker": 20025
         }
       },
       "Brayden Point": {
@@ -3702,7 +3957,8 @@
           "draftkings": 15000,
           "caesars": 15000,
           "bet365": 15000,
-          "hardrock": 15000
+          "hardrock": 15000,
+          "bookmaker": 30040
         }
       },
       "Matthew Tkachuk": {
@@ -3718,14 +3974,16 @@
           "caesars": 10000,
           "bet365": 4000,
           "hardrock": 4000,
-          "circa": 30000
+          "circa": 30000,
+          "bookmaker": 30040
         }
       },
       "Brandon Hagel": {
         "team": "",
         "prices": {
           "fanduel": 30000,
-          "caesars": 15000
+          "caesars": 15000,
+          "bookmaker": 30040
         }
       },
       "Brady Tkachuk": {
@@ -3741,7 +3999,8 @@
           "caesars": 15000,
           "bet365": 10000,
           "hardrock": 10000,
-          "circa": 30000
+          "circa": 30000,
+          "bookmaker": 30040
         }
       },
       "Leo Carlsson": {
@@ -3757,7 +4016,8 @@
           "caesars": 10000,
           "bet365": 15000,
           "hardrock": 15000,
-          "circa": 25000
+          "circa": 25000,
+          "bookmaker": 26702
         }
       },
       "Cutter Gauthier": {
@@ -3772,7 +4032,8 @@
           "caesars": 25000,
           "bet365": 30000,
           "hardrock": 25000,
-          "circa": 25000
+          "circa": 25000,
+          "bookmaker": 30040
         }
       },
       "Zach Werenski": {
@@ -3788,14 +4049,16 @@
           "caesars": 15000,
           "bet365": 6000,
           "hardrock": 6000,
-          "circa": 15000
+          "circa": 15000,
+          "bookmaker": 30040
         }
       },
       "Ivan Demidov": {
         "team": "",
         "prices": {
           "fanduel": 30000,
-          "betmgm": 15000
+          "betmgm": 15000,
+          "bookmaker": 30040
         }
       },
       "Evan Bouchard": {
@@ -3810,13 +4073,15 @@
           "draftkings": 15000,
           "caesars": 25000,
           "bet365": 15000,
-          "hardrock": 15000
+          "hardrock": 15000,
+          "bookmaker": 30040
         }
       },
       "Thomas Harley": {
         "team": "",
         "prices": {
-          "fanduel": 30000
+          "fanduel": 30000,
+          "bookmaker": 30040
         }
       },
       "William Nylander": {
@@ -3831,14 +4096,16 @@
           "draftkings": 6000,
           "caesars": 15000,
           "bet365": 6000,
-          "hardrock": 6000
+          "hardrock": 6000,
+          "bookmaker": 29666
         }
       },
       "Gavin McKenna": {
         "team": "",
         "prices": {
           "fanduel": 30000,
-          "caesars": 25000
+          "caesars": 25000,
+          "bookmaker": 30040
         }
       },
       "Kyle Connor": {
@@ -3853,7 +4120,8 @@
           "draftkings": 5000,
           "caesars": 15000,
           "bet365": 5000,
-          "hardrock": 5000
+          "hardrock": 5000,
+          "bookmaker": 30040
         }
       },
       "Alex Ovechkin": {
@@ -3867,7 +4135,8 @@
           "draftkings": 30000,
           "caesars": 30000,
           "bet365": 30000,
-          "hardrock": 25000
+          "hardrock": 25000,
+          "bookmaker": 30040
         }
       },
       "Lane Hutson": {
@@ -3883,7 +4152,8 @@
           "caesars": 20000,
           "bet365": 15000,
           "hardrock": 15000,
-          "circa": 25000
+          "circa": 25000,
+          "bookmaker": 30040
         }
       },
       "Nico Hischier": {
@@ -3897,7 +4167,8 @@
           "draftkings": 30000,
           "caesars": 20000,
           "bet365": 30000,
-          "hardrock": 25000
+          "hardrock": 25000,
+          "bookmaker": 30040
         }
       },
       "Matthew Boldy": {
@@ -3913,7 +4184,8 @@
           "caesars": 7000,
           "bet365": 4000,
           "hardrock": 4000,
-          "circa": 25000
+          "circa": 25000,
+          "bookmaker": 25250
         }
       },
       "Adam Fox": {
@@ -4499,7 +4771,8 @@
           "draftkings": 300,
           "caesars": 275,
           "bet365": 275,
-          "circa": 225
+          "circa": 225,
+          "bookmaker": 250
         }
       },
       "Quinn Hughes": {
@@ -4514,7 +4787,8 @@
           "draftkings": 400,
           "caesars": 450,
           "bet365": 400,
-          "circa": 400
+          "circa": 400,
+          "bookmaker": 334
         }
       },
       "Zach Werenski": {
@@ -4529,7 +4803,8 @@
           "draftkings": 550,
           "caesars": 525,
           "bet365": 550,
-          "circa": 550
+          "circa": 550,
+          "bookmaker": 751
         }
       },
       "Lane Hutson": {
@@ -4544,7 +4819,8 @@
           "draftkings": 1000,
           "caesars": 1000,
           "bet365": 1000,
-          "circa": 825
+          "circa": 825,
+          "bookmaker": 751
         }
       },
       "Rasmus Dahlin": {
@@ -4559,7 +4835,8 @@
           "draftkings": 700,
           "caesars": 650,
           "bet365": 700,
-          "circa": 775
+          "circa": 775,
+          "bookmaker": 751
         }
       },
       "Evan Bouchard": {
@@ -4574,7 +4851,8 @@
           "draftkings": 1200,
           "caesars": 1100,
           "bet365": 1200,
-          "circa": 775
+          "circa": 775,
+          "bookmaker": 801
         }
       },
       "Moritz Seider": {
@@ -4589,7 +4867,8 @@
           "draftkings": 1000,
           "caesars": 1500,
           "bet365": 1100,
-          "circa": 1400
+          "circa": 1400,
+          "bookmaker": 1503
         }
       },
       "Matthew Schaefer": {
@@ -4604,7 +4883,8 @@
           "draftkings": 2000,
           "caesars": 1600,
           "bet365": 1500,
-          "circa": 1400
+          "circa": 1400,
+          "bookmaker": 1803
         }
       },
       "Jake Sanderson": {
@@ -4619,7 +4899,8 @@
           "draftkings": 3000,
           "caesars": 3500,
           "bet365": 3300,
-          "circa": 2800
+          "circa": 2800,
+          "bookmaker": 2004
         }
       },
       "Adam Fox": {
@@ -4634,7 +4915,8 @@
           "draftkings": 3000,
           "caesars": 3500,
           "bet365": 3300,
-          "circa": 3300
+          "circa": 3300,
+          "bookmaker": 2004
         }
       },
       "Jackson LaCombe": {
@@ -4649,7 +4931,8 @@
           "draftkings": 3000,
           "caesars": 3000,
           "bet365": 3000,
-          "circa": 4000
+          "circa": 4000,
+          "bookmaker": 2004
         }
       },
       "Jakob Chychrun": {
@@ -4664,7 +4947,8 @@
           "draftkings": 5000,
           "caesars": 4500,
           "bet365": 5000,
-          "circa": 5000
+          "circa": 5000,
+          "bookmaker": 5511
         }
       },
       "Thomas Harley": {
@@ -4678,7 +4962,8 @@
           "draftkings": 20000,
           "caesars": 20000,
           "bet365": 20000,
-          "circa": 7500
+          "circa": 7500,
+          "bookmaker": 5511
         }
       },
       "Miro Heiskanen": {
@@ -4693,7 +4978,8 @@
           "draftkings": 2200,
           "caesars": 2500,
           "bet365": 2500,
-          "circa": 3800
+          "circa": 3800,
+          "bookmaker": 5511
         }
       },
       "Darren Raddysh": {
@@ -4708,7 +4994,8 @@
           "draftkings": 6000,
           "caesars": 5000,
           "bet365": 5000,
-          "circa": 5900
+          "circa": 5900,
+          "bookmaker": 6613
         }
       },
       "Charlie McAvoy": {
@@ -4723,7 +5010,8 @@
           "draftkings": 2500,
           "caesars": 3000,
           "bet365": 2800,
-          "circa": 15000
+          "circa": 15000,
+          "bookmaker": 8000
         }
       },
       "Roman Josi": {
@@ -4738,7 +5026,8 @@
           "draftkings": 4000,
           "caesars": 4500,
           "bet365": 4000,
-          "circa": 10000
+          "circa": 10000,
+          "bookmaker": 10021
         }
       },
       "Bowen Byram": {
@@ -4747,7 +5036,8 @@
           "fanduel": 10000,
           "caesars": 7500,
           "bet365": 10000,
-          "circa": 20000
+          "circa": 20000,
+          "bookmaker": 10021
         }
       },
       "Josh Morrissey": {
@@ -4762,7 +5052,8 @@
           "draftkings": 5000,
           "caesars": 5500,
           "bet365": 5000,
-          "circa": 20000
+          "circa": 20000,
+          "bookmaker": 10021
         }
       },
       "Victor Hedman": {
@@ -4777,7 +5068,8 @@
           "draftkings": 4000,
           "caesars": 4000,
           "bet365": 4000,
-          "circa": 17500
+          "circa": 17500,
+          "bookmaker": 5010
         }
       },
       "Brandt Clarke": {
@@ -4790,7 +5082,8 @@
           "thescore": 25000,
           "draftkings": 25000,
           "bet365": 25000,
-          "circa": 20000
+          "circa": 20000,
+          "bookmaker": 10021
         }
       },
       "Shea Theodore": {
@@ -4805,7 +5098,8 @@
           "draftkings": 12000,
           "caesars": 10000,
           "bet365": 10000,
-          "circa": 30000
+          "circa": 30000,
+          "bookmaker": 10021
         }
       },
       "Brock Faber": {
@@ -4820,7 +5114,8 @@
           "draftkings": 10000,
           "caesars": 10000,
           "bet365": 10000,
-          "circa": 25000
+          "circa": 25000,
+          "bookmaker": 30070
         }
       },
       "Jaccob Slavin": {
@@ -4833,7 +5128,8 @@
           "thescore": 15000,
           "draftkings": 15000,
           "caesars": 15000,
-          "bet365": 15000
+          "bet365": 15000,
+          "bookmaker": 10021
         }
       },
       "Dmitry Orlov": {
@@ -4846,7 +5142,8 @@
           "thescore": 30000,
           "draftkings": 30000,
           "caesars": 30000,
-          "bet365": 30000
+          "bet365": 30000,
+          "bookmaker": 30070
         }
       },
       "Shayne Gostisbehere": {
@@ -4859,7 +5156,8 @@
           "thescore": 20000,
           "draftkings": 20000,
           "caesars": 20000,
-          "bet365": 20000
+          "bet365": 20000,
+          "bookmaker": 30070
         }
       },
       "Devon Toews": {
@@ -4872,7 +5170,8 @@
           "thescore": 30000,
           "draftkings": 30000,
           "caesars": 30000,
-          "bet365": 30000
+          "bet365": 30000,
+          "bookmaker": 30070
         }
       },
       "Filip Hronek": {
@@ -4885,7 +5184,8 @@
           "thescore": 20000,
           "draftkings": 20000,
           "bet365": 20000,
-          "circa": 30000
+          "circa": 30000,
+          "bookmaker": 30070
         }
       },
       "Rasmus Andersson": {
@@ -4899,7 +5199,8 @@
           "draftkings": 25000,
           "caesars": 25000,
           "bet365": 25000,
-          "circa": 30000
+          "circa": 30000,
+          "bookmaker": 30070
         }
       },
       "Philip Broberg": {
@@ -4911,7 +5212,8 @@
           "betano": 24900,
           "thescore": 20000,
           "draftkings": 20000,
-          "bet365": 20000
+          "bet365": 20000,
+          "bookmaker": 30070
         }
       },
       "Morgan Rielly": {
@@ -4924,7 +5226,8 @@
           "thescore": 20000,
           "draftkings": 20000,
           "caesars": 22500,
-          "bet365": 20000
+          "bet365": 20000,
+          "bookmaker": 30070
         }
       },
       "Cam Fowler": {
@@ -4937,7 +5240,8 @@
           "thescore": 30000,
           "draftkings": 30000,
           "caesars": 30000,
-          "bet365": 30000
+          "bet365": 30000,
+          "bookmaker": 30070
         }
       },
       "John Carlson": {
@@ -4952,7 +5256,8 @@
           "draftkings": 7500,
           "caesars": 8000,
           "bet365": 7500,
-          "circa": 7500
+          "circa": 7500,
+          "bookmaker": 30070
         }
       },
       "Carter Yakemchuk": {
@@ -4963,7 +5268,8 @@
           "betano": 29900,
           "thescore": 30000,
           "draftkings": 30000,
-          "bet365": 30000
+          "bet365": 30000,
+          "bookmaker": 30070
         }
       },
       "K'Andre Miller": {
@@ -4990,7 +5296,8 @@
           "draftkings": 25000,
           "caesars": 25000,
           "bet365": 25000,
-          "circa": 30000
+          "circa": 30000,
+          "bookmaker": 30070
         }
       },
       "Gustav Forsling": {
@@ -6941,7 +7248,7 @@
         "caesars": -130,
         "bet365": -105,
         "hardrock": -125,
-        "circa": 115
+        "circa": -110
       },
       "no": {
         "dazn": -105,
@@ -6955,7 +7262,7 @@
         "caesars": 105,
         "bet365": -116,
         "hardrock": -105,
-        "circa": -145
+        "circa": -120
       }
     },
     "Calgary Flames": {
@@ -8392,7 +8699,7 @@
         "thescore": 2500,
         "draftkings": 3000,
         "circa": 2900,
-        "bookmaker": 2850,
+        "bookmaker": 2869,
         "caesars": 2500,
         "bet365": 2800,
         "hardrock": 3000,
@@ -8409,7 +8716,7 @@
         "thescore": 10000,
         "draftkings": 15000,
         "circa": 15000,
-        "bookmaker": 12500,
+        "bookmaker": 12588,
         "caesars": 10000,
         "bet365": 12500,
         "hardrock": 15000
@@ -8425,7 +8732,7 @@
         "thescore": 7500,
         "draftkings": 8000,
         "circa": 6000,
-        "bookmaker": 8800,
+        "bookmaker": 8861,
         "caesars": 6000,
         "bet365": 8000,
         "hardrock": 7500,
@@ -8442,7 +8749,7 @@
         "thescore": 3500,
         "draftkings": 3500,
         "circa": 2800,
-        "bookmaker": 2800,
+        "bookmaker": 2905,
         "caesars": 3500,
         "bet365": 3500,
         "hardrock": 4000,
@@ -8459,7 +8766,7 @@
         "thescore": 5000,
         "draftkings": 5000,
         "circa": 8000,
-        "bookmaker": 5100,
+        "bookmaker": 5310,
         "caesars": 5000,
         "bet365": 5000,
         "hardrock": 5000,
@@ -8476,7 +8783,7 @@
         "thescore": 6000,
         "draftkings": 8000,
         "circa": 8000,
-        "bookmaker": 6800,
+        "bookmaker": 6004,
         "caesars": 8000,
         "bet365": 7000,
         "hardrock": 7500,
@@ -8493,7 +8800,7 @@
         "thescore": 3500,
         "draftkings": 3500,
         "circa": 3600,
-        "bookmaker": 3800,
+        "bookmaker": 3406,
         "caesars": 3500,
         "bet365": 3500,
         "hardrock": 4000,
@@ -8510,7 +8817,7 @@
         "thescore": 25000,
         "draftkings": 40000,
         "circa": 50000,
-        "bookmaker": 30000,
+        "bookmaker": 29597,
         "caesars": 50000,
         "bet365": 25000,
         "hardrock": 50000
@@ -8526,7 +8833,7 @@
         "thescore": 10000,
         "draftkings": 25000,
         "circa": 6300,
-        "bookmaker": 12500,
+        "bookmaker": 12588,
         "caesars": 10000,
         "bet365": 15000,
         "hardrock": 25000
@@ -8542,7 +8849,7 @@
         "thescore": 1200,
         "draftkings": 1200,
         "circa": 900,
-        "bookmaker": 1400,
+        "bookmaker": 1402,
         "caesars": 1400,
         "bet365": 1200,
         "hardrock": 1200,
@@ -8559,7 +8866,7 @@
         "thescore": 2500,
         "draftkings": 3500,
         "circa": 4000,
-        "bookmaker": 3500,
+        "bookmaker": 3127,
         "caesars": 4000,
         "bet365": 3000,
         "hardrock": 4000,
@@ -8576,7 +8883,7 @@
         "thescore": 3000,
         "draftkings": 3000,
         "circa": 2500,
-        "bookmaker": 3100,
+        "bookmaker": 3015,
         "caesars": 2500,
         "bet365": 3000,
         "hardrock": 3000,
@@ -8593,7 +8900,7 @@
         "thescore": 40000,
         "draftkings": 100000,
         "circa": 100000,
-        "bookmaker": 40000,
+        "bookmaker": 35193,
         "caesars": 50000,
         "bet365": 50000,
         "hardrock": 100000
@@ -8609,7 +8916,7 @@
         "thescore": 1000,
         "draftkings": 850,
         "circa": 1100,
-        "bookmaker": 950,
+        "bookmaker": 962,
         "caesars": 1000,
         "bet365": 1000,
         "hardrock": 1000,
@@ -8626,7 +8933,7 @@
         "thescore": 1000,
         "draftkings": 1700,
         "circa": 2200,
-        "bookmaker": 1400,
+        "bookmaker": 1408,
         "caesars": 1800,
         "bet365": 1500,
         "hardrock": 1500,
@@ -8643,7 +8950,7 @@
         "thescore": 10000,
         "draftkings": 15000,
         "circa": 12500,
-        "bookmaker": 10000,
+        "bookmaker": 8826,
         "caesars": 10000,
         "bet365": 10000,
         "hardrock": 20000
@@ -8659,7 +8966,7 @@
         "thescore": 3500,
         "draftkings": 2800,
         "circa": 4000,
-        "bookmaker": 2700,
+        "bookmaker": 2805,
         "caesars": 3000,
         "bet365": 3000,
         "hardrock": 3000,
@@ -8676,7 +8983,7 @@
         "thescore": 10000,
         "draftkings": 10000,
         "circa": 8000,
-        "bookmaker": 8000,
+        "bookmaker": 8015,
         "caesars": 8000,
         "bet365": 10000,
         "hardrock": 10000
@@ -8692,7 +8999,7 @@
         "thescore": 3500,
         "draftkings": 3000,
         "circa": 4800,
-        "bookmaker": 2510,
+        "bookmaker": 2588,
         "caesars": 2500,
         "bet365": 3500,
         "hardrock": 2500,
@@ -8709,7 +9016,7 @@
         "thescore": 30000,
         "draftkings": 100000,
         "circa": 100000,
-        "bookmaker": 36919,
+        "bookmaker": 37188,
         "caesars": 50000,
         "bet365": 40000,
         "hardrock": 100000
@@ -8725,7 +9032,7 @@
         "thescore": 750,
         "draftkings": 650,
         "circa": 700,
-        "bookmaker": 757,
+        "bookmaker": 763,
         "caesars": 800,
         "bet365": 700,
         "hardrock": 700,
@@ -8742,7 +9049,7 @@
         "thescore": 15000,
         "draftkings": 25000,
         "circa": 40000,
-        "bookmaker": 17571,
+        "bookmaker": 17617,
         "caesars": 20000,
         "bet365": 20000,
         "hardrock": 25000
@@ -8758,7 +9065,7 @@
         "thescore": 750,
         "draftkings": 700,
         "circa": 725,
-        "bookmaker": 675,
+        "bookmaker": 681,
         "caesars": 600,
         "bet365": 750,
         "hardrock": 750,
@@ -8775,7 +9082,7 @@
         "thescore": 6000,
         "draftkings": 6000,
         "circa": 6000,
-        "bookmaker": 5300,
+        "bookmaker": 5337,
         "caesars": 6000,
         "bet365": 5500,
         "hardrock": 6000,
@@ -8792,7 +9099,7 @@
         "thescore": 1600,
         "draftkings": 1400,
         "circa": 1650,
-        "bookmaker": 1600,
+        "bookmaker": 1601,
         "caesars": 1500,
         "bet365": 1600,
         "hardrock": 1600,
@@ -8809,7 +9116,7 @@
         "thescore": 10000,
         "draftkings": 15000,
         "circa": 15000,
-        "bookmaker": 8800,
+        "bookmaker": 8861,
         "caesars": 10000,
         "bet365": 10000,
         "hardrock": 15000
@@ -8825,7 +9132,7 @@
         "thescore": 900,
         "draftkings": 800,
         "circa": 900,
-        "bookmaker": 888,
+        "bookmaker": 895,
         "caesars": 1200,
         "bet365": 900,
         "hardrock": 900,
@@ -8842,7 +9149,7 @@
         "thescore": 600,
         "draftkings": 650,
         "circa": 650,
-        "bookmaker": 625,
+        "bookmaker": 630,
         "caesars": 650,
         "bet365": 650,
         "hardrock": 650,
@@ -8859,7 +9166,7 @@
         "thescore": 3000,
         "draftkings": 3000,
         "circa": 4200,
-        "bookmaker": 3100,
+        "bookmaker": 3122,
         "caesars": 3000,
         "bet365": 3000,
         "hardrock": 3000,
@@ -8876,7 +9183,7 @@
         "thescore": 1400,
         "draftkings": 1300,
         "circa": 1350,
-        "bookmaker": 1350,
+        "bookmaker": 1359,
         "caesars": 1300,
         "bet365": 1400,
         "hardrock": 1300,
@@ -8893,7 +9200,7 @@
         "thescore": 2500,
         "draftkings": 2200,
         "circa": 2500,
-        "bookmaker": 2400,
+        "bookmaker": 2396,
         "caesars": 1700,
         "bet365": 2000,
         "hardrock": 2250,
@@ -8910,7 +9217,7 @@
         "thescore": 10000,
         "draftkings": 20000,
         "circa": 10000,
-        "bookmaker": 13000,
+        "bookmaker": 13092,
         "caesars": 12500,
         "bet365": 15000,
         "hardrock": 20000
@@ -8926,7 +9233,8 @@
         "thescore": 600,
         "caesars": 550,
         "bet365": 600,
-        "hardrock": 550
+        "hardrock": 550,
+        "bookmaker": 600
       },
       "Carolina Hurricanes": {
         "dazn": 550,
@@ -8937,7 +9245,8 @@
         "thescore": 600,
         "caesars": 600,
         "bet365": 550,
-        "hardrock": 600
+        "hardrock": 600,
+        "bookmaker": 550
       },
       "Florida Panthers": {
         "dazn": 800,
@@ -8948,7 +9257,8 @@
         "thescore": 650,
         "caesars": 575,
         "bet365": 600,
-        "hardrock": 500
+        "hardrock": 500,
+        "bookmaker": 600
       },
       "Tampa Bay Lightning": {
         "dazn": 900,
@@ -8959,7 +9269,8 @@
         "thescore": 1100,
         "caesars": 1300,
         "bet365": 1000,
-        "hardrock": 1000
+        "hardrock": 1000,
+        "bookmaker": 1000
       },
       "Vegas Golden Knights": {
         "dazn": 900,
@@ -8970,7 +9281,8 @@
         "thescore": 1000,
         "caesars": 900,
         "bet365": 1000,
-        "hardrock": 800
+        "hardrock": 800,
+        "bookmaker": 1000
       },
       "Edmonton Oilers": {
         "dazn": 1000,
@@ -8981,7 +9293,8 @@
         "thescore": 1000,
         "caesars": 1000,
         "bet365": 850,
-        "hardrock": 1000
+        "hardrock": 1000,
+        "bookmaker": 1200
       },
       "Minnesota Wild": {
         "dazn": 1100,
@@ -8992,7 +9305,8 @@
         "thescore": 1000,
         "caesars": 1200,
         "bet365": 1200,
-        "hardrock": 1300
+        "hardrock": 1300,
+        "bookmaker": 1200
       },
       "Dallas Stars": {
         "dazn": 1400,
@@ -9003,7 +9317,8 @@
         "thescore": 1500,
         "caesars": 1500,
         "bet365": 1600,
-        "hardrock": 1500
+        "hardrock": 1500,
+        "bookmaker": 1500
       },
       "Washington Capitals": {
         "dazn": 1900,
@@ -9014,7 +9329,8 @@
         "thescore": 1800,
         "caesars": 1600,
         "bet365": 1400,
-        "hardrock": 1600
+        "hardrock": 1600,
+        "bookmaker": 1300
       },
       "Ottawa Senators": {
         "dazn": 1900,
@@ -9025,7 +9341,8 @@
         "thescore": 2200,
         "caesars": 4000,
         "bet365": 3300,
-        "hardrock": 4000
+        "hardrock": 4000,
+        "bookmaker": 3300
       },
       "Montreal Canadiens": {
         "dazn": 2400,
@@ -9036,7 +9353,8 @@
         "thescore": 2500,
         "caesars": 2200,
         "bet365": 2800,
-        "hardrock": 2500
+        "hardrock": 2500,
+        "bookmaker": 2500
       },
       "Buffalo Sabres": {
         "dazn": 2900,
@@ -9047,7 +9365,8 @@
         "thescore": 3000,
         "caesars": 3000,
         "bet365": 4000,
-        "hardrock": 5000
+        "hardrock": 5000,
+        "bookmaker": 4000
       },
       "Anaheim Ducks": {
         "dazn": 2900,
@@ -9058,7 +9377,8 @@
         "thescore": 3000,
         "caesars": 4000,
         "bet365": 4000,
-        "hardrock": 4000
+        "hardrock": 4000,
+        "bookmaker": 4000
       },
       "New Jersey Devils": {
         "dazn": 2900,
@@ -9069,7 +9389,8 @@
         "thescore": 2800,
         "caesars": 4000,
         "bet365": 3300,
-        "hardrock": 4000
+        "hardrock": 4000,
+        "bookmaker": 2500
       },
       "Los Angeles Kings": {
         "dazn": 3400,
@@ -9080,7 +9401,8 @@
         "thescore": 4000,
         "caesars": 4000,
         "bet365": 4000,
-        "hardrock": 4000
+        "hardrock": 4000,
+        "bookmaker": 3300
       },
       "Utah Mammoth": {
         "dazn": 3400,
@@ -9091,7 +9413,8 @@
         "thescore": 4000,
         "caesars": 4000,
         "bet365": 3500,
-        "hardrock": 4000
+        "hardrock": 4000,
+        "bookmaker": 2800
       },
       "Columbus Blue Jackets": {
         "dazn": 4900,
@@ -9102,7 +9425,8 @@
         "thescore": 5000,
         "caesars": 10000,
         "bet365": 8000,
-        "hardrock": 7500
+        "hardrock": 7500,
+        "bookmaker": 6600
       },
       "Toronto Maple Leafs": {
         "dazn": 4900,
@@ -9113,7 +9437,8 @@
         "thescore": 3300,
         "caesars": 5000,
         "bet365": 3500,
-        "hardrock": 3000
+        "hardrock": 3000,
+        "bookmaker": 3300
       },
       "Philadelphia Flyers": {
         "dazn": 4900,
@@ -9124,7 +9449,8 @@
         "thescore": 5000,
         "caesars": 5000,
         "bet365": 7000,
-        "hardrock": 6000
+        "hardrock": 6000,
+        "bookmaker": 4500
       },
       "San Jose Sharks": {
         "dazn": 6900,
@@ -9135,7 +9461,8 @@
         "thescore": 5000,
         "caesars": 5000,
         "bet365": 6000,
-        "hardrock": 6000
+        "hardrock": 6000,
+        "bookmaker": 4500
       },
       "Pittsburgh Penguins": {
         "dazn": 7900,
@@ -9146,7 +9473,8 @@
         "thescore": 6000,
         "caesars": 10000,
         "bet365": 12500,
-        "hardrock": 15000
+        "hardrock": 15000,
+        "bookmaker": 6600
       },
       "Winnipeg Jets": {
         "dazn": 7900,
@@ -9157,7 +9485,8 @@
         "thescore": 8000,
         "caesars": 15000,
         "bet365": 20000,
-        "hardrock": 20000
+        "hardrock": 20000,
+        "bookmaker": 10000
       },
       "New York Islanders": {
         "dazn": 7900,
@@ -9168,7 +9497,8 @@
         "thescore": 8000,
         "caesars": 15000,
         "bet365": 15000,
-        "hardrock": 15000
+        "hardrock": 15000,
+        "bookmaker": 10000
       },
       "Detroit Red Wings": {
         "dazn": 8900,
@@ -9179,7 +9509,8 @@
         "thescore": 10000,
         "caesars": 15000,
         "bet365": 10000,
-        "hardrock": 25000
+        "hardrock": 25000,
+        "bookmaker": 8800
       },
       "New York Rangers": {
         "dazn": 8900,
@@ -9190,7 +9521,8 @@
         "thescore": 10000,
         "caesars": 10000,
         "bet365": 15000,
-        "hardrock": 10000
+        "hardrock": 10000,
+        "bookmaker": 7500
       },
       "Boston Bruins": {
         "dazn": 9900,
@@ -9201,7 +9533,8 @@
         "thescore": 6600,
         "caesars": 15000,
         "bet365": 20000,
-        "hardrock": 25000
+        "hardrock": 25000,
+        "bookmaker": 10000
       },
       "St. Louis Blues": {
         "dazn": 9900,
@@ -9212,7 +9545,8 @@
         "thescore": 8000,
         "caesars": 15000,
         "bet365": 25000,
-        "hardrock": 25000
+        "hardrock": 25000,
+        "bookmaker": 10000
       },
       "Nashville Predators": {
         "dazn": 12400,
@@ -9223,7 +9557,8 @@
         "thescore": 10000,
         "caesars": 15000,
         "bet365": 20000,
-        "hardrock": 25000
+        "hardrock": 25000,
+        "bookmaker": 10000
       },
       "Chicago Blackhawks": {
         "dazn": 19900,
@@ -9234,7 +9569,8 @@
         "caesars": 25000,
         "bet365": 25000,
         "hardrock": 50000,
-        "fanduel": 40000
+        "fanduel": 40000,
+        "bookmaker": 10000
       },
       "Seattle Kraken": {
         "dazn": 29900,
@@ -9244,7 +9580,8 @@
         "thescore": 20000,
         "caesars": 50000,
         "bet365": 40000,
-        "hardrock": 50000
+        "hardrock": 50000,
+        "bookmaker": 10000
       },
       "Calgary Flames": {
         "dazn": 49900,
@@ -9307,7 +9644,7 @@
         "betonline": 600,
         "thescore": 650,
         "draftkings": 600,
-        "bookmaker": 600,
+        "bookmaker": 593,
         "caesars": 450,
         "bet365": 650,
         "hardrock": 600,
@@ -9322,7 +9659,7 @@
         "betonline": 1000,
         "thescore": 850,
         "draftkings": 900,
-        "bookmaker": 900,
+        "bookmaker": 901,
         "caesars": 900,
         "bet365": 1000,
         "hardrock": 900,
@@ -9337,7 +9674,7 @@
         "betonline": 900,
         "thescore": 850,
         "draftkings": 950,
-        "bookmaker": 775,
+        "bookmaker": 776,
         "caesars": 800,
         "bet365": 900,
         "hardrock": 1000,
@@ -9352,7 +9689,7 @@
         "betonline": 1100,
         "thescore": 650,
         "draftkings": 1000,
-        "bookmaker": 935,
+        "bookmaker": 936,
         "caesars": 1000,
         "bet365": 950,
         "hardrock": 1000,
@@ -9367,7 +9704,7 @@
         "betonline": 4000,
         "thescore": 4000,
         "draftkings": 4000,
-        "bookmaker": 2700,
+        "bookmaker": 2704,
         "caesars": 4000,
         "bet365": 3300,
         "hardrock": 4000,
@@ -9382,7 +9719,7 @@
         "betonline": 3500,
         "thescore": 3000,
         "draftkings": 3500,
-        "bookmaker": 3300,
+        "bookmaker": 3305,
         "caesars": 2800,
         "bet365": 3500,
         "hardrock": 4000,
@@ -10006,13 +10343,13 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-04 16:48",
+    "last_updated": "2026-09-04 16:57",
     "book_updated": {
       "dazn": "2026-09-04",
       "fanduel": "2026-09-04",
       "kalshi": "2026-08-20",
-      "circa": "2026-09-01",
-      "bookmaker": "2026-08-11",
+      "circa": "2026-09-04",
+      "bookmaker": "2026-09-04",
       "caesars": "2026-08-11",
       "bet365": "2026-08-11 (re-verified vs mobile app; no changes since 08-06)",
       "hardrock": "2026-08-11"
