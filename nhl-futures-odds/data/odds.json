@@ -2244,7 +2244,7 @@
       "Porter Martone": {
         "team": "",
         "prices": {
-          "fanduel": 260,
+          "fanduel": 270,
           "kambi": 250,
           "betmgm": 250,
           "betano": 275,
@@ -2259,7 +2259,7 @@
       "Gavin McKenna": {
         "team": "",
         "prices": {
-          "fanduel": 280,
+          "fanduel": 300,
           "kambi": 250,
           "betmgm": 300,
           "betano": 300,
@@ -2319,7 +2319,7 @@
       "Roman Kantserov": {
         "team": "",
         "prices": {
-          "fanduel": 1600,
+          "fanduel": 1300,
           "kambi": 1000,
           "betmgm": 1600,
           "betano": 1400,
@@ -9557,7 +9557,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-04 07:57",
+    "last_updated": "2026-09-04 09:47",
     "book_updated": {
       "dazn": "2026-09-04",
       "fanduel": "2026-09-04",
