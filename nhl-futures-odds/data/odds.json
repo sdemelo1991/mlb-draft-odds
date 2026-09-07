@@ -9410,7 +9410,7 @@
         "dazn": 550,
         "fanduel": 550,
         "kambi": 650,
-        "betmgm": 500,
+        "betmgm": 475,
         "betano": 500,
         "thescore": 600,
         "caesars": 600,
@@ -9422,7 +9422,7 @@
         "dazn": 800,
         "fanduel": 700,
         "kambi": 550,
-        "betmgm": 500,
+        "betmgm": 550,
         "betano": 550,
         "thescore": 650,
         "caesars": 575,
@@ -9470,7 +9470,7 @@
         "dazn": 1100,
         "fanduel": 1100,
         "kambi": 1500,
-        "betmgm": 1500,
+        "betmgm": 1400,
         "betano": 1200,
         "thescore": 1000,
         "caesars": 1200,
@@ -9614,7 +9614,7 @@
         "dazn": 4900,
         "fanduel": 5000,
         "kambi": 7500,
-        "betmgm": 6600,
+        "betmgm": 6000,
         "betano": 6400,
         "thescore": 5000,
         "caesars": 5000,
@@ -10373,7 +10373,7 @@
         "caesars": 3500,
         "bet365": 3500,
         "hardrock": 4000,
-        "betmgm": 4000,
+        "betmgm": 5000,
         "circa": 5500
       },
       "Anaheim Ducks": {
@@ -10513,10 +10513,10 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-06 23:57",
+    "last_updated": "2026-09-07 00:07",
     "book_updated": {
-      "dazn": "2026-09-06",
-      "fanduel": "2026-09-06",
+      "dazn": "2026-09-07",
+      "fanduel": "2026-09-07",
       "kalshi": "2026-08-20",
       "circa": "2026-09-04",
       "bookmaker": "2026-09-04",
