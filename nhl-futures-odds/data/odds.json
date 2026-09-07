@@ -9808,7 +9808,7 @@
         "dazn": 600,
         "fanduel": 600,
         "kambi": 650,
-        "betmgm": 575,
+        "betmgm": 550,
         "betano": 600,
         "betonline": 600,
         "thescore": 650,
@@ -9823,7 +9823,7 @@
         "dazn": 850,
         "fanduel": 800,
         "kambi": 1000,
-        "betmgm": 1100,
+        "betmgm": 1000,
         "betano": 850,
         "betonline": 1000,
         "thescore": 850,
@@ -9838,7 +9838,7 @@
         "dazn": 900,
         "fanduel": 850,
         "kambi": 1100,
-        "betmgm": 900,
+        "betmgm": 950,
         "betano": 900,
         "betonline": 900,
         "thescore": 850,
@@ -9921,7 +9921,7 @@
         "caesars": 300,
         "bet365": 300,
         "hardrock": 325,
-        "betmgm": 310,
+        "betmgm": 300,
         "circa": 260
       },
       "Dallas Stars": {
@@ -9936,7 +9936,7 @@
         "caesars": 300,
         "bet365": 400,
         "hardrock": 325,
-        "betmgm": 400,
+        "betmgm": 375,
         "circa": 400
       },
       "Utah Mammoth": {
@@ -9966,7 +9966,7 @@
         "caesars": 4000,
         "bet365": 3300,
         "hardrock": 4000,
-        "betmgm": 3000,
+        "betmgm": 3500,
         "circa": 4600
       },
       "St. Louis Blues": {
@@ -9996,7 +9996,7 @@
         "caesars": 5000,
         "bet365": 4000,
         "hardrock": 5000,
-        "betmgm": 4500,
+        "betmgm": 4000,
         "circa": 2000
       },
       "Chicago Blackhawks": {
@@ -10011,14 +10011,14 @@
         "caesars": 7000,
         "bet365": 4500,
         "hardrock": 5000,
-        "betmgm": 6000,
+        "betmgm": 6600,
         "circa": 25000
       },
       "Carolina Hurricanes": {
         "dazn": -111,
         "fanduel": 115,
         "kambi": 115,
-        "betmgm": 105,
+        "betmgm": 110,
         "betano": 110,
         "betonline": 110,
         "thescore": 120,
@@ -10033,7 +10033,7 @@
         "dazn": 280,
         "fanduel": 310,
         "kambi": 225,
-        "betmgm": 340,
+        "betmgm": 300,
         "betano": 350,
         "betonline": 300,
         "thescore": 300,
@@ -10078,7 +10078,7 @@
         "dazn": 1000,
         "fanduel": 1100,
         "kambi": 1500,
-        "betmgm": 1400,
+        "betmgm": 1100,
         "betano": 1100,
         "betonline": 1200,
         "thescore": 1200,
@@ -10123,7 +10123,7 @@
         "dazn": 1900,
         "fanduel": 1800,
         "kambi": 2500,
-        "betmgm": 2000,
+        "betmgm": 2500,
         "betano": 2100,
         "betonline": 2200,
         "thescore": 1800,
@@ -10138,7 +10138,7 @@
         "dazn": 165,
         "fanduel": 160,
         "kambi": 150,
-        "betmgm": 175,
+        "betmgm": 160,
         "betano": 165,
         "betonline": 170,
         "thescore": 175,
@@ -10183,7 +10183,7 @@
         "dazn": 650,
         "fanduel": 750,
         "kambi": 700,
-        "betmgm": 650,
+        "betmgm": 700,
         "betano": 650,
         "betonline": 650,
         "thescore": 600,
@@ -10513,7 +10513,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-06 23:27",
+    "last_updated": "2026-09-06 23:37",
     "book_updated": {
       "dazn": "2026-09-06",
       "fanduel": "2026-09-06",
