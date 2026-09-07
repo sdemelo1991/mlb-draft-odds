@@ -9027,11 +9027,11 @@
       },
       "Toronto Maple Leafs": {
         "pinnacle": 2673,
-        "dazn": 3400,
+        "dazn": 2900,
         "fanduel": 3000,
         "kambi": 3000,
         "betmgm": 3300,
-        "betano": 3400,
+        "betano": 2900,
         "betonline": 2200,
         "thescore": 2500,
         "draftkings": 3500,
@@ -10513,7 +10513,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-07 13:17",
+    "last_updated": "2026-09-07 19:47",
     "book_updated": {
       "dazn": "2026-09-07",
       "fanduel": "2026-09-07",
