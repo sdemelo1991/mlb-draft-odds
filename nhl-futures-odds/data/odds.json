@@ -1824,7 +1824,7 @@
           "kambi": 1000,
           "betmgm": 700,
           "betano": 650,
-          "betonline": 600,
+          "betonline": 550,
           "thescore": 600,
           "draftkings": 750,
           "circa": 500,
@@ -9149,7 +9149,7 @@
         "kambi": 15000,
         "betmgm": 10000,
         "betano": 9900,
-        "betonline": 10000,
+        "betonline": 8000,
         "thescore": 10000,
         "draftkings": 10000,
         "circa": 8000,
@@ -10513,7 +10513,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-08 07:17",
+    "last_updated": "2026-09-08 07:27",
     "book_updated": {
       "dazn": "2026-09-08",
       "fanduel": "2026-09-08",
