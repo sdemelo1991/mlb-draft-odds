@@ -5759,7 +5759,7 @@
       "Jack Hughes": {
         "team": "",
         "prices": {
-          "draftkings": 20000,
+          "draftkings": 10000,
           "caesars": 15000,
           "circa": 3200,
           "betmgm": 6600
@@ -10513,7 +10513,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-08 16:14",
+    "last_updated": "2026-09-08 16:27",
     "book_updated": {
       "dazn": "2026-09-08",
       "fanduel": "2026-09-08",
