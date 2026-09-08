@@ -5762,7 +5762,7 @@
           "draftkings": 20000,
           "caesars": 15000,
           "circa": 3200,
-          "betmgm": 15000
+          "betmgm": 6600
         }
       },
       "Connor Bedard": {
@@ -10513,7 +10513,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-08 12:10",
+    "last_updated": "2026-09-08 16:14",
     "book_updated": {
       "dazn": "2026-09-08",
       "fanduel": "2026-09-08",
@@ -11345,7 +11345,7 @@
           },
           "70": {
             "fanduel": 180,
-            "betmgm": 525
+            "betmgm": 175
           }
         }
       },
@@ -12199,7 +12199,7 @@
         "ou": {},
         "plus": {
           "50": {
-            "betmgm": 260,
+            "betmgm": 225,
             "draftkings": 200
           },
           "40": {
@@ -13531,7 +13531,7 @@
             "draftkings": 140
           },
           "30": {
-            "betmgm": 300,
+            "betmgm": 200,
             "draftkings": 500
           }
         }
