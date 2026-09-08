@@ -1856,7 +1856,7 @@
         "prices": {
           "fanduel": 900,
           "kambi": 900,
-          "betmgm": 1000,
+          "betmgm": 900,
           "betano": 900,
           "betonline": 900,
           "thescore": 1000,
@@ -1873,7 +1873,7 @@
         "prices": {
           "fanduel": 950,
           "kambi": 650,
-          "betmgm": 650,
+          "betmgm": 750,
           "betano": 850,
           "betonline": 900,
           "thescore": 900,
@@ -1890,7 +1890,7 @@
         "prices": {
           "fanduel": 1000,
           "kambi": 700,
-          "betmgm": 600,
+          "betmgm": 800,
           "betano": 850,
           "betonline": 1000,
           "thescore": 900,
@@ -1907,7 +1907,7 @@
         "prices": {
           "fanduel": 1400,
           "kambi": 3500,
-          "betmgm": 2500,
+          "betmgm": 2000,
           "betano": 1900,
           "betonline": 1400,
           "thescore": 1500,
@@ -1924,7 +1924,7 @@
         "prices": {
           "fanduel": 1400,
           "kambi": 1300,
-          "betmgm": 1200,
+          "betmgm": 1400,
           "betano": 1300,
           "betonline": 1000,
           "thescore": 1400,
@@ -1941,7 +1941,7 @@
         "prices": {
           "fanduel": 2200,
           "kambi": 2500,
-          "betmgm": 2000,
+          "betmgm": 2200,
           "betano": 2400,
           "betonline": 2500,
           "thescore": 2000,
@@ -1992,7 +1992,7 @@
         "prices": {
           "fanduel": 3000,
           "kambi": 4500,
-          "betmgm": 4000,
+          "betmgm": 3500,
           "betano": 3400,
           "betonline": 4000,
           "thescore": 4000,
@@ -2009,7 +2009,7 @@
         "prices": {
           "fanduel": 2700,
           "kambi": 3000,
-          "betmgm": 1600,
+          "betmgm": 2800,
           "betano": 2900,
           "betonline": 3300,
           "thescore": 3000,
@@ -2043,7 +2043,7 @@
         "prices": {
           "fanduel": 4000,
           "kambi": 2500,
-          "betmgm": 2500,
+          "betmgm": 4000,
           "betano": 3400,
           "betonline": 4000,
           "thescore": 4000,
@@ -2077,7 +2077,7 @@
         "prices": {
           "fanduel": 5000,
           "kambi": 5000,
-          "betmgm": 3000,
+          "betmgm": 5000,
           "betano": 4400,
           "betonline": 4000,
           "thescore": 4000,
@@ -2128,7 +2128,7 @@
         "prices": {
           "fanduel": 5500,
           "kambi": 4000,
-          "betmgm": 3000,
+          "betmgm": 5000,
           "betano": 4900,
           "betonline": 4000,
           "thescore": 4000,
@@ -2145,7 +2145,7 @@
         "prices": {
           "fanduel": 5500,
           "kambi": 2000,
-          "betmgm": 2200,
+          "betmgm": 3000,
           "betano": 3900,
           "betonline": 2000,
           "thescore": 2500,
@@ -2222,7 +2222,7 @@
         "prices": {
           "fanduel": 7000,
           "kambi": 4000,
-          "betmgm": 3500,
+          "betmgm": 5000,
           "betano": 5400,
           "betonline": 4000,
           "thescore": 4000,
@@ -2593,7 +2593,7 @@
         "prices": {
           "fanduel": 270,
           "kambi": 250,
-          "betmgm": 250,
+          "betmgm": 275,
           "betano": 275,
           "betonline": 275,
           "thescore": 325,
@@ -2609,7 +2609,7 @@
         "prices": {
           "fanduel": 300,
           "kambi": 250,
-          "betmgm": 300,
+          "betmgm": 290,
           "betano": 300,
           "betonline": 300,
           "thescore": 300,
@@ -2625,7 +2625,7 @@
         "prices": {
           "fanduel": 550,
           "kambi": 550,
-          "betmgm": 700,
+          "betmgm": 600,
           "betano": 550,
           "betonline": 600,
           "thescore": 600,
@@ -2673,7 +2673,7 @@
         "prices": {
           "fanduel": 1300,
           "kambi": 1000,
-          "betmgm": 1600,
+          "betmgm": 1500,
           "betano": 1300,
           "betonline": 1200,
           "thescore": 2000,
@@ -2689,7 +2689,7 @@
         "prices": {
           "fanduel": 1900,
           "kambi": 2000,
-          "betmgm": 1800,
+          "betmgm": 1900,
           "betano": 1900,
           "betonline": 1800,
           "thescore": 1600,
@@ -2705,7 +2705,7 @@
         "prices": {
           "fanduel": 3000,
           "kambi": 3000,
-          "betmgm": 2000,
+          "betmgm": 3000,
           "betano": 2900,
           "betonline": 2800,
           "thescore": 3000,
@@ -2721,7 +2721,7 @@
         "prices": {
           "fanduel": 3500,
           "kambi": 2000,
-          "betmgm": 1200,
+          "betmgm": 2500,
           "betano": 2900,
           "betonline": 1600,
           "thescore": 1600,
@@ -2737,7 +2737,7 @@
         "prices": {
           "fanduel": 4000,
           "kambi": 2500,
-          "betmgm": 5000,
+          "betmgm": 4000,
           "betano": 3900,
           "betonline": 3500,
           "thescore": 5000,
@@ -2753,7 +2753,7 @@
         "prices": {
           "fanduel": 4500,
           "kambi": 4000,
-          "betmgm": 3000,
+          "betmgm": 4000,
           "betano": 4400,
           "betonline": 4000,
           "thescore": 4000,
@@ -2793,7 +2793,7 @@
         "prices": {
           "fanduel": 6500,
           "kambi": 3500,
-          "betmgm": 2500,
+          "betmgm": 3500,
           "betano": 4400,
           "betonline": 2800,
           "thescore": 3500,
@@ -2962,7 +2962,7 @@
         "prices": {
           "fanduel": 8000,
           "kambi": 6500,
-          "betmgm": 3000,
+          "betmgm": 5000,
           "betano": 5900,
           "betonline": 5000,
           "thescore": 6000,
@@ -3451,7 +3451,7 @@
         "prices": {
           "fanduel": 250,
           "kambi": 250,
-          "betmgm": 300,
+          "betmgm": 270,
           "betano": 275,
           "betonline": 250,
           "thescore": 260,
@@ -3469,7 +3469,7 @@
         "prices": {
           "fanduel": 370,
           "kambi": 375,
-          "betmgm": 300,
+          "betmgm": 360,
           "betano": 360,
           "betonline": 350,
           "thescore": 375,
@@ -3487,7 +3487,7 @@
         "prices": {
           "fanduel": 500,
           "kambi": 500,
-          "betmgm": 500,
+          "betmgm": 450,
           "betano": 450,
           "betonline": 550,
           "thescore": 500,
@@ -3557,7 +3557,7 @@
         "prices": {
           "fanduel": 1800,
           "kambi": 1500,
-          "betmgm": 1600,
+          "betmgm": 1700,
           "betano": 1600,
           "betonline": 1600,
           "thescore": 1600,
@@ -3575,7 +3575,7 @@
         "prices": {
           "fanduel": 2200,
           "kambi": 1700,
-          "betmgm": 1300,
+          "betmgm": 2200,
           "betano": 1900,
           "betonline": 1200,
           "thescore": 2200,
@@ -3592,7 +3592,7 @@
         "prices": {
           "fanduel": 2500,
           "kambi": 2300,
-          "betmgm": 3000,
+          "betmgm": 2500,
           "betano": 2400,
           "betonline": 2000,
           "thescore": 2500,
@@ -3627,7 +3627,7 @@
         "prices": {
           "fanduel": 3500,
           "kambi": 3000,
-          "betmgm": 3000,
+          "betmgm": 3500,
           "betano": 3400,
           "betonline": 2800,
           "thescore": 3000,
@@ -3644,7 +3644,7 @@
         "prices": {
           "fanduel": 4500,
           "kambi": 2700,
-          "betmgm": 2800,
+          "betmgm": 5000,
           "betano": 3400,
           "betonline": 2500,
           "thescore": 4000,
@@ -3661,7 +3661,7 @@
         "prices": {
           "fanduel": 5500,
           "kambi": 3000,
-          "betmgm": 2500,
+          "betmgm": 3500,
           "betano": 4400,
           "betonline": 3300,
           "thescore": 3000,
@@ -3678,7 +3678,7 @@
         "prices": {
           "fanduel": 6500,
           "kambi": 6000,
-          "betmgm": 6000,
+          "betmgm": 6600,
           "betano": 6400,
           "betonline": 5000,
           "thescore": 6000,
@@ -3712,7 +3712,7 @@
         "prices": {
           "fanduel": 7500,
           "kambi": 5000,
-          "betmgm": 5500,
+          "betmgm": 8000,
           "betano": 6900,
           "betonline": 5000,
           "thescore": 6000,
@@ -3730,7 +3730,7 @@
         "prices": {
           "fanduel": 8000,
           "kambi": 3700,
-          "betmgm": 5000,
+          "betmgm": 10000,
           "betano": 5900,
           "betonline": 4000,
           "thescore": 5000,
@@ -3747,7 +3747,7 @@
         "prices": {
           "fanduel": 10000,
           "kambi": 8000,
-          "betmgm": 6600,
+          "betmgm": 8000,
           "betano": 8900,
           "betonline": 7500,
           "thescore": 7500,
@@ -3764,7 +3764,7 @@
         "prices": {
           "fanduel": 12500,
           "kambi": 10000,
-          "betmgm": 10000,
+          "betmgm": 15000,
           "betano": 14900,
           "betonline": 15000,
           "thescore": 15000,
@@ -3798,7 +3798,7 @@
         "prices": {
           "fanduel": 12500,
           "kambi": 10000,
-          "betmgm": 10000,
+          "betmgm": 12500,
           "betano": 12400,
           "betonline": 10000,
           "thescore": 10000,
@@ -3830,7 +3830,7 @@
         "prices": {
           "fanduel": 6500,
           "kambi": 3000,
-          "betmgm": 3000,
+          "betmgm": 5000,
           "betano": 7900,
           "betonline": 3300,
           "thescore": 3000,
@@ -3847,7 +3847,7 @@
         "prices": {
           "fanduel": 20000,
           "kambi": 10000,
-          "betmgm": 10000,
+          "betmgm": 15000,
           "betano": 14900,
           "betonline": 10000,
           "thescore": 10000,
@@ -3911,7 +3911,7 @@
         "prices": {
           "fanduel": 30000,
           "kambi": 5000,
-          "betmgm": 6600,
+          "betmgm": 8000,
           "betano": 19900,
           "betonline": 5000,
           "thescore": 5000,
@@ -3952,7 +3952,7 @@
         "prices": {
           "fanduel": 30000,
           "kambi": 17500,
-          "betmgm": 15000,
+          "betmgm": 30000,
           "betano": 24900,
           "betonline": 15000,
           "thescore": 15000,
@@ -3968,7 +3968,7 @@
         "prices": {
           "fanduel": 30000,
           "kambi": 3700,
-          "betmgm": 5000,
+          "betmgm": 8000,
           "betano": 14900,
           "betonline": 4000,
           "thescore": 4000,
@@ -3993,7 +3993,7 @@
         "prices": {
           "fanduel": 30000,
           "kambi": 8500,
-          "betmgm": 10000,
+          "betmgm": 20000,
           "betano": 19900,
           "betonline": 10000,
           "thescore": 10000,
@@ -4010,7 +4010,7 @@
         "prices": {
           "fanduel": 20000,
           "kambi": 12500,
-          "betmgm": 10000,
+          "betmgm": 20000,
           "betano": 19900,
           "betonline": 15000,
           "thescore": 15000,
@@ -4043,7 +4043,7 @@
         "prices": {
           "fanduel": 30000,
           "kambi": 5500,
-          "betmgm": 6000,
+          "betmgm": 10000,
           "betano": 19900,
           "betonline": 6600,
           "thescore": 6000,
@@ -4059,7 +4059,7 @@
         "team": "",
         "prices": {
           "fanduel": 30000,
-          "betmgm": 15000,
+          "betmgm": 30000,
           "bookmaker": 30040
         }
       },
@@ -4091,7 +4091,7 @@
         "prices": {
           "fanduel": 30000,
           "kambi": 7000,
-          "betmgm": 6000,
+          "betmgm": 10000,
           "betano": 19900,
           "betonline": 6600,
           "thescore": 6000,
@@ -4178,7 +4178,7 @@
         "prices": {
           "fanduel": 30000,
           "kambi": 4300,
-          "betmgm": 4000,
+          "betmgm": 6000,
           "betano": 14900,
           "betonline": 4000,
           "thescore": 5000,
@@ -4247,7 +4247,7 @@
         "team": "",
         "prices": {
           "kambi": 8000,
-          "betmgm": 15000,
+          "betmgm": 10000,
           "betano": 7400,
           "betonline": 7500,
           "thescore": 7500,
@@ -4766,7 +4766,7 @@
         "prices": {
           "fanduel": 300,
           "kambi": 250,
-          "betmgm": 275,
+          "betmgm": 300,
           "betano": 300,
           "betonline": 275,
           "thescore": 300,
@@ -4814,7 +4814,7 @@
         "prices": {
           "fanduel": 800,
           "kambi": 1100,
-          "betmgm": 1000,
+          "betmgm": 800,
           "betano": 900,
           "betonline": 900,
           "thescore": 900,
@@ -4830,7 +4830,7 @@
         "prices": {
           "fanduel": 800,
           "kambi": 700,
-          "betmgm": 600,
+          "betmgm": 750,
           "betano": 750,
           "betonline": 650,
           "thescore": 700,
@@ -4846,7 +4846,7 @@
         "prices": {
           "fanduel": 800,
           "kambi": 1100,
-          "betmgm": 1200,
+          "betmgm": 1100,
           "betano": 900,
           "betonline": 1200,
           "thescore": 1200,
@@ -4862,7 +4862,7 @@
         "prices": {
           "fanduel": 1500,
           "kambi": 1200,
-          "betmgm": 1200,
+          "betmgm": 1300,
           "betano": 1200,
           "betonline": 1000,
           "thescore": 1100,
@@ -4878,7 +4878,7 @@
         "prices": {
           "fanduel": 2000,
           "kambi": 1700,
-          "betmgm": 1500,
+          "betmgm": 2000,
           "betano": 1900,
           "betonline": 1600,
           "thescore": 1500,
@@ -4894,7 +4894,7 @@
         "prices": {
           "fanduel": 2200,
           "kambi": 2700,
-          "betmgm": 3500,
+          "betmgm": 2500,
           "betano": 2400,
           "betonline": 3300,
           "thescore": 3000,
@@ -4910,7 +4910,7 @@
         "prices": {
           "fanduel": 2500,
           "kambi": 3000,
-          "betmgm": 3500,
+          "betmgm": 3000,
           "betano": 2900,
           "betonline": 2800,
           "thescore": 3000,
@@ -4926,7 +4926,7 @@
         "prices": {
           "fanduel": 3500,
           "kambi": 3500,
-          "betmgm": 3000,
+          "betmgm": 3500,
           "betano": 3400,
           "betonline": 3300,
           "thescore": 3000,
@@ -4973,7 +4973,7 @@
         "prices": {
           "fanduel": 6500,
           "kambi": 1700,
-          "betmgm": 2200,
+          "betmgm": 3000,
           "betano": 4400,
           "betonline": 2200,
           "thescore": 2500,
@@ -4989,7 +4989,7 @@
         "prices": {
           "fanduel": 8000,
           "kambi": 5500,
-          "betmgm": 5000,
+          "betmgm": 8000,
           "betano": 6900,
           "betonline": 5000,
           "thescore": 5000,
@@ -5005,7 +5005,7 @@
         "prices": {
           "fanduel": 8000,
           "kambi": 2100,
-          "betmgm": 3000,
+          "betmgm": 4000,
           "betano": 5400,
           "betonline": 2500,
           "thescore": 2500,
@@ -5021,7 +5021,7 @@
         "prices": {
           "fanduel": 10000,
           "kambi": 4000,
-          "betmgm": 4000,
+          "betmgm": 8000,
           "betano": 6900,
           "betonline": 4000,
           "thescore": 4000,
@@ -5039,7 +5039,8 @@
           "caesars": 7500,
           "bet365": 10000,
           "circa": 20000,
-          "bookmaker": 10021
+          "bookmaker": 10021,
+          "betmgm": 10000
         }
       },
       "Josh Morrissey": {
@@ -5063,7 +5064,7 @@
         "prices": {
           "fanduel": 20000,
           "kambi": 4000,
-          "betmgm": 4000,
+          "betmgm": 10000,
           "betano": 12400,
           "betonline": 4000,
           "thescore": 4000,
@@ -5467,7 +5468,8 @@
         "team": "",
         "prices": {
           "fanduel": 30000,
-          "bet365": 20000
+          "bet365": 20000,
+          "betmgm": 30000
         }
       },
       "Darnell Nurse": {
@@ -6140,7 +6142,7 @@
         "prices": {
           "caesars": 600,
           "bet365": 600,
-          "fanduel": 1100,
+          "fanduel": 850,
           "kambi": 850,
           "circa": 600,
           "betmgm": 900
@@ -10515,7 +10517,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-08 17:27",
+    "last_updated": "2026-09-08 17:37",
     "book_updated": {
       "dazn": "2026-09-08",
       "fanduel": "2026-09-08",
