@@ -4765,7 +4765,7 @@
           "fanduel": 300,
           "kambi": 250,
           "betmgm": 275,
-          "betano": 250,
+          "betano": 300,
           "betonline": 275,
           "thescore": 300,
           "draftkings": 300,
@@ -10513,7 +10513,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-08 08:47",
+    "last_updated": "2026-09-08 12:10",
     "book_updated": {
       "dazn": "2026-09-08",
       "fanduel": "2026-09-08",
