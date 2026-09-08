@@ -9558,7 +9558,7 @@
         "dazn": 2900,
         "fanduel": 2700,
         "kambi": 3000,
-        "betmgm": 3500,
+        "betmgm": 3300,
         "betano": 3900,
         "thescore": 2800,
         "caesars": 4000,
@@ -9690,7 +9690,7 @@
         "dazn": 8900,
         "fanduel": 10000,
         "kambi": 10000,
-        "betmgm": 10000,
+        "betmgm": 12500,
         "betano": 14900,
         "thescore": 10000,
         "caesars": 10000,
@@ -9726,7 +9726,7 @@
         "dazn": 12400,
         "fanduel": 15000,
         "kambi": 25000,
-        "betmgm": 20000,
+        "betmgm": 17500,
         "betano": 29900,
         "thescore": 10000,
         "caesars": 15000,
@@ -10337,7 +10337,7 @@
         "caesars": 2400,
         "bet365": 2000,
         "hardrock": 2000,
-        "betmgm": 2200,
+        "betmgm": 2500,
         "circa": 4000
       },
       "Pittsburgh Penguins": {
@@ -10353,7 +10353,7 @@
         "caesars": 1900,
         "bet365": 2500,
         "hardrock": 2250,
-        "betmgm": 2800,
+        "betmgm": 2500,
         "circa": 8200
       },
       "San Jose Sharks": {
@@ -10517,7 +10517,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-08 18:37",
+    "last_updated": "2026-09-08 18:47",
     "book_updated": {
       "dazn": "2026-09-08",
       "fanduel": "2026-09-08",
@@ -11983,13 +11983,13 @@
         "ou": {},
         "plus": {
           "100": {
-            "betmgm": 400
+            "betmgm": 450
           },
           "90": {
-            "betmgm": -110
+            "betmgm": 105
           },
           "110": {
-            "betmgm": 2000
+            "betmgm": 2500
           }
         }
       },
