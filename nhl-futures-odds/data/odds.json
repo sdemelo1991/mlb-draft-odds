@@ -10513,7 +10513,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-08 16:27",
+    "last_updated": "2026-09-08 16:47",
     "book_updated": {
       "dazn": "2026-09-08",
       "fanduel": "2026-09-08",
@@ -10681,7 +10681,7 @@
         },
         "plus": {
           "120": {
-            "betmgm": -145,
+            "betmgm": -165,
             "draftkings": -195
           },
           "125": {
@@ -10708,7 +10708,7 @@
         },
         "plus": {
           "60": {
-            "betmgm": 170,
+            "betmgm": 125,
             "draftkings": -115
           },
           "70": {
@@ -10763,15 +10763,15 @@
         },
         "plus": {
           "80": {
-            "betmgm": -750,
+            "betmgm": -425,
             "draftkings": -380
           },
           "90": {
-            "betmgm": 170,
+            "betmgm": 125,
             "draftkings": 120
           },
           "100": {
-            "betmgm": 600
+            "betmgm": 575
           },
           "85": {
             "draftkings": -170
@@ -10797,7 +10797,7 @@
         },
         "plus": {
           "90": {
-            "betmgm": 400,
+            "betmgm": 260,
             "draftkings": 130
           },
           "85": {
@@ -10807,7 +10807,7 @@
             "draftkings": 265
           },
           "80": {
-            "betmgm": -185
+            "betmgm": -170
           }
         }
       },
@@ -10827,7 +10827,7 @@
         },
         "plus": {
           "90": {
-            "betmgm": 260,
+            "betmgm": 170,
             "draftkings": 155
           },
           "85": {
@@ -10837,7 +10837,7 @@
             "draftkings": 300
           },
           "80": {
-            "betmgm": -400
+            "betmgm": -285
           }
         }
       },
@@ -10857,7 +10857,7 @@
         },
         "plus": {
           "80": {
-            "betmgm": 170,
+            "betmgm": 125,
             "draftkings": 120
           },
           "75": {
@@ -10867,7 +10867,7 @@
             "draftkings": 240
           },
           "70": {
-            "betmgm": -750
+            "betmgm": -425
           }
         }
       },
@@ -10887,11 +10887,11 @@
         },
         "plus": {
           "80": {
-            "betmgm": -225,
+            "betmgm": -200,
             "draftkings": -140
           },
           "90": {
-            "betmgm": 325,
+            "betmgm": 225,
             "draftkings": 300
           },
           "85": {
@@ -10915,7 +10915,7 @@
         },
         "plus": {
           "90": {
-            "betmgm": 260,
+            "betmgm": 170,
             "draftkings": 140
           },
           "85": {
@@ -10925,7 +10925,7 @@
             "draftkings": 285
           },
           "80": {
-            "betmgm": -400
+            "betmgm": -285
           }
         }
       },
@@ -10945,11 +10945,11 @@
         },
         "plus": {
           "80": {
-            "betmgm": -145,
+            "betmgm": -150,
             "draftkings": -160
           },
           "90": {
-            "betmgm": 500,
+            "betmgm": 310,
             "draftkings": 255
           },
           "85": {
@@ -10973,11 +10973,11 @@
         },
         "plus": {
           "110": {
-            "betmgm": 105,
+            "betmgm": -125,
             "draftkings": -135
           },
           "120": {
-            "betmgm": 550,
+            "betmgm": 350,
             "draftkings": 300
           },
           "115": {
@@ -11030,11 +11030,11 @@
         },
         "plus": {
           "90": {
-            "betmgm": -145,
+            "betmgm": -150,
             "draftkings": -155
           },
           "100": {
-            "betmgm": 450,
+            "betmgm": 310,
             "draftkings": 260
           },
           "95": {
@@ -11085,7 +11085,7 @@
         },
         "plus": {
           "110": {
-            "betmgm": 240,
+            "betmgm": 195,
             "draftkings": 150
           },
           "105": {
@@ -11112,11 +11112,11 @@
         },
         "plus": {
           "70": {
-            "betmgm": -185,
+            "betmgm": -170,
             "draftkings": -150
           },
           "80": {
-            "betmgm": 525,
+            "betmgm": 260,
             "draftkings": 270
           },
           "75": {
@@ -11140,11 +11140,11 @@
         },
         "plus": {
           "80": {
-            "betmgm": -145,
+            "betmgm": -150,
             "draftkings": -130
           },
           "90": {
-            "betmgm": 500,
+            "betmgm": 310,
             "draftkings": 300
           },
           "85": {
@@ -11168,11 +11168,11 @@
         },
         "plus": {
           "90": {
-            "betmgm": -115,
+            "betmgm": -125,
             "draftkings": -135
           },
           "100": {
-            "betmgm": 550,
+            "betmgm": 360,
             "draftkings": 310
           },
           "95": {
@@ -11196,11 +11196,11 @@
         },
         "plus": {
           "80": {
-            "betmgm": -300,
+            "betmgm": -235,
             "draftkings": -190
           },
           "90": {
-            "betmgm": 325,
+            "betmgm": 195,
             "draftkings": 200
           },
           "85": {
@@ -11224,11 +11224,11 @@
         },
         "plus": {
           "80": {
-            "betmgm": -115,
+            "betmgm": -125,
             "draftkings": -135
           },
           "90": {
-            "betmgm": 600,
+            "betmgm": 360,
             "draftkings": 300
           },
           "85": {
@@ -11252,7 +11252,7 @@
         },
         "plus": {
           "90": {
-            "betmgm": 170,
+            "betmgm": 125,
             "draftkings": 110
           },
           "85": {
@@ -11262,7 +11262,7 @@
             "draftkings": 210
           },
           "80": {
-            "betmgm": -750
+            "betmgm": -425
           }
         }
       },
@@ -11282,7 +11282,7 @@
         },
         "plus": {
           "90": {
-            "betmgm": 135,
+            "betmgm": 110,
             "draftkings": 105
           },
           "85": {
@@ -11309,11 +11309,11 @@
         },
         "plus": {
           "90": {
-            "betmgm": -185,
+            "betmgm": -170,
             "draftkings": -160
           },
           "100": {
-            "betmgm": 375,
+            "betmgm": 260,
             "draftkings": 255
           },
           "95": {
@@ -11341,11 +11341,11 @@
           },
           "60": {
             "fanduel": -155,
-            "betmgm": -185
+            "betmgm": -170
           },
           "70": {
             "fanduel": 180,
-            "betmgm": 175
+            "betmgm": 260
           }
         }
       },
@@ -11365,7 +11365,7 @@
         },
         "plus": {
           "70": {
-            "betmgm": -550,
+            "betmgm": -350,
             "draftkings": -130
           },
           "65": {
@@ -11375,7 +11375,7 @@
             "draftkings": 115
           },
           "80": {
-            "betmgm": 210
+            "betmgm": 145
           }
         }
       },
@@ -11395,7 +11395,7 @@
         },
         "plus": {
           "90": {
-            "betmgm": 325,
+            "betmgm": 195,
             "draftkings": 145
           },
           "85": {
@@ -11405,7 +11405,7 @@
             "draftkings": 290
           },
           "80": {
-            "betmgm": -300
+            "betmgm": -235
           }
         }
       },
@@ -11425,7 +11425,7 @@
         },
         "plus": {
           "90": {
-            "betmgm": 325,
+            "betmgm": 225,
             "draftkings": 140
           },
           "85": {
@@ -11435,7 +11435,7 @@
             "draftkings": 290
           },
           "80": {
-            "betmgm": -225
+            "betmgm": -200
           }
         }
       },
@@ -11455,7 +11455,7 @@
         },
         "plus": {
           "80": {
-            "betmgm": 170,
+            "betmgm": 125,
             "draftkings": -110
           },
           "75": {
@@ -11465,7 +11465,7 @@
             "draftkings": 190
           },
           "70": {
-            "betmgm": -750
+            "betmgm": -425
           }
         }
       },
@@ -11489,7 +11489,7 @@
             "draftkings": -190
           },
           "110": {
-            "betmgm": 500,
+            "betmgm": 360,
             "draftkings": 215
           },
           "105": {
@@ -11513,11 +11513,11 @@
         },
         "plus": {
           "90": {
-            "betmgm": -300,
+            "betmgm": -235,
             "draftkings": -255
           },
           "100": {
-            "betmgm": 260,
+            "betmgm": 195,
             "draftkings": 165
           },
           "95": {
@@ -11541,7 +11541,7 @@
         },
         "plus": {
           "90": {
-            "betmgm": 135,
+            "betmgm": 110,
             "draftkings": -105
           },
           "85": {
@@ -11568,11 +11568,11 @@
         },
         "plus": {
           "80": {
-            "betmgm": -145,
+            "betmgm": 110,
             "draftkings": -130
           },
           "90": {
-            "betmgm": 500,
+            "betmgm": 310,
             "draftkings": 320
           },
           "85": {
@@ -11600,7 +11600,7 @@
             "draftkings": -130
           },
           "100": {
-            "betmgm": 550,
+            "betmgm": 360,
             "draftkings": 300
           },
           "95": {
@@ -11624,11 +11624,11 @@
         },
         "plus": {
           "80": {
-            "betmgm": -145,
+            "betmgm": -150,
             "draftkings": -220
           },
           "90": {
-            "betmgm": 500,
+            "betmgm": 310,
             "draftkings": 190
           },
           "85": {
@@ -11652,7 +11652,7 @@
         },
         "plus": {
           "80": {
-            "betmgm": 260,
+            "betmgm": 170,
             "draftkings": 110
           },
           "75": {
@@ -11662,7 +11662,7 @@
             "draftkings": 225
           },
           "70": {
-            "betmgm": -400
+            "betmgm": -285
           }
         }
       },
@@ -11682,11 +11682,11 @@
         },
         "plus": {
           "90": {
-            "betmgm": 110,
+            "betmgm": -105,
             "draftkings": -125
           },
           "100": {
-            "betmgm": 333,
+            "betmgm": 425,
             "draftkings": 330
           },
           "95": {
@@ -11710,18 +11710,18 @@
         },
         "plus": {
           "90": {
-            "betmgm": 170,
+            "betmgm": 125,
             "draftkings": -120
           },
           "100": {
-            "betmgm": 340,
+            "betmgm": 575,
             "draftkings": 340
           },
           "95": {
             "draftkings": 165
           },
           "80": {
-            "betmgm": -750
+            "betmgm": -425
           }
         }
       },
@@ -12280,10 +12280,10 @@
         "ou": {},
         "plus": {
           "60": {
-            "betmgm": -225
+            "betmgm": -200
           },
           "70": {
-            "betmgm": 400,
+            "betmgm": 225,
             "draftkings": 175
           },
           "80": {
@@ -12302,11 +12302,11 @@
         "ou": {},
         "plus": {
           "60": {
-            "betmgm": 135,
+            "betmgm": 110,
             "draftkings": 110
           },
           "70": {
-            "betmgm": 350
+            "betmgm": 475
           },
           "55": {
             "draftkings": -170
@@ -12321,11 +12321,11 @@
         "ou": {},
         "plus": {
           "60": {
-            "betmgm": -225,
+            "betmgm": -350,
             "draftkings": -225
           },
           "70": {
-            "betmgm": 190,
+            "betmgm": 145,
             "draftkings": 190
           },
           "65": {
@@ -12338,11 +12338,11 @@
         "ou": {},
         "plus": {
           "60": {
-            "betmgm": -185,
+            "betmgm": -125,
             "draftkings": -185
           },
           "70": {
-            "betmgm": 225,
+            "betmgm": 360,
             "draftkings": 225
           },
           "65": {
@@ -12355,7 +12355,7 @@
         "ou": {},
         "plus": {
           "60": {
-            "betmgm": -135,
+            "betmgm": -125,
             "draftkings": -135
           },
           "70": {
@@ -12372,7 +12372,7 @@
         "ou": {},
         "plus": {
           "60": {
-            "betmgm": 120,
+            "betmgm": 130,
             "draftkings": 120
           },
           "55": {
@@ -12388,11 +12388,11 @@
         "ou": {},
         "plus": {
           "70": {
-            "betmgm": -185,
+            "betmgm": -235,
             "draftkings": -180
           },
           "80": {
-            "betmgm": 225,
+            "betmgm": 195,
             "draftkings": 225
           },
           "75": {
@@ -12405,11 +12405,11 @@
         "ou": {},
         "plus": {
           "70": {
-            "betmgm": -150,
+            "betmgm": -125,
             "draftkings": -145
           },
           "80": {
-            "betmgm": 290,
+            "betmgm": 360,
             "draftkings": 285
           },
           "75": {
@@ -12422,11 +12422,11 @@
         "ou": {},
         "plus": {
           "70": {
-            "betmgm": -140,
+            "betmgm": -125,
             "draftkings": -140
           },
           "80": {
-            "betmgm": 300,
+            "betmgm": 360,
             "draftkings": 300
           },
           "75": {
@@ -12439,7 +12439,7 @@
         "ou": {},
         "plus": {
           "70": {
-            "betmgm": -125,
+            "betmgm": -120,
             "draftkings": -125
           },
           "65": {
@@ -12455,7 +12455,7 @@
         "ou": {},
         "plus": {
           "70": {
-            "betmgm": -120,
+            "betmgm": -115,
             "draftkings": -120
           },
           "65": {
@@ -12471,11 +12471,11 @@
         "ou": {},
         "plus": {
           "80": {
-            "betmgm": -115,
+            "betmgm": -125,
             "draftkings": -130
           },
           "90": {
-            "betmgm": 850,
+            "betmgm": 360,
             "draftkings": 310
           },
           "85": {
@@ -12488,11 +12488,11 @@
         "ou": {},
         "plus": {
           "80": {
-            "betmgm": -120,
+            "betmgm": -115,
             "draftkings": -120
           },
           "90": {
-            "betmgm": 340,
+            "betmgm": 350,
             "draftkings": 340
           },
           "85": {
@@ -12509,7 +12509,7 @@
             "draftkings": -115
           },
           "90": {
-            "betmgm": 360,
+            "betmgm": 375,
             "draftkings": 360
           },
           "85": {
@@ -12539,7 +12539,7 @@
         "ou": {},
         "plus": {
           "80": {
-            "betmgm": 185,
+            "betmgm": 200,
             "draftkings": 185
           },
           "75": {
