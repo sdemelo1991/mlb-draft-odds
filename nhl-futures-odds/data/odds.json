@@ -5908,7 +5908,7 @@
       "Brady Tkachuk": {
         "team": "",
         "prices": {
-          "draftkings": 30000,
+          "draftkings": 15000,
           "caesars": 20000,
           "circa": 5100,
           "betmgm": 30000
@@ -8604,7 +8604,8 @@
         "caesars": 1400,
         "bet365": 1400,
         "hardrock": 1400,
-        "kalshi": 1241
+        "kalshi": 1241,
+        "betmgm": 1500
       },
       "Calgary Flames": {
         "pinnacle": 52304,
@@ -8619,7 +8620,8 @@
         "bookmaker": 7500,
         "caesars": 20000,
         "bet365": 17500,
-        "hardrock": 50000
+        "hardrock": 50000,
+        "betmgm": 25000
       },
       "Chicago Blackhawks": {
         "pinnacle": 12615,
@@ -8635,7 +8637,8 @@
         "caesars": 9000,
         "bet365": 8000,
         "hardrock": 10000,
-        "kalshi": 3021
+        "kalshi": 3021,
+        "betmgm": 10000
       },
       "Colorado Avalanche": {
         "pinnacle": 342,
@@ -8651,7 +8654,8 @@
         "caesars": 290,
         "bet365": 340,
         "hardrock": 325,
-        "kalshi": 280
+        "kalshi": 280,
+        "betmgm": 340
       },
       "Dallas Stars": {
         "pinnacle": 744,
@@ -8667,7 +8671,8 @@
         "caesars": 700,
         "bet365": 750,
         "hardrock": 700,
-        "kalshi": 685
+        "kalshi": 685,
+        "betmgm": 750
       },
       "Edmonton Oilers": {
         "pinnacle": 469,
@@ -8683,7 +8688,8 @@
         "caesars": 600,
         "bet365": 450,
         "hardrock": 425,
-        "kalshi": 529
+        "kalshi": 529,
+        "betmgm": 450
       },
       "Los Angeles Kings": {
         "pinnacle": 1800,
@@ -8699,7 +8705,8 @@
         "caesars": 1500,
         "bet365": 1500,
         "hardrock": 1750,
-        "kalshi": 1775
+        "kalshi": 1775,
+        "betmgm": 1800
       },
       "Minnesota Wild": {
         "pinnacle": 692,
@@ -8715,7 +8722,8 @@
         "caesars": 600,
         "bet365": 650,
         "hardrock": 650,
-        "kalshi": 625
+        "kalshi": 625,
+        "betmgm": 650
       },
       "Nashville Predators": {
         "pinnacle": 5840,
@@ -8731,7 +8739,8 @@
         "caesars": 6000,
         "bet365": 5000,
         "hardrock": 7500,
-        "kalshi": 4579
+        "kalshi": 4579,
+        "betmgm": 6600
       },
       "San Jose Sharks": {
         "pinnacle": 906,
@@ -8747,7 +8756,8 @@
         "caesars": 1600,
         "bet365": 1600,
         "hardrock": 1750,
-        "kalshi": 490
+        "kalshi": 490,
+        "betmgm": 1700
       },
       "Seattle Kraken": {
         "pinnacle": 12614,
@@ -8763,7 +8773,8 @@
         "caesars": 20000,
         "bet365": 12500,
         "hardrock": 20000,
-        "kalshi": 4579
+        "kalshi": 4579,
+        "betmgm": 15000
       },
       "St. Louis Blues": {
         "pinnacle": 6322,
@@ -8779,7 +8790,8 @@
         "caesars": 5000,
         "bet365": 5000,
         "hardrock": 6000,
-        "kalshi": 3021
+        "kalshi": 3021,
+        "betmgm": 6000
       },
       "Utah Mammoth": {
         "pinnacle": 1347,
@@ -8795,7 +8807,8 @@
         "caesars": 1200,
         "bet365": 1400,
         "hardrock": 1600,
-        "kalshi": 1241
+        "kalshi": 1241,
+        "betmgm": 1400
       },
       "Vancouver Canucks": {
         "pinnacle": 25550,
@@ -8810,7 +8823,8 @@
         "bookmaker": 7500,
         "caesars": 20000,
         "bet365": 20000,
-        "hardrock": 50000
+        "hardrock": 50000,
+        "betmgm": 25000
       },
       "Vegas Golden Knights": {
         "pinnacle": 508,
@@ -8826,7 +8840,8 @@
         "caesars": 500,
         "bet365": 475,
         "hardrock": 475,
-        "kalshi": 425
+        "kalshi": 425,
+        "betmgm": 450
       },
       "Winnipeg Jets": {
         "pinnacle": 5273,
@@ -8842,7 +8857,8 @@
         "caesars": 5000,
         "bet365": 4000,
         "hardrock": 5000,
-        "kalshi": 4579
+        "kalshi": 4579,
+        "betmgm": 5000
       }
     },
     "cup": {
@@ -10502,7 +10518,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-09 17:57",
+    "last_updated": "2026-09-09 18:37",
     "book_updated": {
       "dazn": "2026-09-09",
       "fanduel": "2026-09-09",
