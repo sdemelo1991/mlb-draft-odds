@@ -8591,7 +8591,7 @@
         "dazn": 1100
       },
       "Anaheim Ducks": {
-        "pinnacle": 1431,
+        "pinnacle": 1432,
         "dazn": 1400,
         "fanduel": 1600,
         "kambi": 1500,
@@ -8608,7 +8608,7 @@
         "kalshi": 1241
       },
       "Calgary Flames": {
-        "pinnacle": 52256,
+        "pinnacle": 52289,
         "dazn": 29900,
         "fanduel": 10000,
         "kambi": 12500,
@@ -8624,7 +8624,7 @@
         "hardrock": 50000
       },
       "Chicago Blackhawks": {
-        "pinnacle": 12602,
+        "pinnacle": 12611,
         "dazn": 8900,
         "fanduel": 8000,
         "kambi": 7500,
@@ -8658,7 +8658,7 @@
         "kalshi": 280
       },
       "Dallas Stars": {
-        "pinnacle": 746,
+        "pinnacle": 747,
         "dazn": 750,
         "fanduel": 750,
         "kambi": 700,
@@ -8692,7 +8692,7 @@
         "kalshi": 529
       },
       "Los Angeles Kings": {
-        "pinnacle": 1798,
+        "pinnacle": 1799,
         "dazn": 1600,
         "fanduel": 1500,
         "kambi": 1700,
@@ -8709,7 +8709,7 @@
         "kalshi": 1775
       },
       "Minnesota Wild": {
-        "pinnacle": 691,
+        "pinnacle": 692,
         "dazn": 650,
         "fanduel": 600,
         "kambi": 700,
@@ -8726,7 +8726,7 @@
         "kalshi": 625
       },
       "Nashville Predators": {
-        "pinnacle": 5834,
+        "pinnacle": 5838,
         "dazn": 5900,
         "fanduel": 4500,
         "kambi": 6000,
@@ -8743,7 +8743,7 @@
         "kalshi": 4579
       },
       "San Jose Sharks": {
-        "pinnacle": 905,
+        "pinnacle": 906,
         "dazn": 1700,
         "fanduel": 1700,
         "kambi": 2100,
@@ -8760,7 +8760,7 @@
         "kalshi": 490
       },
       "Seattle Kraken": {
-        "pinnacle": 15113,
+        "pinnacle": 12610,
         "dazn": 14900,
         "fanduel": 8000,
         "kambi": 12500,
@@ -8777,7 +8777,7 @@
         "kalshi": 4579
       },
       "St. Louis Blues": {
-        "pinnacle": 6315,
+        "pinnacle": 6320,
         "dazn": 4900,
         "fanduel": 3500,
         "kambi": 4000,
@@ -8794,7 +8794,7 @@
         "kalshi": 3021
       },
       "Utah Mammoth": {
-        "pinnacle": 1345,
+        "pinnacle": 1346,
         "dazn": 1400,
         "fanduel": 1300,
         "kambi": 1300,
@@ -8811,7 +8811,7 @@
         "kalshi": 1241
       },
       "Vancouver Canucks": {
-        "pinnacle": 25525,
+        "pinnacle": 25542,
         "dazn": 24900,
         "fanduel": 10000,
         "kambi": 15000,
@@ -8844,7 +8844,7 @@
         "kalshi": 425
       },
       "Winnipeg Jets": {
-        "pinnacle": 5267,
+        "pinnacle": 5271,
         "dazn": 3400,
         "fanduel": 5500,
         "kambi": 4000,
@@ -10518,7 +10518,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-09 16:50",
+    "last_updated": "2026-09-09 17:47",
     "book_updated": {
       "dazn": "2026-09-09",
       "fanduel": "2026-09-09",
