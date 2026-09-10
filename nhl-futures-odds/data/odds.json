@@ -10518,7 +10518,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-10 12:28",
+    "last_updated": "2026-09-10 12:57",
     "book_updated": {
       "dazn": "2026-09-10",
       "fanduel": "2026-09-10",
@@ -10730,25 +10730,28 @@
         "ou": {},
         "plus": {
           "60": {
-            "fanduel": -210,
+            "fanduel": -185,
             "betmgm": -190,
             "draftkings": -145
           },
           "65": {
-            "fanduel": 135,
+            "fanduel": 125,
             "draftkings": 140
           },
           "70": {
-            "fanduel": 400,
+            "fanduel": 280,
             "betmgm": 400,
             "draftkings": 285
           },
           "75": {
-            "fanduel": 950
+            "fanduel": 650
           },
           "80": {
-            "fanduel": 2500,
+            "fanduel": 1600,
             "betmgm": 4000
+          },
+          "55": {
+            "fanduel": -450
           }
         }
       },
